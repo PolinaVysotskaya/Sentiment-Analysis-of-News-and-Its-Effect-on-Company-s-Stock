@@ -1,1 +1,1 @@
-# Sentiment-Analysis-of-News-and-Its-Effect-on-Company-s-Stock
+# Sentiment Analysis of News and Its Effect on Company’s Stock
