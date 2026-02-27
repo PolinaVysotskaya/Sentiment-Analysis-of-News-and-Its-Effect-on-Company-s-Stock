@@ -1,0 +1,2805 @@
+ticker,yahoo_symbol,company_name,sector,industry,exchange,quoteType
+TSLA,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,NMS,EQUITY
+GOOG,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,NMS,EQUITY
+DIS,DIS,The Walt Disney Company,Communication Services,Entertainment,NYQ,EQUITY
+BHFAL,BHFAL,"Brighthouse Financial, Inc.",,,NMS,EQUITY
+AAPL,AAPL,Apple Inc.,Technology,Consumer Electronics,NMS,EQUITY
+ACGLO,ACGLO,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,NMS,EQUITY
+INTC,INTC,Intel Corporation,Technology,Semiconductors,NMS,EQUITY
+PFFL,PFFL,ETRACS 2xMonthly Pay Leveraged Preferred Stock Index ETN,,,PCX,ETF
+MSFT,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,NMS,EQUITY
+UEVM,UEVM,VictoryShares Emerging Markets Value Momentum ETF,,,NGM,ETF
+UCIB,UCIB,UBS ETRACS UBS Bloomberg Constant Maturity Commodity Index (CMCI) Total Return ETN Series B,,,PCX,ETF
+WLDR,WLDR,Affinity World Leaders Equity ETF,,,BTS,ETF
+GDMA,GDMA,Gadsden Dynamic Multi-Asset ETF,,,BTS,ETF
+WTRE,WTRE,WisdomTree New Economy Real Estate ETF,,,PCX,ETF
+FSMB,FSMB,First Trust Short Duration Managed Municipal ETF,,,PCX,ETF
+HVT-A,HVT-A,"Haverty Furniture Companies, Inc.",Consumer Cyclical,Home Improvement Retail,NYQ,EQUITY
+UOCT,UOCT,Innovator U.S. Equity Ultra Buffer ETF October,,,BTS,ETF
+GTN-A,GTN-A,"Gray Media, Inc.",Communication Services,Broadcasting,NYQ,EQUITY
+ESGRO,ESGRO,Enstar Group Limited - Deposito,,,NMS,EQUITY
+WMT,WMT,Walmart Inc.,Consumer Defensive,Discount Stores,NMS,EQUITY
+BH-A,BH-A,Biglari Holdings Inc.,Consumer Cyclical,Restaurants,NYQ,EQUITY
+AGM-A,AGM-A,Federal Agricultural Mortgage Corporation,Financial Services,Credit Services,NYQ,EQUITY
+AKO-A,AKO-A,Embotelladora Andina S.A.,Consumer Defensive,Beverages - Non-Alcoholic,NYQ,EQUITY
+HCXY,HCXY,"Hercules Capital, Inc.",,,NYQ,EQUITY
+WSO-B,WSO-B,"Watsco, Inc.",Industrials,Industrial Distribution,NYQ,EQUITY
+QVCD,QVCD,"QVC, Inc. 6.375% Senior Secured",,,NYQ,EQUITY
+PBR-A,PBR-A,Petróleo Brasileiro S.A. - Petrobras,Energy,Oil & Gas Integrated,NYQ,EQUITY
+FFIU,FFIU,Fieldstone UVA Unconstrained Medium-Term Fixed Income ETF,,,PCX,ETF
+XOM,XOM,Exxon Mobil Corporation,Energy,Oil & Gas Integrated,NYQ,EQUITY
+CIG-C,CIG-C,Companhia Energética de Minas Gerais - CEMIG,Utilities,Utilities - Diversified,NYQ,EQUITY
+HDMV,HDMV,First Trust Horizon Managed Volatility Developed International ETF,,,PCX,ETF
+ARGD,ARGD,,,,,
+AKO-B,AKO-B,Embotelladora Andina S.A.,Consumer Defensive,Beverages - Non-Alcoholic,NYQ,EQUITY
+AMD,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,NMS,EQUITY
+CVX,CVX,Chevron Corporation,Energy,Oil & Gas Integrated,NYQ,EQUITY
+GS,GS,"The Goldman Sachs Group, Inc.",Financial Services,Capital Markets,NYQ,EQUITY
+OXLCM,OXLCM,,,,,
+T,T,AT&T Inc.,Communication Services,Telecom Services,NYQ,EQUITY
+BABA,BABA,Alibaba Group Holding Limited,Consumer Cyclical,Internet Retail,NYQ,EQUITY
+BA,BA,The Boeing Company,Industrials,Aerospace & Defense,NYQ,EQUITY
+NYMTN,NYMTN,,,,,
+AAL,AAL,American Airlines Group Inc.,Industrials,Airlines,NMS,EQUITY
+AMZN,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,NMS,EQUITY
+GILD,GILD,"Gilead Sciences, Inc.",Healthcare,Drug Manufacturers - General,NMS,EQUITY
+WFC,WFC,Wells Fargo & Company,Financial Services,Banks - Diversified,NYQ,EQUITY
+NIO,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,NYQ,EQUITY
+EBR-B,EBR-B,,,,,
+MS,MS,Morgan Stanley,Financial Services,Capital Markets,NYQ,EQUITY
+MRK,MRK,"Merck & Co., Inc.",Healthcare,Drug Manufacturers - General,NYQ,EQUITY
+CRM,CRM,"Salesforce, Inc.",Technology,Software - Application,NYQ,EQUITY
+KO,KO,The Coca-Cola Company,Consumer Defensive,Beverages - Non-Alcoholic,NYQ,EQUITY
+OXSQL,OXSQL,,,,,
+OXY,OXY,Occidental Petroleum Corporation,Energy,Oil & Gas E&P,NYQ,EQUITY
+GME,GME,GameStop Corp.,Consumer Cyclical,Specialty Retail,NYQ,EQUITY
+QCOM,QCOM,QUALCOMM Incorporated,Technology,Semiconductors,NMS,EQUITY
+WBA,WBA,,,,,
+FDX,FDX,FedEx Corporation,Industrials,Integrated Freight & Logistics,NYQ,EQUITY
+V,V,Visa Inc.,Financial Services,Credit Services,NYQ,EQUITY
+QQQ,QQQ,Invesco QQQ Trust,,,NGM,ETF
+AMC,AMC,"AMC Entertainment Holdings, Inc.",Communication Services,Entertainment,NYQ,EQUITY
+COST,COST,Costco Wholesale Corporation,Consumer Defensive,Discount Stores,NMS,EQUITY
+NKE,NKE,"NIKE, Inc.",Consumer Cyclical,Footwear & Accessories,NYQ,EQUITY
+MU,MU,"Micron Technology, Inc.",Technology,Semiconductors,NMS,EQUITY
+NVAX,NVAX,"Novavax, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+ABBV,ABBV,AbbVie Inc.,Healthcare,Drug Manufacturers - General,NYQ,EQUITY
+GE,GE,GE Aerospace,Industrials,Aerospace & Defense,NYQ,EQUITY
+NEE,NEE,"NextEra Energy, Inc.",Utilities,Utilities - Regulated Electric,NYQ,EQUITY
+CMCSA,CMCSA,Comcast Corporation,Communication Services,Telecom Services,NMS,EQUITY
+SPY,SPY,State Street SPDR S&P 500 ETF Trust,,,PCX,ETF
+ADBE,ADBE,Adobe Inc.,Technology,Software - Application,NMS,EQUITY
+TSM,TSM,Taiwan Semiconductor Manufacturing Company Limited,Technology,Semiconductors,NYQ,EQUITY
+BHP,BHP,BHP Group Limited,Basic Materials,Other Industrial Metals & Mining,NYQ,EQUITY
+RSP,RSP,Invesco S&P 500 Equal Weight ETF,,,PCX,ETF
+PEP,PEP,"PepsiCo, Inc.",Consumer Defensive,Beverages - Non-Alcoholic,NMS,EQUITY
+ZIONL,ZIONL,,,,,
+C,C,Citigroup Inc.,Financial Services,Banks - Diversified,NYQ,EQUITY
+BIDU,BIDU,"Baidu, Inc.",Communication Services,Internet Content & Information,NMS,EQUITY
+CAT,CAT,Caterpillar Inc.,Industrials,Farm & Heavy Construction Machinery,NYQ,EQUITY
+VRTX,VRTX,Vertex Pharmaceuticals Incorporated,Healthcare,Biotechnology,NMS,EQUITY
+BX,BX,Blackstone Inc.,Financial Services,Asset Management,NYQ,EQUITY
+XLK,XLK,State Street Technology Select Sector SPDR ETF,,,PCX,ETF
+CGC,CGC,Canopy Growth Corporation,Healthcare,Drug Manufacturers - Specialty & Generic,NMS,EQUITY
+ORCL,ORCL,Oracle Corporation,Technology,Software - Infrastructure,NYQ,EQUITY
+TGT,TGT,Target Corporation,Consumer Defensive,Discount Stores,NYQ,EQUITY
+PCG,PCG,PG&E Corporation,Utilities,Utilities - Regulated Electric,NYQ,EQUITY
+CMG,CMG,"Chipotle Mexican Grill, Inc.",Consumer Cyclical,Restaurants,NYQ,EQUITY
+COP,COP,ConocoPhillips,Energy,Oil & Gas E&P,NYQ,EQUITY
+PANW,PANW,"Palo Alto Networks, Inc.",Technology,Software - Infrastructure,NMS,EQUITY
+TXN,TXN,Texas Instruments Incorporated,Technology,Semiconductors,NMS,EQUITY
+AIR,AIR,AAR Corp.,Industrials,Aerospace & Defense,NYQ,EQUITY
+ABT,ABT,Abbott Laboratories,Healthcare,Medical Devices,NYQ,EQUITY
+GLD,GLD,SPDR Gold Shares,,,PCX,ETF
+EA,EA,Electronic Arts Inc.,Communication Services,Electronic Gaming & Multimedia,NMS,EQUITY
+ACB,ACB,Aurora Cannabis Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,NCM,EQUITY
+BIIB,BIIB,Biogen Inc.,Healthcare,Drug Manufacturers - General,NMS,EQUITY
+AMGN,AMGN,Amgen Inc.,Healthcare,Drug Manufacturers - General,NMS,EQUITY
+ANET,ANET,"Arista Networks, Inc.",Technology,Computer Hardware,NYQ,EQUITY
+HAL,HAL,Halliburton Company,Energy,Oil & Gas Equipment & Services,NYQ,EQUITY
+ALB,ALB,Albemarle Corporation,Basic Materials,Specialty Chemicals,NYQ,EQUITY
+MOG-B,MOG-B,Moog Inc.,Industrials,Aerospace & Defense,NYQ,EQUITY
+PLUG,PLUG,Plug Power Inc.,Industrials,Electrical Equipment & Parts,NCM,EQUITY
+JPM,JPM,JPMorgan Chase & Co.,Financial Services,Banks - Diversified,NYQ,EQUITY
+GSK,GSK,GSK plc,Healthcare,Drug Manufacturers - General,NYQ,EQUITY
+TMUS,TMUS,"T-Mobile US, Inc.",Communication Services,Telecom Services,NMS,EQUITY
+UPS,UPS,"United Parcel Service, Inc.",Industrials,Integrated Freight & Logistics,NYQ,EQUITY
+ENPH,ENPH,"Enphase Energy, Inc.",Technology,Solar,NGM,EQUITY
+ENB,ENB,Enbridge Inc.,Energy,Oil & Gas Midstream,NYQ,EQUITY
+KSS,KSS,Kohl's Corporation,Consumer Cyclical,Department Stores,NYQ,EQUITY
+NEM,NEM,Newmont Corporation,Basic Materials,Gold,NYQ,EQUITY
+ROKU,ROKU,"Roku, Inc.",Communication Services,Entertainment,NMS,EQUITY
+EBAY,EBAY,eBay Inc.,Consumer Cyclical,Internet Retail,NMS,EQUITY
+DPZ,DPZ,"Domino's Pizza, Inc.",Consumer Cyclical,Restaurants,NMS,EQUITY
+KKR,KKR,KKR & Co. Inc.,Financial Services,Asset Management,NYQ,EQUITY
+NOW,NOW,"ServiceNow, Inc.",Technology,Software - Application,NYQ,EQUITY
+TDOC,TDOC,"Teladoc Health, Inc.",Healthcare,Health Information Services,NYQ,EQUITY
+AMAT,AMAT,"Applied Materials, Inc.",Technology,Semiconductor Equipment & Materials,NMS,EQUITY
+ULTA,ULTA,"Ulta Beauty, Inc.",Consumer Cyclical,Specialty Retail,NMS,EQUITY
+KEY,KEY,KeyCorp,Financial Services,Banks - Regional,NYQ,EQUITY
+USB,USB,U.S. Bancorp,Financial Services,Banks - Regional,NYQ,EQUITY
+NVS,NVS,Novartis AG,Healthcare,Drug Manufacturers - General,NYQ,EQUITY
+DE,DE,Deere & Company,Industrials,Farm & Heavy Construction Machinery,NYQ,EQUITY
+TSN,TSN,"Tyson Foods, Inc.",Consumer Defensive,Farm Products,NYQ,EQUITY
+DVN,DVN,Devon Energy Corporation,Energy,Oil & Gas E&P,NYQ,EQUITY
+CI,CI,The Cigna Group,Healthcare,Healthcare Plans,NYQ,EQUITY
+PXD,PXD,,,,,NONE
+DLTR,DLTR,"Dollar Tree, Inc.",Consumer Defensive,Discount Stores,NMS,EQUITY
+AMT,AMT,American Tower Corporation,Real Estate,REIT - Specialty,NYQ,EQUITY
+ACN,ACN,Accenture plc,Technology,Information Technology Services,NYQ,EQUITY
+EOG,EOG,"EOG Resources, Inc.",Energy,Oil & Gas E&P,NYQ,EQUITY
+BKR,BKR,Baker Hughes Company,Energy,Oil & Gas Equipment & Services,NMS,EQUITY
+XLF,XLF,State Street Financial Select Sector SPDR ETF,,,PCX,ETF
+TJX,TJX,"The TJX Companies, Inc.",Consumer Cyclical,Apparel Retail,NYQ,EQUITY
+SPOT,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,NYQ,EQUITY
+GOLD,GOLD,"Gold.com, Inc.",Financial Services,Capital Markets,NYQ,EQUITY
+F,F,Ford Motor Company,Consumer Cyclical,Auto Manufacturers,NYQ,EQUITY
+TSCO,TSCO,Tractor Supply Company,Consumer Cyclical,Specialty Retail,NMS,EQUITY
+FTNT,FTNT,"Fortinet, Inc.",Technology,Software - Infrastructure,NMS,EQUITY
+W,W,Wayfair Inc.,Consumer Cyclical,Internet Retail,NYQ,EQUITY
+D,D,"Dominion Energy, Inc.",Utilities,Utilities - Regulated Electric,NYQ,EQUITY
+DUK,DUK,Duke Energy Corporation,Utilities,Utilities - Regulated Electric,NYQ,EQUITY
+ALK,ALK,"Alaska Air Group, Inc.",Industrials,Airlines,NYQ,EQUITY
+HUM,HUM,Humana Inc.,Healthcare,Healthcare Plans,NYQ,EQUITY
+NKLA,NKLA,Nikola Corporation,,,NGM,EQUITY
+DXCM,DXCM,"DexCom, Inc.",Healthcare,Medical Devices,NMS,EQUITY
+DAL,DAL,"Delta Air Lines, Inc.",Industrials,Airlines,NYQ,EQUITY
+WDC,WDC,Western Digital Corporation,Technology,Computer Hardware,NMS,EQUITY
+GCC,GCC,WisdomTree Enhanced Commodity Strategy Fund,,,PCX,ETF
+ADI,ADI,"Analog Devices, Inc.",Technology,Semiconductors,NMS,EQUITY
+HPQ,HPQ,HP Inc.,Technology,Computer Hardware,NYQ,EQUITY
+CSX,CSX,CSX Corporation,Industrials,Railroads,NMS,EQUITY
+XLP,XLP,State Street Consumer Staples Select Sector SPDR ETF,,,PCX,ETF
+FL,FL,,,,,NONE
+BKNG,BKNG,Booking Holdings Inc.,Consumer Cyclical,Travel Services,NMS,EQUITY
+TZA,TZA,Direxion Daily Small Cap Bear 3X Shares,,,PCX,ETF
+DHR,DHR,Danaher Corporation,Healthcare,Diagnostics & Research,NYQ,EQUITY
+INO,INO,"Inovio Pharmaceuticals, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+DHI,DHI,"D.R. Horton, Inc.",Consumer Cyclical,Residential Construction,NYQ,EQUITY
+XLU,XLU,State Street Utilities Select Sector SPDR ETF,,,PCX,ETF
+FANG,FANG,"Diamondback Energy, Inc.",Energy,Oil & Gas E&P,NMS,EQUITY
+XLY,XLY,State Street Consumer Discretionary Select Sector SPDR ETF,,,PCX,ETF
+ANF,ANF,Abercrombie & Fitch Co.,Consumer Cyclical,Apparel Retail,NYQ,EQUITY
+WDAY,WDAY,"Workday, Inc.",Technology,Software - Application,NMS,EQUITY
+AEO,AEO,"American Eagle Outfitters, Inc.",Consumer Cyclical,Apparel Retail,NYQ,EQUITY
+SPCE,SPCE,"Virgin Galactic Holdings, Inc.",Industrials,Aerospace & Defense,NYQ,EQUITY
+MRVL,MRVL,"Marvell Technology, Inc.",Technology,Semiconductors,NMS,EQUITY
+VLO,VLO,Valero Energy Corporation,Energy,Oil & Gas Refining & Marketing,NYQ,EQUITY
+ASML,ASML,ASML Holding N.V.,Technology,Semiconductor Equipment & Materials,NMS,EQUITY
+NE,NE,Noble Corporation plc,Energy,Oil & Gas Drilling,NYQ,EQUITY
+DKS,DKS,"DICK'S Sporting Goods, Inc.",Consumer Cyclical,Specialty Retail,NYQ,EQUITY
+VEEV,VEEV,Veeva Systems Inc.,Healthcare,Health Information Services,NYQ,EQUITY
+BUD,BUD,Anheuser-Busch InBev SA/NV,Consumer Defensive,Beverages - Brewers,NYQ,EQUITY
+EL,EL,The Estée Lauder Companies Inc.,Consumer Defensive,Household & Personal Products,NYQ,EQUITY
+CLX,CLX,The Clorox Company,Consumer Defensive,Household & Personal Products,NYQ,EQUITY
+XOP,XOP,State Street SPDR S&P Oil & Gas Exploration & Production ETF,,,PCX,ETF
+USO,USO,"United States Oil Fund, LP",,,PCX,ETF
+GIS,GIS,"General Mills, Inc.",Consumer Defensive,Packaged Foods,NYQ,EQUITY
+NOC,NOC,Northrop Grumman Corporation,Industrials,Aerospace & Defense,NYQ,EQUITY
+BSX,BSX,Boston Scientific Corporation,Healthcare,Medical Devices,NYQ,EQUITY
+LLY,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,NYQ,EQUITY
+EQNR,EQNR,Equinor ASA,Energy,Oil & Gas Integrated,NYQ,EQUITY
+APO,APO,"Apollo Global Management, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+TWLO,TWLO,Twilio Inc.,Technology,Software - Infrastructure,NYQ,EQUITY
+CAG,CAG,"Conagra Brands, Inc.",Consumer Defensive,Packaged Foods,NYQ,EQUITY
+PBR,PBR,Petróleo Brasileiro S.A. - Petrobras,Energy,Oil & Gas Integrated,NYQ,EQUITY
+BK,BK,The Bank of New York Mellon Corporation,Financial Services,Banks - Diversified,NYQ,EQUITY
+NVO,NVO,Novo Nordisk A/S,Healthcare,Drug Manufacturers - General,NYQ,EQUITY
+PGR,PGR,The Progressive Corporation,Financial Services,Insurance - Property & Casualty,NYQ,EQUITY
+KHC,KHC,The Kraft Heinz Company,Consumer Defensive,Packaged Foods,NMS,EQUITY
+BBY,BBY,"Best Buy Co., Inc.",Consumer Cyclical,Specialty Retail,NYQ,EQUITY
+AI,AI,"C3.ai, Inc.",Technology,Software - Infrastructure,NYQ,EQUITY
+HAS,HAS,"Hasbro, Inc.",Consumer Cyclical,Leisure,NMS,EQUITY
+PDD,PDD,PDD Holdings Inc.,Consumer Cyclical,Internet Retail,NMS,EQUITY
+CL,CL,Colgate-Palmolive Company,Consumer Defensive,Household & Personal Products,NYQ,EQUITY
+TRV,TRV,"The Travelers Companies, Inc.",Financial Services,Insurance - Property & Casualty,NYQ,EQUITY
+SU,SU,Suncor Energy Inc.,Energy,Oil & Gas Integrated,NYQ,EQUITY
+CME,CME,CME Group Inc.,Financial Services,Financial Data & Stock Exchanges,NMS,EQUITY
+TEVA,TEVA,Teva Pharmaceutical Industries Limited,Healthcare,Drug Manufacturers - Specialty & Generic,NYQ,EQUITY
+EPD,EPD,Enterprise Products Partners L.P.,Energy,Oil & Gas Midstream,NYQ,EQUITY
+FSLR,FSLR,"First Solar, Inc.",Technology,Solar,NMS,EQUITY
+UDN,UDN,Invesco DB US Dollar Index Bearish Fund,,,PCX,ETF
+SPLK,SPLK,,,,,NONE
+X,X,,,,,NONE
+KMB,KMB,Kimberly-Clark Corporation,Consumer Defensive,Household & Personal Products,NMS,EQUITY
+EXPE,EXPE,"Expedia Group, Inc.",Consumer Cyclical,Travel Services,NMS,EQUITY
+ALGN,ALGN,"Align Technology, Inc.",Healthcare,Medical Instruments & Supplies,NMS,EQUITY
+TM,TM,Toyota Motor Corporation,Consumer Cyclical,Auto Manufacturers,NYQ,EQUITY
+CPB,CPB,The Campbell's Company,Consumer Defensive,Packaged Foods,NMS,EQUITY
+NSC,NSC,Norfolk Southern Corporation,Industrials,Railroads,NYQ,EQUITY
+UNP,UNP,Union Pacific Corporation,Industrials,Railroads,NYQ,EQUITY
+COF,COF,Capital One Financial Corporation,Financial Services,Credit Services,NYQ,EQUITY
+PRU,PRU,"Prudential Financial, Inc.",Financial Services,Insurance - Life,NYQ,EQUITY
+TTWO,TTWO,"Take-Two Interactive Software, Inc.",Communication Services,Electronic Gaming & Multimedia,NMS,EQUITY
+DISH,DISH,,,,,NONE
+ADM,ADM,Archer-Daniels-Midland Company,Consumer Defensive,Farm Products,NYQ,EQUITY
+NDAQ,NDAQ,"Nasdaq, Inc.",Financial Services,Financial Data & Stock Exchanges,NMS,EQUITY
+SYK,SYK,Stryker Corporation,Healthcare,Medical Devices,NYQ,EQUITY
+AVGO,AVGO,Broadcom Inc.,Technology,Semiconductors,NMS,EQUITY
+MOS,MOS,The Mosaic Company,Basic Materials,Agricultural Inputs,NYQ,EQUITY
+SPWR,SPWR,SunPower Inc.,Technology,Solar,NGM,EQUITY
+FIVE,FIVE,"Five Below, Inc.",Consumer Cyclical,Specialty Retail,NMS,EQUITY
+ADSK,ADSK,"Autodesk, Inc.",Technology,Software - Application,NMS,EQUITY
+OKE,OKE,"ONEOK, Inc.",Energy,Oil & Gas Midstream,NYQ,EQUITY
+HOG,HOG,"Harley-Davidson, Inc.",Consumer Cyclical,Recreational Vehicles,NYQ,EQUITY
+DOCU,DOCU,"DocuSign, Inc.",Technology,Software - Application,NMS,EQUITY
+CLF,CLF,Cleveland-Cliffs Inc.,Basic Materials,Steel,NYQ,EQUITY
+IAU,IAU,iShares Gold Trust,,,PCX,ETF
+ZS,ZS,"Zscaler, Inc.",Technology,Software - Infrastructure,NMS,EQUITY
+EQT,EQT,EQT Corporation,Energy,Oil & Gas E&P,NYQ,EQUITY
+CCI,CCI,Crown Castle Inc.,Real Estate,REIT - Specialty,NYQ,EQUITY
+TRP,TRP,TC Energy Corporation,Energy,Oil & Gas Midstream,NYQ,EQUITY
+VGIT,VGIT,Vanguard Intermediate-Term Treasury Index Fund ETF Shares,,,NGM,ETF
+PENN,PENN,"PENN Entertainment, Inc.",Consumer Cyclical,Resorts & Casinos,NMS,EQUITY
+CHTR,CHTR,"Charter Communications, Inc.",Communication Services,Telecom Services,NMS,EQUITY
+RL,RL,Ralph Lauren Corporation,Consumer Cyclical,Apparel Manufacturing,NYQ,EQUITY
+PSX,PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,NYQ,EQUITY
+EW,EW,Edwards Lifesciences Corporation,Healthcare,Medical Devices,NYQ,EQUITY
+LUV,LUV,Southwest Airlines Co.,Industrials,Airlines,NYQ,EQUITY
+NUE,NUE,Nucor Corporation,Basic Materials,Steel,NYQ,EQUITY
+INDA,INDA,iShares MSCI India ETF,,,BTS,ETF
+QSR,QSR,Restaurant Brands International Inc.,Consumer Cyclical,Restaurants,NYQ,EQUITY
+CMI,CMI,Cummins Inc.,Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+VNQ,VNQ,Vanguard Real Estate Index Fund ETF Shares,,,PCX,ETF
+ARKK,ARKK,ARK Innovation ETF,,,BTS,ETF
+URBN,URBN,"Urban Outfitters, Inc.",Consumer Cyclical,Apparel Retail,NMS,EQUITY
+DFS,DFS,,,,,NONE
+TD,TD,The Toronto-Dominion Bank,Financial Services,Banks - Diversified,NYQ,EQUITY
+CDNS,CDNS,"Cadence Design Systems, Inc.",Technology,Software - Application,NMS,EQUITY
+OKTA,OKTA,"Okta, Inc.",Technology,Software - Infrastructure,NMS,EQUITY
+SYY,SYY,Sysco Corporation,Consumer Defensive,Food Distribution,NYQ,EQUITY
+EMR,EMR,Emerson Electric Co.,Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+LNG,LNG,"Cheniere Energy, Inc.",Energy,Oil & Gas Midstream,NYQ,EQUITY
+AGNC,AGNC,AGNC Investment Corp.,Real Estate,REIT - Mortgage,NMS,EQUITY
+DB,DB,Deutsche Bank Aktiengesellschaft,Financial Services,Banks - Regional,NYQ,EQUITY
+DD,DD,"DuPont de Nemours, Inc.",Basic Materials,Specialty Chemicals,NYQ,EQUITY
+NTES,NTES,"NetEase, Inc.",Communication Services,Electronic Gaming & Multimedia,NMS,EQUITY
+FCG,FCG,First Trust Natural Gas ETF,,,PCX,ETF
+INCY,INCY,Incyte Corporation,Healthcare,Biotechnology,NMS,EQUITY
+EFX,EFX,Equifax Inc.,Industrials,Consulting Services,NYQ,EQUITY
+BB,BB,BlackBerry Limited,Technology,Software - Infrastructure,NYQ,EQUITY
+HCA,HCA,"HCA Healthcare, Inc.",Healthcare,Medical Care Facilities,NYQ,EQUITY
+AIG,AIG,"American International Group, Inc.",Financial Services,Insurance - Diversified,NYQ,EQUITY
+CG,CG,The Carlyle Group Inc.,Financial Services,Asset Management,NMS,EQUITY
+XBI,XBI,State Street SPDR S&P Biotech ETF,,,PCX,ETF
+AMN,AMN,"AMN Healthcare Services, Inc.",Healthcare,Medical Care Facilities,NYQ,EQUITY
+CVNA,CVNA,Carvana Co.,Consumer Cyclical,Auto & Truck Dealerships,NYQ,EQUITY
+VALE,VALE,Vale S.A.,Basic Materials,Other Industrial Metals & Mining,NYQ,EQUITY
+RY,RY,Royal Bank of Canada,Financial Services,Banks - Diversified,NYQ,EQUITY
+APA,APA,APA Corporation,Energy,Oil & Gas E&P,NMS,EQUITY
+BAX,BAX,Baxter International Inc.,Healthcare,Medical Instruments & Supplies,NYQ,EQUITY
+FIS,FIS,"Fidelity National Information Services, Inc.",Technology,Information Technology Services,NYQ,EQUITY
+GPN,GPN,Global Payments Inc.,Industrials,Specialty Business Services,NYQ,EQUITY
+UBS,UBS,UBS Group AG,Financial Services,Banks - Diversified,NYQ,EQUITY
+MNST,MNST,Monster Beverage Corporation,Consumer Defensive,Beverages - Non-Alcoholic,NMS,EQUITY
+AA,AA,Alcoa Corporation,Basic Materials,Aluminum,NYQ,EQUITY
+CRSP,CRSP,CRISPR Therapeutics AG,Healthcare,Biotechnology,NGM,EQUITY
+FAST,FAST,Fastenal Company,Industrials,Industrial Distribution,NMS,EQUITY
+PBF,PBF,PBF Energy Inc.,Energy,Oil & Gas Refining & Marketing,NYQ,EQUITY
+DELL,DELL,Dell Technologies Inc.,Technology,Computer Hardware,NYQ,EQUITY
+ETN,ETN,Eaton Corporation plc,Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+EWU,EWU,iShares MSCI United Kingdom ETF,,,PCX,ETF
+PLAY,PLAY,"Dave & Buster's Entertainment, Inc.",Communication Services,Entertainment,NMS,EQUITY
+ERIC,ERIC,Telefonaktiebolaget LM Ericsson (publ),Technology,Communication Equipment,NMS,EQUITY
+PHM,PHM,"PulteGroup, Inc.",Consumer Cyclical,Residential Construction,NYQ,EQUITY
+ALL,ALL,The Allstate Corporation,Financial Services,Insurance - Property & Casualty,NYQ,EQUITY
+TROW,TROW,"T. Rowe Price Group, Inc.",Financial Services,Asset Management,NMS,EQUITY
+DVA,DVA,DaVita Inc.,Healthcare,Medical Care Facilities,NYQ,EQUITY
+CVE,CVE,Cenovus Energy Inc.,Energy,Oil & Gas Integrated,NYQ,EQUITY
+SWK,SWK,"Stanley Black & Decker, Inc.",Industrials,Tools & Accessories,NYQ,EQUITY
+AR,AR,Antero Resources Corporation,Energy,Oil & Gas E&P,NYQ,EQUITY
+WEN,WEN,The Wendy's Company,Consumer Cyclical,Restaurants,NMS,EQUITY
+PVH,PVH,PVH Corp.,Consumer Cyclical,Apparel Manufacturing,NYQ,EQUITY
+KGC,KGC,Kinross Gold Corporation,Basic Materials,Gold,NYQ,EQUITY
+REGN,REGN,"Regeneron Pharmaceuticals, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+XRT,XRT,State Street SPDR S&P Retail ETF,,,PCX,ETF
+SPR,SPR,,,,,
+HSBC,HSBC,HSBC Holdings plc,Financial Services,Banks - Diversified,NYQ,EQUITY
+HOLX,HOLX,"Hologic, Inc.",Healthcare,Medical Instruments & Supplies,NMS,EQUITY
+ED,ED,"Consolidated Edison, Inc.",Utilities,Utilities - Regulated Electric,NYQ,EQUITY
+CSIQ,CSIQ,Canadian Solar Inc.,Technology,Solar,NMS,EQUITY
+DRI,DRI,"Darden Restaurants, Inc.",Consumer Cyclical,Restaurants,NYQ,EQUITY
+AFL,AFL,Aflac Incorporated,Financial Services,Insurance - Life,NYQ,EQUITY
+NLY,NLY,"Annaly Capital Management, Inc.",Real Estate,REIT - Mortgage,NYQ,EQUITY
+BIP,BIP,Brookfield Infrastructure Partners L.P.,Utilities,Utilities - Diversified,NYQ,EQUITY
+CFG,CFG,"Citizens Financial Group, Inc.",Financial Services,Banks - Regional,NYQ,EQUITY
+BEN,BEN,"Franklin Resources, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+JD,JD,"JD.com, Inc.",Consumer Cyclical,Internet Retail,NMS,EQUITY
+MTB,MTB,M&T Bank Corporation,Financial Services,Banks - Regional,NYQ,EQUITY
+BEP,BEP,Brookfield Renewable Partners L.P.,Utilities,Utilities - Renewable,NYQ,EQUITY
+CAR,CAR,"Avis Budget Group, Inc.",Industrials,Rental & Leasing Services,NMS,EQUITY
+PSA,PSA,Public Storage,Real Estate,REIT - Industrial,NYQ,EQUITY
+PLD,PLD,"Prologis, Inc.",Real Estate,REIT - Industrial,NYQ,EQUITY
+NCLH,NCLH,Norwegian Cruise Line Holdings Ltd.,Consumer Cyclical,Travel Services,NYQ,EQUITY
+ALKS,ALKS,Alkermes plc,Healthcare,Drug Manufacturers - Specialty & Generic,NMS,EQUITY
+WSM,WSM,"Williams-Sonoma, Inc.",Consumer Cyclical,Specialty Retail,NYQ,EQUITY
+AKAM,AKAM,"Akamai Technologies, Inc.",Technology,Software - Infrastructure,NMS,EQUITY
+HP,HP,"Helmerich & Payne, Inc.",Energy,Oil & Gas Drilling,NYQ,EQUITY
+AAP,AAP,"Advance Auto Parts, Inc.",Consumer Cyclical,Auto Parts,NYQ,EQUITY
+FITB,FITB,Fifth Third Bancorp,Financial Services,Banks - Regional,NMS,EQUITY
+CF,CF,"CF Industries Holdings, Inc.",Basic Materials,Agricultural Inputs,NYQ,EQUITY
+FNV,FNV,Franco-Nevada Corporation,Basic Materials,Gold,NYQ,EQUITY
+QRVO,QRVO,"Qorvo, Inc.",Technology,Semiconductors,NMS,EQUITY
+AG,AG,First Majestic Silver Corp.,Basic Materials,Silver,NYQ,EQUITY
+NTAP,NTAP,"NetApp, Inc.",Technology,Software - Infrastructure,NMS,EQUITY
+LOW,LOW,"Lowe's Companies, Inc.",Consumer Cyclical,Home Improvement Retail,NYQ,EQUITY
+FXI,FXI,iShares China Large-Cap ETF,,,PCX,ETF
+MTCH,MTCH,"Match Group, Inc.",Communication Services,Internet Content & Information,NMS,EQUITY
+CNQ,CNQ,Canadian Natural Resources Limited,Energy,Oil & Gas E&P,NYQ,EQUITY
+MT,MT,ArcelorMittal S.A.,Basic Materials,Steel,NYQ,EQUITY
+DGX,DGX,Quest Diagnostics Incorporated,Healthcare,Diagnostics & Research,NYQ,EQUITY
+MPW,MPW,"Medical Properties Trust, Inc.",Real Estate,REIT - Healthcare Facilities,NYQ,EQUITY
+DECK,DECK,Deckers Outdoor Corporation,Consumer Cyclical,Footwear & Accessories,NYQ,EQUITY
+ARE,ARE,"Alexandria Real Estate Equities, Inc.",Real Estate,REIT - Office,NYQ,EQUITY
+URI,URI,"United Rentals, Inc.",Industrials,Rental & Leasing Services,NYQ,EQUITY
+BURL,BURL,"Burlington Stores, Inc.",Consumer Cyclical,Apparel Retail,NYQ,EQUITY
+ZTS,ZTS,Zoetis Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,NYQ,EQUITY
+ON,ON,ON Semiconductor Corporation,Technology,Semiconductors,NMS,EQUITY
+CSL,CSL,Carlisle Companies Incorporated,Industrials,Building Products & Equipment,NYQ,EQUITY
+BLDR,BLDR,"Builders FirstSource, Inc.",Industrials,Building Products & Equipment,NYQ,EQUITY
+ORLY,ORLY,"O'Reilly Automotive, Inc.",Consumer Cyclical,Auto Parts,NMS,EQUITY
+CAH,CAH,"Cardinal Health, Inc.",Healthcare,Medical Distribution,NYQ,EQUITY
+CIEN,CIEN,Ciena Corporation,Technology,Communication Equipment,NYQ,EQUITY
+AN,AN,"AutoNation, Inc.",Consumer Cyclical,Auto & Truck Dealerships,NYQ,EQUITY
+AXP,AXP,American Express Company,Financial Services,Credit Services,NYQ,EQUITY
+CP,CP,Canadian Pacific Kansas City Limited,Industrials,Railroads,NYQ,EQUITY
+HES,HES,,,,,
+WPC,WPC,W. P. Carey Inc.,Real Estate,REIT - Diversified,NYQ,EQUITY
+COTY,COTY,Coty Inc.,Consumer Defensive,Household & Personal Products,NYQ,EQUITY
+FTI,FTI,TechnipFMC plc,Energy,Oil & Gas Equipment & Services,NYQ,EQUITY
+DOV,DOV,Dover Corporation,Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+FCEL,FCEL,"FuelCell Energy, Inc.",Industrials,Electrical Equipment & Parts,NGM,EQUITY
+GIII,GIII,"G-III Apparel Group, Ltd.",Consumer Cyclical,Apparel Manufacturing,NMS,EQUITY
+TRIP,TRIP,"Tripadvisor, Inc.",Consumer Cyclical,Travel Services,NMS,EQUITY
+PAYX,PAYX,"Paychex, Inc.",Technology,Software - Application,NMS,EQUITY
+GRMN,GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,NYQ,EQUITY
+ARCC,ARCC,Ares Capital Corporation,Financial Services,Asset Management,NMS,EQUITY
+CMC,CMC,Commercial Metals Company,Basic Materials,Steel,NYQ,EQUITY
+BG,BG,Bunge Global SA,Consumer Defensive,Farm Products,NYQ,EQUITY
+VIPS,VIPS,Vipshop Holdings Limited,Consumer Cyclical,Internet Retail,NYQ,EQUITY
+MSI,MSI,"Motorola Solutions, Inc.",Technology,Communication Equipment,NYQ,EQUITY
+RRC,RRC,Range Resources Corporation,Energy,Oil & Gas E&P,NYQ,EQUITY
+VTR,VTR,"Ventas, Inc.",Real Estate,REIT - Healthcare Facilities,NYQ,EQUITY
+BTI,BTI,British American Tobacco p.l.c.,Consumer Defensive,Tobacco,NYQ,EQUITY
+LDOS,LDOS,"Leidos Holdings, Inc.",Technology,Information Technology Services,NYQ,EQUITY
+HPE,HPE,Hewlett Packard Enterprise Company,Technology,Communication Equipment,NYQ,EQUITY
+HSIC,HSIC,"Henry Schein, Inc.",Healthcare,Medical Distribution,NMS,EQUITY
+WHR,WHR,Whirlpool Corporation,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NYQ,EQUITY
+AMTD,AMTD,AMTD IDEA Group,Financial Services,Asset Management,NYQ,EQUITY
+BOOT,BOOT,"Boot Barn Holdings, Inc.",Consumer Cyclical,Apparel Retail,NYQ,EQUITY
+BMO,BMO,Bank of Montreal,Financial Services,Banks - Diversified,NYQ,EQUITY
+MUSA,MUSA,Murphy USA Inc.,Consumer Cyclical,Specialty Retail,NYQ,EQUITY
+ROP,ROP,"Roper Technologies, Inc.",Technology,Software - Application,NMS,EQUITY
+RNG,RNG,"RingCentral, Inc.",Technology,Software - Application,NYQ,EQUITY
+BNS,BNS,The Bank of Nova Scotia,Financial Services,Banks - Diversified,NYQ,EQUITY
+H,H,Hyatt Hotels Corporation,Consumer Cyclical,Lodging,NYQ,EQUITY
+XEL,XEL,Xcel Energy Inc.,Utilities,Utilities - Regulated Electric,NMS,EQUITY
+RMD,RMD,ResMed Inc.,Healthcare,Medical Instruments & Supplies,NYQ,EQUITY
+HAE,HAE,Haemonetics Corporation,Healthcare,Medical Devices,NYQ,EQUITY
+VTI,VTI,Vanguard Total Stock Market Index Fund ETF Shares,,,PCX,ETF
+CNI,CNI,Canadian National Railway Company,Industrials,Railroads,NYQ,EQUITY
+XPO,XPO,"XPO, Inc.",Industrials,Trucking,NYQ,EQUITY
+NRG,NRG,"NRG Energy, Inc.",Utilities,Utilities - Independent Power Producers,NYQ,EQUITY
+BWA,BWA,BorgWarner Inc.,Consumer Cyclical,Auto Parts,NYQ,EQUITY
+AON,AON,Aon plc,Financial Services,Insurance Brokers,NYQ,EQUITY
+CZR,CZR,"Caesars Entertainment, Inc.",Consumer Cyclical,Resorts & Casinos,NMS,EQUITY
+CINF,CINF,Cincinnati Financial Corporation,Financial Services,Insurance - Property & Casualty,NMS,EQUITY
+DIG,DIG,ProShares Ultra Energy,,,PCX,ETF
+NG,NG,NovaGold Resources Inc.,Basic Materials,Gold,ASE,EQUITY
+ACGL,ACGL,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,NMS,EQUITY
+THC,THC,Tenet Healthcare Corporation,Healthcare,Medical Care Facilities,NYQ,EQUITY
+PXJ,PXJ,Invesco Oil & Gas Services ETF,,,PCX,ETF
+FLR,FLR,Fluor Corporation,Industrials,Engineering & Construction,NYQ,EQUITY
+PZZA,PZZA,"Papa John's International, Inc.",Consumer Cyclical,Restaurants,NMS,EQUITY
+BRO,BRO,"Brown & Brown, Inc.",Financial Services,Insurance Brokers,NYQ,EQUITY
+VOO,VOO,Vanguard S&P 500 ETF,,,PCX,ETF
+HUBS,HUBS,"HubSpot, Inc.",Technology,Software - Application,NYQ,EQUITY
+ACAD,ACAD,ACADIA Pharmaceuticals Inc.,Healthcare,Biotechnology,NMS,EQUITY
+ROK,ROK,"Rockwell Automation, Inc.",Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+AES,AES,The AES Corporation,Utilities,Utilities - Diversified,NYQ,EQUITY
+SWKS,SWKS,"Skyworks Solutions, Inc.",Technology,Semiconductors,NMS,EQUITY
+BLUE,BLUE,,,,,NONE
+CTSH,CTSH,Cognizant Technology Solutions Corporation,Technology,Information Technology Services,NMS,EQUITY
+INDY,INDY,iShares India 50 ETF,,,NGM,ETF
+EAT,EAT,"Brinker International, Inc.",Consumer Cyclical,Restaurants,NYQ,EQUITY
+RSG,RSG,"Republic Services, Inc.",Industrials,Waste Management,NYQ,EQUITY
+ZION,ZION,"Zions Bancorporation, National Association",Financial Services,Banks - Regional,NMS,EQUITY
+TOL,TOL,"Toll Brothers, Inc.",Consumer Cyclical,Residential Construction,NYQ,EQUITY
+EWW,EWW,iShares MSCI Mexico ETF,,,PCX,ETF
+PODD,PODD,Insulet Corporation,Healthcare,Medical Devices,NMS,EQUITY
+SWN,SWN,,,,,NONE
+NOV,NOV,NOV Inc.,Energy,Oil & Gas Equipment & Services,NYQ,EQUITY
+TPR,TPR,"Tapestry, Inc.",Consumer Cyclical,Luxury Goods,NYQ,EQUITY
+CUK,CUK,Carnival Corporation & plc,Consumer Cyclical,Travel Services,NYQ,EQUITY
+ATI,ATI,ATI Inc.,Industrials,Metal Fabrication,NYQ,EQUITY
+CHGG,CHGG,"Chegg, Inc.",Consumer Defensive,Education & Training Services,NYQ,EQUITY
+PH,PH,Parker-Hannifin Corporation,Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+INFY,INFY,Infosys Limited,Technology,Information Technology Services,NYQ,EQUITY
+KRE,KRE,State Street SPDR S&P Regional Banking ETF,,,PCX,ETF
+KMI,KMI,"Kinder Morgan, Inc.",Energy,Oil & Gas Midstream,NYQ,EQUITY
+ALGT,ALGT,Allegiant Travel Company,Industrials,Airlines,NMS,EQUITY
+NWL,NWL,Newell Brands Inc.,Consumer Defensive,Household & Personal Products,NMS,EQUITY
+MTDR,MTDR,Matador Resources Company,Energy,Oil & Gas E&P,NYQ,EQUITY
+MRO,MRO,,,,,NONE
+MPLX,MPLX,MPLX LP,Energy,Oil & Gas Midstream,NYQ,EQUITY
+LEN,LEN,Lennar Corporation,Consumer Cyclical,Residential Construction,NYQ,EQUITY
+AM,AM,Antero Midstream Corporation,Energy,Oil & Gas Midstream,NYQ,EQUITY
+GWW,GWW,"W.W. Grainger, Inc.",Industrials,Industrial Distribution,NYQ,EQUITY
+AGG,AGG,iShares Core U.S. Aggregate Bond ETF,,,PCX,ETF
+CPE,CPE,,,,,NONE
+ETR,ETR,Entergy Corporation,Utilities,Utilities - Regulated Electric,NYQ,EQUITY
+APD,APD,"Air Products and Chemicals, Inc.",Basic Materials,Specialty Chemicals,NYQ,EQUITY
+ROST,ROST,"Ross Stores, Inc.",Consumer Cyclical,Apparel Retail,NMS,EQUITY
+CNP,CNP,"CenterPoint Energy, Inc.",Utilities,Utilities - Regulated Electric,NYQ,EQUITY
+HBAN,HBAN,Huntington Bancshares Incorporated,Financial Services,Banks - Regional,NMS,EQUITY
+MOMO,MOMO,Hello Group Inc.,Communication Services,Internet Content & Information,NMS,EQUITY
+FHN,FHN,First Horizon Corporation,Financial Services,Banks - Regional,NYQ,EQUITY
+SUN,SUN,Sunoco LP,Energy,Oil & Gas Refining & Marketing,NYQ,EQUITY
+VIV,VIV,Telefônica Brasil S.A.,Communication Services,Telecom Services,NYQ,EQUITY
+BYD,BYD,Boyd Gaming Corporation,Consumer Cyclical,Resorts & Casinos,NYQ,EQUITY
+Z,Z,"Zillow Group, Inc.",Communication Services,Internet Content & Information,NMS,EQUITY
+BMRN,BMRN,BioMarin Pharmaceutical Inc.,Healthcare,Biotechnology,NMS,EQUITY
+PWR,PWR,"Quanta Services, Inc.",Industrials,Engineering & Construction,NYQ,EQUITY
+EPI,EPI,WisdomTree India Earnings Fund,,,PCX,ETF
+BAH,BAH,Booz Allen Hamilton Holding Corporation,Industrials,Consulting Services,NYQ,EQUITY
+TFC,TFC,Truist Financial Corporation,Financial Services,Banks - Regional,NYQ,EQUITY
+EXEL,EXEL,"Exelixis, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+BIG,BIG,,,,,NONE
+NVR,NVR,"NVR, Inc.",Consumer Cyclical,Residential Construction,NYQ,EQUITY
+HA,HA,,,,,NONE
+WAB,WAB,Westinghouse Air Brake Technologies Corporation,Industrials,Railroads,NYQ,EQUITY
+A,A,"Agilent Technologies, Inc.",Healthcare,Diagnostics & Research,NYQ,EQUITY
+HIG,HIG,"The Hartford Insurance Group, Inc.",Financial Services,Insurance - Diversified,NYQ,EQUITY
+OC,OC,Owens Corning,Industrials,Building Products & Equipment,NYQ,EQUITY
+TQQQ,TQQQ,ProShares UltraPro QQQ,,,NGM,ETF
+FMC,FMC,FMC Corporation,Basic Materials,Agricultural Inputs,NYQ,EQUITY
+EPR,EPR,EPR Properties,Real Estate,REIT - Specialty,NYQ,EQUITY
+FLT,FLT,,,,,NONE
+OHI,OHI,"Omega Healthcare Investors, Inc.",Real Estate,REIT - Healthcare Facilities,NYQ,EQUITY
+NEP,NEP,,,,,NONE
+HQY,HQY,"HealthEquity, Inc.",Healthcare,Health Information Services,NMS,EQUITY
+JWN,JWN,,,,,NONE
+AEE,AEE,Ameren Corporation,Utilities,Utilities - Regulated Electric,NYQ,EQUITY
+VWO,VWO,Vanguard Emerging Markets Stock Index Fund,,,PCX,ETF
+KIM,KIM,Kimco Realty Corporation,Real Estate,REIT - Retail,NYQ,EQUITY
+ALNY,ALNY,"Alnylam Pharmaceuticals, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+CM,CM,Canadian Imperial Bank of Commerce,Financial Services,Banks - Diversified,NYQ,EQUITY
+XLI,XLI,State Street Industrial Select Sector SPDR ETF,,,PCX,ETF
+DQ,DQ,Daqo New Energy Corp.,Technology,Semiconductor Equipment & Materials,NYQ,EQUITY
+ARCO,ARCO,Arcos Dorados Holdings Inc.,Consumer Cyclical,Restaurants,NYQ,EQUITY
+WAL,WAL,Western Alliance Bancorporation,Financial Services,Banks - Regional,NYQ,EQUITY
+CNK,CNK,"Cinemark Holdings, Inc.",Communication Services,Entertainment,NYQ,EQUITY
+USDU,USDU,WisdomTree Bloomberg U.S. Dollar Bullish Fund,,,PCX,ETF
+MSCI,MSCI,MSCI Inc.,Financial Services,Financial Data & Stock Exchanges,NYQ,EQUITY
+DDS,DDS,"Dillard's, Inc.",Consumer Cyclical,Department Stores,NYQ,EQUITY
+E,E,Eni S.p.A.,Energy,Oil & Gas Integrated,NYQ,EQUITY
+OLED,OLED,Universal Display Corporation,Technology,Electronic Components,NMS,EQUITY
+EXR,EXR,Extra Space Storage Inc.,Real Estate,REIT - Industrial,NYQ,EQUITY
+FAS,FAS,Direxion Daily Financial Bull 3X Shares,,,PCX,ETF
+VMC,VMC,Vulcan Materials Company,Basic Materials,Building Materials,NYQ,EQUITY
+HRL,HRL,Hormel Foods Corporation,Consumer Defensive,Packaged Foods,NYQ,EQUITY
+BXP,BXP,"BXP, Inc.",Real Estate,REIT - Office,NYQ,EQUITY
+FRO,FRO,Frontline plc,Energy,Oil & Gas Midstream,NYQ,EQUITY
+EWJ,EWJ,iShares MSCI Japan ETF,,,PCX,ETF
+ACM,ACM,AECOM,Industrials,Engineering & Construction,NYQ,EQUITY
+MMSI,MMSI,"Merit Medical Systems, Inc.",Healthcare,Medical Instruments & Supplies,NMS,EQUITY
+DTE,DTE,DTE Energy Company,Utilities,Utilities - Regulated Electric,NYQ,EQUITY
+AEP,AEP,"American Electric Power Company, Inc.",Utilities,Utilities - Regulated Electric,NMS,EQUITY
+HBI,HBI,,,,,
+QGEN,QGEN,Qiagen N.V.,Healthcare,Diagnostics & Research,NYQ,EQUITY
+NTR,NTR,Nutrien Ltd.,Basic Materials,Agricultural Inputs,NYQ,EQUITY
+PEG,PEG,Public Service Enterprise Group Incorporated,Utilities,Utilities - Regulated Electric,NYQ,EQUITY
+EEM,EEM,iShares MSCI Emerging Markets ETF,,,PCX,ETF
+ZBRA,ZBRA,Zebra Technologies Corporation,Technology,Communication Equipment,NMS,EQUITY
+DVAX,DVAX,Dynavax Technologies Corp,Healthcare,Drug Manufacturers - Specialty & Generic,NMS,EQUITY
+MTH,MTH,Meritage Homes Corporation,Consumer Cyclical,Residential Construction,NYQ,EQUITY
+MSTR,MSTR,Strategy Inc,Technology,Software - Application,NMS,EQUITY
+GNRC,GNRC,Generac Holdings Inc.,Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+ROG,ROG,Rogers Corporation,Technology,Electronic Components,NYQ,EQUITY
+TRGP,TRGP,Targa Resources Corp.,Energy,Oil & Gas Midstream,NYQ,EQUITY
+ALSN,ALSN,"Allison Transmission Holdings, Inc.",Consumer Cyclical,Auto Parts,NYQ,EQUITY
+BTU,BTU,Peabody Energy Corporation,Energy,Thermal Coal,NYQ,EQUITY
+CASY,CASY,"Casey's General Stores, Inc.",Consumer Cyclical,Specialty Retail,NMS,EQUITY
+CELH,CELH,"Celsius Holdings, Inc.",Consumer Defensive,Beverages - Non-Alcoholic,NCM,EQUITY
+CPRI,CPRI,Capri Holdings Limited,Consumer Cyclical,Luxury Goods,NYQ,EQUITY
+AME,AME,"AMETEK, Inc.",Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+VFC,VFC,V.F. Corporation,Consumer Cyclical,Apparel Manufacturing,NYQ,EQUITY
+AIT,AIT,"Applied Industrial Technologies, Inc.",Industrials,Industrial Distribution,NYQ,EQUITY
+TEAM,TEAM,Atlassian Corporation,Technology,Software - Application,NMS,EQUITY
+BE,BE,Bloom Energy Corporation,Industrials,Electrical Equipment & Parts,NYQ,EQUITY
+EWC,EWC,iShares MSCI Canada ETF,,,PCX,ETF
+CNHI,CNHI,,,,,NONE
+XLV,XLV,State Street Health Care Select Sector SPDR ETF,,,PCX,ETF
+BMI,BMI,"Badger Meter, Inc.",Technology,Scientific & Technical Instruments,NYQ,EQUITY
+HTZ,HTZ,"Hertz Global Holdings, Inc.",Industrials,Rental & Leasing Services,NMS,EQUITY
+EDF,EDF,Virtus Stone Harbor Emerging Markets Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+NKTR,NKTR,Nektar Therapeutics,Healthcare,Biotechnology,NCM,EQUITY
+UNM,UNM,Unum Group,Financial Services,Insurance - Life,NYQ,EQUITY
+AGCO,AGCO,AGCO Corporation,Industrials,Farm & Heavy Construction Machinery,NYQ,EQUITY
+CRC,CRC,California Resources Corporation,Energy,Oil & Gas E&P,NYQ,EQUITY
+FXA,FXA,Invesco CurrencyShares Australian Dollar Trust,,,PCX,ETF
+EBS,EBS,Emergent BioSolutions Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,NYQ,EQUITY
+BND,BND,Vanguard Total Bond Market Index Fund,,,NGM,ETF
+HEI,HEI,HEICO Corporation,Industrials,Aerospace & Defense,NYQ,EQUITY
+YELP,YELP,Yelp Inc.,Communication Services,Internet Content & Information,NYQ,EQUITY
+AIZ,AIZ,"Assurant, Inc.",Financial Services,Insurance - Property & Casualty,NYQ,EQUITY
+VUG,VUG,Vanguard Growth Index Fund ETF Shares,,,PCX,ETF
+BR,BR,"Broadridge Financial Solutions, Inc.",Technology,Information Technology Services,NYQ,EQUITY
+ABR,ABR,"Arbor Realty Trust, Inc.",Real Estate,REIT - Mortgage,NYQ,EQUITY
+WGO,WGO,"Winnebago Industries, Inc.",Consumer Cyclical,Recreational Vehicles,NYQ,EQUITY
+NWSA,NWSA,News Corporation,Communication Services,Entertainment,NMS,EQUITY
+PAAS,PAAS,Pan American Silver Corp.,Basic Materials,Gold,NYQ,EQUITY
+TLT,TLT,iShares 20+ Year Treasury Bond ETF,,,NGM,ETF
+CPRT,CPRT,"Copart, Inc.",Industrials,Specialty Business Services,NMS,EQUITY
+ACLS,ACLS,"Axcelis Technologies, Inc.",Technology,Semiconductor Equipment & Materials,NMS,EQUITY
+PFG,PFG,"Principal Financial Group, Inc.",Financial Services,Asset Management,NMS,EQUITY
+HL,HL,Hecla Mining Company,Basic Materials,Other Precious Metals & Mining,NYQ,EQUITY
+YNDX,YNDX,,,,,NONE
+UGL,UGL,ProShares Ultra Gold,,,PCX,ETF
+GEF,GEF,"Greif, Inc.",Consumer Cyclical,Packaging & Containers,NYQ,EQUITY
+VIG,VIG,Vanguard Dividend Appreciation Index Fund ETF Shares,,,PCX,ETF
+MTN,MTN,"Vail Resorts, Inc.",Consumer Cyclical,Resorts & Casinos,NYQ,EQUITY
+AMBA,AMBA,"Ambarella, Inc.",Technology,Semiconductor Equipment & Materials,NMS,EQUITY
+RLI,RLI,RLI Corp.,Financial Services,Insurance - Property & Casualty,NYQ,EQUITY
+HUN,HUN,Huntsman Corporation,Basic Materials,Chemicals,NYQ,EQUITY
+DDD,DDD,3D Systems Corporation,Technology,Computer Hardware,NYQ,EQUITY
+BLNK,BLNK,Blink Charging Co.,Industrials,Engineering & Construction,NCM,EQUITY
+FAB,FAB,First Trust Multi Cap Value AlphaDEX Fund,,,NGM,ETF
+FICO,FICO,Fair Isaac Corporation,Technology,Software - Application,NYQ,EQUITY
+RUN,RUN,Sunrun Inc.,Technology,Solar,NMS,EQUITY
+EMN,EMN,Eastman Chemical Company,Basic Materials,Specialty Chemicals,NYQ,EQUITY
+TRI,TRI,Thomson Reuters Corporation,Industrials,Specialty Business Services,NMS,EQUITY
+DK,DK,"Delek US Holdings, Inc.",Energy,Oil & Gas Refining & Marketing,NYQ,EQUITY
+MPWR,MPWR,"Monolithic Power Systems, Inc.",Technology,Semiconductors,NMS,EQUITY
+CHH,CHH,"Choice Hotels International, Inc.",Consumer Cyclical,Lodging,NYQ,EQUITY
+ROL,ROL,"Rollins, Inc.",Consumer Cyclical,Personal Services,NYQ,EQUITY
+FDS,FDS,FactSet Research Systems Inc.,Financial Services,Financial Data & Stock Exchanges,NYQ,EQUITY
+EME,EME,"EMCOR Group, Inc.",Industrials,Engineering & Construction,NYQ,EQUITY
+UL,UL,Unilever PLC,Consumer Defensive,Household & Personal Products,NYQ,EQUITY
+GLL,GLL,ProShares UltraShort Gold,,,PCX,ETF
+OPK,OPK,"OPKO Health, Inc.",Healthcare,Diagnostics & Research,NMS,EQUITY
+JNJ,JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers - General,NYQ,EQUITY
+VRSK,VRSK,"Verisk Analytics, Inc.",Industrials,Consulting Services,NMS,EQUITY
+NYCB,NYCB,,,,,NONE
+CMS,CMS,CMS Energy Corporation,Utilities,Utilities - Regulated Electric,NYQ,EQUITY
+AL,AL,Air Lease Corporation,Industrials,Rental & Leasing Services,NYQ,EQUITY
+EPAM,EPAM,"EPAM Systems, Inc.",Technology,Information Technology Services,NYQ,EQUITY
+DZZ,DZZ,DB Gold Double Short ETN,,,PCX,ETF
+MYGN,MYGN,"Myriad Genetics, Inc.",Healthcare,Diagnostics & Research,NMS,EQUITY
+MTG,MTG,MGIC Investment Corporation,Financial Services,Insurance - Specialty,NYQ,EQUITY
+GRPN,GRPN,"Groupon, Inc.",Communication Services,Internet Content & Information,NMS,EQUITY
+NTRS,NTRS,Northern Trust Corporation,Financial Services,Asset Management,NMS,EQUITY
+GOL,GOL,,,,,NONE
+ALLE,ALLE,Allegion plc,Industrials,Security & Protection Services,NYQ,EQUITY
+ENLC,ENLC,,,,,NONE
+AB,AB,AllianceBernstein Holding L.P.,Financial Services,Asset Management,NYQ,EQUITY
+TNDM,TNDM,"Tandem Diabetes Care, Inc.",Healthcare,Medical Devices,NGM,EQUITY
+BBVA,BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",Financial Services,Banks - Diversified,NYQ,EQUITY
+HELE,HELE,Helen of Troy Limited,Consumer Defensive,Household & Personal Products,NMS,EQUITY
+BKE,BKE,"The Buckle, Inc.",Consumer Cyclical,Apparel Retail,NYQ,EQUITY
+CNX,CNX,CNX Resources Corporation,Energy,Oil & Gas E&P,NYQ,EQUITY
+TREX,TREX,"Trex Company, Inc.",Industrials,Building Products & Equipment,NYQ,EQUITY
+PDCO,PDCO,,,,,NONE
+PPC,PPC,Pilgrim's Pride Corporation,Consumer Defensive,Packaged Foods,NMS,EQUITY
+TIP,TIP,iShares TIPS Bond ETF,,,PCX,ETF
+WCN,WCN,"Waste Connections, Inc.",Industrials,Waste Management,NYQ,EQUITY
+CNA,CNA,CNA Financial Corporation,Financial Services,Insurance - Property & Casualty,NYQ,EQUITY
+NNN,NNN,"NNN REIT, Inc.",Real Estate,REIT - Retail,NYQ,EQUITY
+GXC,GXC,State Street SPDR S&P China ETF,,,PCX,ETF
+LEG,LEG,"Leggett & Platt, Incorporated",Consumer Cyclical,"Furnishings, Fixtures & Appliances",NYQ,EQUITY
+COLM,COLM,Columbia Sportswear Company,Consumer Cyclical,Apparel Manufacturing,NMS,EQUITY
+PLCE,PLCE,"The Children's Place, Inc.",Consumer Cyclical,Apparel Manufacturing,NMS,EQUITY
+FIVN,FIVN,"Five9, Inc.",Technology,Software - Infrastructure,NGM,EQUITY
+OCGN,OCGN,"Ocugen, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+TUP,TUP,,,,,NONE
+FLO,FLO,"Flowers Foods, Inc.",Consumer Defensive,Packaged Foods,NYQ,EQUITY
+CFR,CFR,"Cullen/Frost Bankers, Inc.",Financial Services,Banks - Regional,NYQ,EQUITY
+AXTA,AXTA,Axalta Coating Systems Ltd.,Basic Materials,Specialty Chemicals,NYQ,EQUITY
+BCE,BCE,BCE Inc.,Communication Services,Telecom Services,NYQ,EQUITY
+CACI,CACI,CACI International Inc,Technology,Information Technology Services,NYQ,EQUITY
+TAN,TAN,Invesco Solar ETF,,,PCX,ETF
+APH,APH,Amphenol Corporation,Technology,Electronic Components,NYQ,EQUITY
+OI,OI,"O-I Glass, Inc.",Consumer Cyclical,Packaging & Containers,NYQ,EQUITY
+NBIX,NBIX,"Neurocrine Biosciences, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,NMS,EQUITY
+AEM,AEM,Agnico Eagle Mines Limited,Basic Materials,Gold,NYQ,EQUITY
+ADP,ADP,"Automatic Data Processing, Inc.",Technology,Software - Application,NMS,EQUITY
+POOL,POOL,Pool Corporation,Industrials,Industrial Distribution,NMS,EQUITY
+XYL,XYL,Xylem Inc.,Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+CPG,CPG,,,,,NONE
+UHS,UHS,"Universal Health Services, Inc.",Healthcare,Medical Care Facilities,NYQ,EQUITY
+FNF,FNF,"Fidelity National Financial, Inc.",Financial Services,Insurance - Specialty,NYQ,EQUITY
+FLEX,FLEX,Flex Ltd.,Technology,Electronic Components,NMS,EQUITY
+NXST,NXST,"Nexstar Media Group, Inc.",Communication Services,Broadcasting,NMS,EQUITY
+ATO,ATO,Atmos Energy Corporation,Utilities,Utilities - Regulated Gas,NYQ,EQUITY
+CHS,CHS,,,,,NONE
+CRS,CRS,Carpenter Technology Corporation,Industrials,Metal Fabrication,NYQ,EQUITY
+CNMD,CNMD,CONMED Corporation,Healthcare,Medical Devices,NYQ,EQUITY
+CHRW,CHRW,"C.H. Robinson Worldwide, Inc.",Industrials,Integrated Freight & Logistics,NMS,EQUITY
+WKHS,WKHS,"Workhorse Group, Inc.",Consumer Cyclical,Auto Manufacturers,NCM,EQUITY
+CAKE,CAKE,The Cheesecake Factory Incorporated,Consumer Cyclical,Restaurants,NMS,EQUITY
+AFG,AFG,"American Financial Group, Inc.",Financial Services,Insurance - Property & Casualty,NYQ,EQUITY
+GPRO,GPRO,"GoPro, Inc.",Technology,Consumer Electronics,NMS,EQUITY
+RIO,RIO,Rio Tinto Group,Basic Materials,Other Industrial Metals & Mining,NYQ,EQUITY
+VEA,VEA,Vanguard FTSE Developed Markets Index Fund ETF Shares,,,PCX,ETF
+LHX,LHX,"L3Harris Technologies, Inc.",Industrials,Aerospace & Defense,NYQ,EQUITY
+VYM,VYM,Vanguard High Dividend Yield Index Fund ETF Shares,,,PCX,ETF
+EXAS,EXAS,Exact Sciences Corporation,Healthcare,Diagnostics & Research,NCM,EQUITY
+RPM,RPM,RPM International Inc.,Basic Materials,Specialty Chemicals,NYQ,EQUITY
+UFPI,UFPI,"UFP Industries, Inc.",Basic Materials,Lumber & Wood Production,NMS,EQUITY
+TME,TME,Tencent Music Entertainment Group,Communication Services,Internet Content & Information,NYQ,EQUITY
+ADC,ADC,Agree Realty Corporation,Real Estate,REIT - Retail,NYQ,EQUITY
+EXC,EXC,Exelon Corporation,Utilities,Utilities - Regulated Electric,NMS,EQUITY
+TPX,TPX,,,,,NONE
+ARLP,ARLP,"Alliance Resource Partners, L.P.",Energy,Thermal Coal,NMS,EQUITY
+VICI,VICI,VICI Properties Inc.,Real Estate,REIT - Diversified,NYQ,EQUITY
+GFI,GFI,Gold Fields Limited,Basic Materials,Gold,NYQ,EQUITY
+PALL,PALL,abrdn Physical Palladium Shares ETF,,,PCX,ETF
+POST,POST,"Post Holdings, Inc.",Consumer Defensive,Packaged Foods,NYQ,EQUITY
+WST,WST,"West Pharmaceutical Services, Inc.",Healthcare,Medical Instruments & Supplies,NYQ,EQUITY
+RCL,RCL,Royal Caribbean Cruises Ltd.,Consumer Cyclical,Travel Services,NYQ,EQUITY
+TFX,TFX,Teleflex Incorporated,Healthcare,Medical Instruments & Supplies,NYQ,EQUITY
+ESS,ESS,"Essex Property Trust, Inc.",Real Estate,REIT - Residential,NYQ,EQUITY
+VGK,VGK,Vanguard FTSE Europe ETF,,,PCX,ETF
+OLN,OLN,Olin Corporation,Basic Materials,Chemicals,NYQ,EQUITY
+RS,RS,"Reliance, Inc.",Basic Materials,Steel,NYQ,EQUITY
+VNO,VNO,Vornado Realty Trust,Real Estate,REIT - Office,NYQ,EQUITY
+CBT,CBT,Cabot Corporation,Basic Materials,Specialty Chemicals,NYQ,EQUITY
+KTOS,KTOS,"Kratos Defense & Security Solutions, Inc.",Industrials,Aerospace & Defense,NMS,EQUITY
+WING,WING,Wingstop Inc.,Consumer Cyclical,Restaurants,NMS,EQUITY
+AAN,AAN,,,,,NONE
+ALV,ALV,"Autoliv, Inc.",Consumer Cyclical,Auto Parts,NYQ,EQUITY
+G,G,Genpact Limited,Technology,Information Technology Services,NYQ,EQUITY
+ERJ,ERJ,,,,,
+GPOR,GPOR,Gulfport Energy Corporation,Energy,Oil & Gas E&P,NYQ,EQUITY
+ELF,ELF,"e.l.f. Beauty, Inc.",Consumer Defensive,Household & Personal Products,NYQ,EQUITY
+PNR,PNR,Pentair plc,Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+COO,COO,"The Cooper Companies, Inc.",Healthcare,Medical Instruments & Supplies,NMS,EQUITY
+GLW,GLW,Corning Incorporated,Technology,Electronic Components,NYQ,EQUITY
+GEO,GEO,"The GEO Group, Inc.",Industrials,Security & Protection Services,NYQ,EQUITY
+VAC,VAC,Marriott Vacations Worldwide Corporation,Consumer Cyclical,Resorts & Casinos,NYQ,EQUITY
+DEO,DEO,Diageo plc,Consumer Defensive,Beverages - Wineries & Distilleries,NYQ,EQUITY
+BILI,BILI,Bilibili Inc.,Communication Services,Internet Content & Information,NMS,EQUITY
+COMM,COMM,"CommScope Holding Company, Inc.",Technology,Communication Equipment,NMS,EQUITY
+NDSN,NDSN,Nordson Corporation,Industrials,Specialty Industrial Machinery,NMS,EQUITY
+CCJ,CCJ,Cameco Corporation,Energy,Uranium,NYQ,EQUITY
+ARCB,ARCB,ArcBest Corporation,Industrials,Trucking,NMS,EQUITY
+ODFL,ODFL,"Old Dominion Freight Line, Inc.",Industrials,Trucking,NMS,EQUITY
+JNK,JNK,State Street SPDR Bloomberg High Yield Bond ETF,,,PCX,ETF
+KWEB,KWEB,KraneShares CSI China Internet ETF,,,PCX,ETF
+GGG,GGG,Graco Inc.,Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+ENS,ENS,EnerSys,Industrials,Electrical Equipment & Parts,NYQ,EQUITY
+FLS,FLS,Flowserve Corporation,Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+WEX,WEX,WEX Inc.,Technology,Software - Infrastructure,NYQ,EQUITY
+GLNG,GLNG,Golar LNG Limited,Energy,Oil & Gas Midstream,NMS,EQUITY
+AVY,AVY,Avery Dennison Corporation,Consumer Cyclical,Packaging & Containers,NYQ,EQUITY
+MUB,MUB,iShares National Muni Bond ETF,,,PCX,ETF
+DAN,DAN,Dana Incorporated,Consumer Cyclical,Auto Parts,NYQ,EQUITY
+AZO,AZO,"AutoZone, Inc.",Consumer Cyclical,Auto Parts,NYQ,EQUITY
+TCOM,TCOM,Trip.com Group Limited,Consumer Cyclical,Travel Services,NMS,EQUITY
+EWBC,EWBC,"East West Bancorp, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+FUN,FUN,Six Flags Entertainment Corporation,Consumer Cyclical,Leisure,NYQ,EQUITY
+TWOU,TWOU,,,,,
+GNTX,GNTX,Gentex Corporation,Consumer Cyclical,Auto Parts,NMS,EQUITY
+ASUR,ASUR,"Asure Software, Inc.",Technology,Software - Application,NCM,EQUITY
+TNXP,TNXP,Tonix Pharmaceuticals Holding Corp.,Healthcare,Biotechnology,NCM,EQUITY
+VAL,VAL,Valaris Limited,Energy,Oil & Gas Equipment & Services,NYQ,EQUITY
+BC,BC,Brunswick Corporation,Consumer Cyclical,Recreational Vehicles,NYQ,EQUITY
+VET,VET,Vermilion Energy Inc.,Energy,Oil & Gas E&P,NYQ,EQUITY
+TNK,TNK,Teekay Tankers Ltd.,Energy,Oil & Gas Midstream,NYQ,EQUITY
+ASB,ASB,Associated Banc-Corp,Financial Services,Banks - Regional,NYQ,EQUITY
+LYB,LYB,LyondellBasell Industries N.V.,Basic Materials,Specialty Chemicals,NYQ,EQUITY
+CRL,CRL,"Charles River Laboratories International, Inc.",Healthcare,Diagnostics & Research,NYQ,EQUITY
+FAF,FAF,First American Financial Corporation,Financial Services,Insurance - Specialty,NYQ,EQUITY
+CLB,CLB,Core Laboratories Inc.,Energy,Oil & Gas Equipment & Services,NYQ,EQUITY
+ARWR,ARWR,"Arrowhead Pharmaceuticals, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+TTEK,TTEK,"Tetra Tech, Inc.",Industrials,Engineering & Construction,NMS,EQUITY
+HRB,HRB,"H&R Block, Inc.",Consumer Cyclical,Personal Services,NYQ,EQUITY
+AEL,AEL,,,,,NONE
+CMTL,CMTL,Comtech Telecommunications Corp.,Technology,Communication Equipment,NMS,EQUITY
+WWD,WWD,"Woodward, Inc.",Industrials,Aerospace & Defense,NMS,EQUITY
+TS,TS,Tenaris S.A.,Energy,Oil & Gas Equipment & Services,NYQ,EQUITY
+NS,NS,,,,,NONE
+PFE,PFE,Pfizer Inc.,Healthcare,Drug Manufacturers - General,NYQ,EQUITY
+PGJ,PGJ,Invesco Golden Dragon China ETF,,,NGM,ETF
+MRCY,MRCY,"Mercury Systems, Inc.",Industrials,Aerospace & Defense,NMS,EQUITY
+NGL,NGL,NGL Energy Partners LP,Energy,Oil & Gas Midstream,NYQ,EQUITY
+K,K,,,,,
+VSH,VSH,"Vishay Intertechnology, Inc.",Technology,Semiconductors,NYQ,EQUITY
+FN,FN,Fabrinet,Technology,Electronic Components,NYQ,EQUITY
+EHTH,EHTH,"eHealth, Inc.",Financial Services,Insurance Brokers,NMS,EQUITY
+SYNA,SYNA,Synaptics Incorporated,Technology,Semiconductors,NMS,EQUITY
+UGI,UGI,UGI Corporation,Utilities,Utilities - Regulated Gas,NYQ,EQUITY
+ENR,ENR,"Energizer Holdings, Inc.",Industrials,Electrical Equipment & Parts,NYQ,EQUITY
+TECK,TECK,Teck Resources Limited,Basic Materials,Other Industrial Metals & Mining,NYQ,EQUITY
+GDX,GDX,VanEck Gold Miners ETF,,,PCX,ETF
+RF,RF,Regions Financial Corporation,Financial Services,Banks - Regional,NYQ,EQUITY
+EVR,EVR,Evercore Inc.,Financial Services,Capital Markets,NYQ,EQUITY
+BRKR,BRKR,Bruker Corporation,Healthcare,Medical Devices,NMS,EQUITY
+CCRN,CCRN,"Cross Country Healthcare, Inc.",Healthcare,Medical Care Facilities,NMS,EQUITY
+GFF,GFF,Griffon Corporation,Industrials,Building Products & Equipment,NYQ,EQUITY
+UTHR,UTHR,United Therapeutics Corporation,Healthcare,Drug Manufacturers - Specialty & Generic,NMS,EQUITY
+YY,YY,,,,,NONE
+DOX,DOX,Amdocs Limited,Technology,Software - Infrastructure,NMS,EQUITY
+KBH,KBH,KB Home,Consumer Cyclical,Residential Construction,NYQ,EQUITY
+CC,CC,The Chemours Company,Basic Materials,Specialty Chemicals,NYQ,EQUITY
+THS,THS,Treehouse Foods Inc,Consumer Defensive,Packaged Foods,NYQ,EQUITY
+CRK,CRK,"Comstock Resources, Inc.",Energy,Oil & Gas E&P,NYQ,EQUITY
+OLLI,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",Consumer Defensive,Discount Stores,NGM,EQUITY
+FRT,FRT,Federal Realty Investment Trust,Real Estate,REIT - Retail,NYQ,EQUITY
+BRC,BRC,Brady Corporation,Industrials,Security & Protection Services,NYQ,EQUITY
+APTV,APTV,Aptiv PLC,Consumer Cyclical,Auto Parts,NYQ,EQUITY
+ZBH,ZBH,"Zimmer Biomet Holdings, Inc.",Healthcare,Medical Devices,NYQ,EQUITY
+CSGP,CSGP,"CoStar Group, Inc.",Real Estate,Real Estate Services,NMS,EQUITY
+YANG,YANG,Direxion Daily FTSE China Bear 3X Shares,,,PCX,ETF
+GES,GES,"Guess?, Inc.",Consumer Cyclical,Apparel Retail,NYQ,EQUITY
+NSP,NSP,"Insperity, Inc.",Industrials,Staffing & Employment Services,NYQ,EQUITY
+BERY,BERY,,,,,NONE
+HAIN,HAIN,"The Hain Celestial Group, Inc.",Consumer Defensive,Packaged Foods,NMS,EQUITY
+EGO,EGO,Eldorado Gold Corporation,Basic Materials,Gold,NYQ,EQUITY
+EIX,EIX,Edison International,Utilities,Utilities - Regulated Electric,NYQ,EQUITY
+GWRE,GWRE,"Guidewire Software, Inc.",Technology,Software - Application,NYQ,EQUITY
+TGLS,TGLS,Tecnoglass Inc.,Basic Materials,Building Materials,NYQ,EQUITY
+DBO,DBO,Invesco DB Oil Fund,,,PCX,ETF
+PCTY,PCTY,Paylocity Holding Corporation,Technology,Software - Application,NMS,EQUITY
+TGTX,TGTX,"TG Therapeutics, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+PSTG,PSTG,Everpure,Technology,Computer Hardware,NYQ,EQUITY
+WSO,WSO,"Watsco, Inc.",Industrials,Industrial Distribution,NYQ,EQUITY
+EDIT,EDIT,"Editas Medicine, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+ARR,ARR,"ARMOUR Residential REIT, Inc.",Real Estate,REIT - Mortgage,NYQ,EQUITY
+NAVI,NAVI,Navient Corporation,Financial Services,Credit Services,NMS,EQUITY
+WCC,WCC,"WESCO International, Inc.",Industrials,Industrial Distribution,NYQ,EQUITY
+TRMB,TRMB,Trimble Inc.,Technology,Scientific & Technical Instruments,NMS,EQUITY
+ODP,ODP,,,,,
+ECL,ECL,Ecolab Inc.,Basic Materials,Specialty Chemicals,NYQ,EQUITY
+WRK,WRK,,,,,NONE
+KLAC,KLAC,KLA Corporation,Technology,Semiconductor Equipment & Materials,NMS,EQUITY
+DAX,DAX,Global X DAX Germany ETF,,,NGM,ETF
+OMI,OMI,"Accendra Health, Inc.",Healthcare,Medical Distribution,NYQ,EQUITY
+CPT,CPT,Camden Property Trust,Real Estate,REIT - Residential,NYQ,EQUITY
+PPLT,PPLT,abrdn Physical Platinum Shares ETF,,,PCX,ETF
+CALM,CALM,"Cal-Maine Foods, Inc.",Consumer Defensive,Farm Products,NMS,EQUITY
+ABG,ABG,"Asbury Automotive Group, Inc.",Consumer Cyclical,Auto & Truck Dealerships,NYQ,EQUITY
+NOG,NOG,"Northern Oil and Gas, Inc.",Energy,Oil & Gas E&P,NYQ,EQUITY
+KPTI,KPTI,Karyopharm Therapeutics Inc.,Healthcare,Biotechnology,NMS,EQUITY
+BHC,BHC,Bausch Health Companies Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,NYQ,EQUITY
+CYH,CYH,"Community Health Systems, Inc.",Healthcare,Medical Care Facilities,NYQ,EQUITY
+CNS,CNS,"Cohen & Steers, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+GCI,GCI,,,,,
+AZN,AZN,AstraZeneca PLC,Healthcare,Drug Manufacturers - General,NYQ,EQUITY
+ARMK,ARMK,Aramark,Industrials,Specialty Business Services,NYQ,EQUITY
+MSM,MSM,"MSC Industrial Direct Co., Inc.",Industrials,Industrial Distribution,NYQ,EQUITY
+WAT,WAT,Waters Corporation,Healthcare,Diagnostics & Research,NYQ,EQUITY
+TDC,TDC,Teradata Corporation,Technology,Software - Infrastructure,NYQ,EQUITY
+VDE,VDE,Vanguard Energy Index Fund ETF Shares,,,PCX,ETF
+HALO,HALO,"Halozyme Therapeutics, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+ATHM,ATHM,Autohome Inc.,Communication Services,Internet Content & Information,NYQ,EQUITY
+DY,DY,"Dycom Industries, Inc.",Industrials,Engineering & Construction,NYQ,EQUITY
+CGNX,CGNX,Cognex Corporation,Technology,Scientific & Technical Instruments,NMS,EQUITY
+GBX,GBX,"The Greenbrier Companies, Inc.",Industrials,Railroads,NYQ,EQUITY
+TRN,TRN,"Trinity Industries, Inc.",Industrials,Railroads,NYQ,EQUITY
+BECN,BECN,,,,,NONE
+WERN,WERN,"Werner Enterprises, Inc.",Industrials,Trucking,NMS,EQUITY
+ORAN,ORAN,,,,,NONE
+WBS,WBS,Webster Financial Corporation,Financial Services,Banks - Regional,NYQ,EQUITY
+CBRL,CBRL,"Cracker Barrel Old Country Store, Inc.",Consumer Cyclical,Restaurants,NMS,EQUITY
+ASH,ASH,Ashland Inc.,Basic Materials,Specialty Chemicals,NYQ,EQUITY
+CUZ,CUZ,Cousins Properties Incorporated,Real Estate,REIT - Office,NYQ,EQUITY
+VRNT,VRNT,Verint Systems Inc.,Technology,Software - Infrastructure,NMS,EQUITY
+EZJ,EZJ,ProShares Ultra MSCI Japan,,,PCX,ETF
+QDEL,QDEL,QuidelOrtho Corporation,Healthcare,Medical Devices,NMS,EQUITY
+CHE,CHE,Chemed Corporation,Healthcare,Medical Care Facilities,NYQ,EQUITY
+CRAI,CRAI,"CRA International, Inc.",Industrials,Consulting Services,NMS,EQUITY
+FCNCA,FCNCA,"First Citizens BancShares, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+PARR,PARR,"Par Pacific Holdings, Inc.",Energy,Oil & Gas Refining & Marketing,NYQ,EQUITY
+HTGC,HTGC,"Hercules Capital, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+RGLD,RGLD,"Royal Gold, Inc.",Basic Materials,Gold,NMS,EQUITY
+ENSG,ENSG,"The Ensign Group, Inc.",Healthcare,Medical Care Facilities,NMS,EQUITY
+EQR,EQR,Equity Residential,Real Estate,REIT - Residential,NYQ,EQUITY
+BBW,BBW,"Build-A-Bear Workshop, Inc.",Consumer Cyclical,Specialty Retail,NYQ,EQUITY
+JKS,JKS,"JinkoSolar Holding Co., Ltd.",Technology,Solar,NYQ,EQUITY
+ADT,ADT,ADT Inc.,Industrials,Security & Protection Services,NYQ,EQUITY
+TRUP,TRUP,"Trupanion, Inc.",Financial Services,Insurance - Property & Casualty,NGM,EQUITY
+CE,CE,Celanese Corporation,Basic Materials,Chemicals,NYQ,EQUITY
+PRGS,PRGS,Progress Software Corporation,Technology,Software - Infrastructure,NMS,EQUITY
+VGT,VGT,Vanguard Information Technology Index Fund ETF Shares,,,PCX,ETF
+TWO,TWO,Two Harbors Investment Corp.,Real Estate,REIT - Mortgage,NYQ,EQUITY
+EEFT,EEFT,"Euronet Worldwide, Inc.",Technology,Software - Infrastructure,NMS,EQUITY
+BZH,BZH,"Beazer Homes USA, Inc.",Consumer Cyclical,Residential Construction,NYQ,EQUITY
+CTAS,CTAS,Cintas Corporation,Industrials,Specialty Business Services,NMS,EQUITY
+AC,AC,,,,,
+CBSH,CBSH,"Commerce Bancshares, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+ENTG,ENTG,"Entegris, Inc.",Technology,Semiconductor Equipment & Materials,NMS,EQUITY
+VIS,VIS,Vanguard Industrials Index Fund ETF Shares,,,PCX,ETF
+PNM,PNM,,,,,NONE
+EPM,EPM,Evolution Petroleum Corporation,Energy,Oil & Gas E&P,ASE,EQUITY
+JBHT,JBHT,"J.B. Hunt Transport Services, Inc.",Industrials,Integrated Freight & Logistics,NMS,EQUITY
+GCO,GCO,Genesco Inc.,Consumer Cyclical,Apparel Retail,NYQ,EQUITY
+CWT,CWT,California Water Service Group,Utilities,Utilities - Regulated Water,NYQ,EQUITY
+WY,WY,Weyerhaeuser Company,Real Estate,REIT - Specialty,NYQ,EQUITY
+CCK,CCK,"Crown Holdings, Inc.",Consumer Cyclical,Packaging & Containers,NYQ,EQUITY
+ERF,ERF,,,,,NONE
+TYL,TYL,"Tyler Technologies, Inc.",Technology,Software - Application,NYQ,EQUITY
+NL,NL,"NL Industries, Inc.",Industrials,Security & Protection Services,NYQ,EQUITY
+EWZ,EWZ,iShares MSCI Brazil ETF,,,PCX,ETF
+NVRO,NVRO,,,,,NONE
+TRNO,TRNO,Terreno Realty Corporation,Real Estate,REIT - Industrial,NYQ,EQUITY
+VCR,VCR,Vanguard Consumer Discretionary Index Fund ETF Shares,,,PCX,ETF
+NOBL,NOBL,ProShares S&P 500 Dividend Aristocrats ETF,,,BTS,ETF
+PNW,PNW,Pinnacle West Capital Corporation,Utilities,Utilities - Regulated Electric,NYQ,EQUITY
+CWH,CWH,"Camping World Holdings, Inc.",Consumer Cyclical,Auto & Truck Dealerships,NYQ,EQUITY
+B,B,Barrick Mining Corporation,Basic Materials,Gold,NYQ,EQUITY
+LEA,LEA,Lear Corporation,Consumer Cyclical,Auto Parts,NYQ,EQUITY
+GIL,GIL,Gildan Activewear Inc.,Consumer Cyclical,Apparel Manufacturing,NYQ,EQUITY
+HEAR,HEAR,,,,,NONE
+FOLD,FOLD,"Amicus Therapeutics, Inc.",Healthcare,Biotechnology,NGM,EQUITY
+CLNE,CLNE,Clean Energy Fuels Corp.,Energy,Oil & Gas Refining & Marketing,NMS,EQUITY
+DAR,DAR,Darling Ingredients Inc.,Consumer Defensive,Packaged Foods,NYQ,EQUITY
+TECH,TECH,Bio-Techne Corporation,Healthcare,Biotechnology,NMS,EQUITY
+FGEN,FGEN,"FibroGen, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+FFIV,FFIV,"F5, Inc.",Technology,Software - Infrastructure,NMS,EQUITY
+ES,ES,Eversource Energy,Utilities,Utilities - Regulated Electric,NYQ,EQUITY
+ASX,ASX,"ASE Technology Holding Co., Ltd.",Technology,Semiconductors,NYQ,EQUITY
+CTRA,CTRA,Coterra Energy Inc.,Energy,Oil & Gas E&P,NYQ,EQUITY
+FCN,FCN,"FTI Consulting, Inc.",Industrials,Consulting Services,NYQ,EQUITY
+GOGO,GOGO,Gogo Inc.,Communication Services,Telecom Services,NMS,EQUITY
+VNOM,VNOM,"Viper Energy, Inc.",Energy,Oil & Gas Midstream,NMS,EQUITY
+FOSL,FOSL,"Fossil Group, Inc.",Consumer Cyclical,Footwear & Accessories,NMS,EQUITY
+VRSN,VRSN,"VeriSign, Inc.",Technology,Software - Infrastructure,NMS,EQUITY
+CNO,CNO,"CNO Financial Group, Inc.",Financial Services,Insurance - Life,NYQ,EQUITY
+EXP,EXP,Eagle Materials Inc.,Basic Materials,Building Materials,NYQ,EQUITY
+EGP,EGP,"EastGroup Properties, Inc.",Real Estate,REIT - Industrial,NYQ,EQUITY
+FRPT,FRPT,"Freshpet, Inc.",Consumer Defensive,Packaged Foods,NGM,EQUITY
+AWI,AWI,"Armstrong World Industries, Inc.",Industrials,Building Products & Equipment,NYQ,EQUITY
+PTCT,PTCT,"PTC Therapeutics, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+DCI,DCI,"Donaldson Company, Inc.",Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+HST,HST,"Host Hotels & Resorts, Inc.",Real Estate,REIT - Hotel & Motel,NMS,EQUITY
+HASI,HASI,"HA Sustainable Infrastructure Capital, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+MMS,MMS,"Maximus, Inc.",Industrials,Specialty Business Services,NYQ,EQUITY
+THO,THO,"THOR Industries, Inc.",Consumer Cyclical,Recreational Vehicles,NYQ,EQUITY
+KOS,KOS,Kosmos Energy Ltd.,Energy,Oil & Gas E&P,NYQ,EQUITY
+PFSI,PFSI,"PennyMac Financial Services, Inc.",Financial Services,Mortgage Finance,NYQ,EQUITY
+GEVO,GEVO,"Gevo, Inc.",Basic Materials,Specialty Chemicals,NCM,EQUITY
+NAT,NAT,Nordic American Tankers Limited,Energy,Oil & Gas Midstream,NYQ,EQUITY
+VMI,VMI,"Valmont Industries, Inc.",Industrials,Conglomerates,NYQ,EQUITY
+FXP,FXP,ProShares UltraShort FTSE China 50,,,PCX,ETF
+OGE,OGE,OGE Energy Corp.,Utilities,Utilities - Regulated Electric,NYQ,EQUITY
+TREE,TREE,"LendingTree, Inc.",Financial Services,Financial Conglomerates,NMS,EQUITY
+ARKG,ARKG,ARK Genomic Revolution ETF,,,BTS,ETF
+NTLA,NTLA,"Intellia Therapeutics, Inc.",Healthcare,Biotechnology,NGM,EQUITY
+ARW,ARW,"Arrow Electronics, Inc.",Technology,Electronics & Computer Distribution,NYQ,EQUITY
+ABM,ABM,ABM Industries Incorporated,Industrials,Specialty Business Services,NYQ,EQUITY
+OII,OII,"Oceaneering International, Inc.",Energy,Oil & Gas Equipment & Services,NYQ,EQUITY
+BKU,BKU,"BankUnited, Inc.",Financial Services,Banks - Regional,NYQ,EQUITY
+ANDE,ANDE,"The Andersons, Inc.",Consumer Defensive,Food Distribution,NMS,EQUITY
+THG,THG,"The Hanover Insurance Group, Inc.",Financial Services,Insurance - Property & Casualty,NYQ,EQUITY
+PBYI,PBYI,"Puma Biotechnology, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+ESNT,ESNT,Essent Group Ltd.,Financial Services,Insurance - Specialty,NYQ,EQUITY
+WOR,WOR,"Worthington Enterprises, Inc.",Industrials,Metal Fabrication,NYQ,EQUITY
+WNC,WNC,Wabash National Corporation,Industrials,Farm & Heavy Construction Machinery,NYQ,EQUITY
+MOD,MOD,Modine Manufacturing Company,Consumer Cyclical,Auto Parts,NYQ,EQUITY
+SWX,SWX,"Southwest Gas Holdings, Inc.",Utilities,Utilities - Regulated Gas,NYQ,EQUITY
+FXF,FXF,Invesco CurrencyShares Swiss Franc Trust,,,PCX,ETF
+CONN,CONN,,,,,
+RMBS,RMBS,Rambus Inc.,Technology,Semiconductors,NMS,EQUITY
+BOX,BOX,"Box, Inc.",Technology,Software - Infrastructure,NYQ,EQUITY
+VST,VST,Vistra Corp.,Utilities,Utilities - Independent Power Producers,NYQ,EQUITY
+CLFD,CLFD,"Clearfield, Inc.",Technology,Communication Equipment,NGM,EQUITY
+TTOO,TTOO,"T2 Biosystems, Inc.",Healthcare,Diagnostics & Research,PNK,EQUITY
+VXRT,VXRT,"Vaxart, Inc.",Healthcare,Biotechnology,OQX,EQUITY
+COHR,COHR,Coherent Corp.,Technology,Scientific & Technical Instruments,NYQ,EQUITY
+LNN,LNN,Lindsay Corporation,Industrials,Farm & Heavy Construction Machinery,NYQ,EQUITY
+TT,TT,Trane Technologies plc,Industrials,Building Products & Equipment,NYQ,EQUITY
+POR,POR,Portland General Electric Company,Utilities,Utilities - Regulated Electric,NYQ,EQUITY
+NEPT,NEPT,,,,,NONE
+IBM,IBM,International Business Machines Corporation,Technology,Information Technology Services,NYQ,EQUITY
+HIW,HIW,"Highwoods Properties, Inc.",Real Estate,REIT - Office,NYQ,EQUITY
+INFN,INFN,,,,,NONE
+PEN,PEN,"Penumbra, Inc.",Healthcare,Medical Devices,NYQ,EQUITY
+AMH,AMH,American Homes 4 Rent,Real Estate,REIT - Residential,NYQ,EQUITY
+PRI,PRI,"Primerica, Inc.",Financial Services,Insurance - Life,NYQ,EQUITY
+ACHC,ACHC,"Acadia Healthcare Company, Inc.",Healthcare,Medical Care Facilities,NMS,EQUITY
+NYMT,NYMT,,,,,
+MTD,MTD,Mettler-Toledo International Inc.,Healthcare,Diagnostics & Research,NYQ,EQUITY
+EDU,EDU,New Oriental Education & Technology Group Inc.,Consumer Defensive,Education & Training Services,NYQ,EQUITY
+QLYS,QLYS,"Qualys, Inc.",Technology,Software - Infrastructure,NMS,EQUITY
+BRX,BRX,Brixmor Property Group Inc.,Real Estate,REIT - Retail,NYQ,EQUITY
+HE,HE,"Hawaiian Electric Industries, Inc.",Utilities,Utilities - Regulated Electric,NYQ,EQUITY
+WDFC,WDFC,WD-40 Company,Basic Materials,Specialty Chemicals,NMS,EQUITY
+PLAB,PLAB,"Photronics, Inc.",Technology,Semiconductor Equipment & Materials,NMS,EQUITY
+CHN,CHN,,,,,
+APT,APT,"Alpha Pro Tech, Ltd.",Industrials,Building Products & Equipment,ASE,EQUITY
+EGHT,EGHT,"8x8, Inc.",Technology,Software - Application,NMS,EQUITY
+EVER,EVER,"EverQuote, Inc.",Communication Services,Internet Content & Information,NGM,EQUITY
+DXC,DXC,DXC Technology Company,Technology,Information Technology Services,NYQ,EQUITY
+INGR,INGR,Ingredion Incorporated,Consumer Defensive,Packaged Foods,NYQ,EQUITY
+FNB,FNB,F.N.B. Corporation,Financial Services,Banks - Regional,NYQ,EQUITY
+CLH,CLH,"Clean Harbors, Inc.",Industrials,Waste Management,NYQ,EQUITY
+PKB,PKB,Invesco Building & Construction ETF,,,PCX,ETF
+BBD,BBD,Banco Bradesco S.A.,Financial Services,Banks - Regional,NYQ,EQUITY
+TX,TX,Ternium S.A.,Basic Materials,Steel,NYQ,EQUITY
+KOP,KOP,Koppers Holdings Inc.,Basic Materials,Specialty Chemicals,NYQ,EQUITY
+BCO,BCO,The Brink's Company,Industrials,Security & Protection Services,NYQ,EQUITY
+MOO,MOO,VanEck Agribusiness ETF,,,PCX,ETF
+DOC,DOC,"Healthpeak Properties, Inc.",Real Estate,REIT - Healthcare Facilities,NYQ,EQUITY
+GERN,GERN,Geron Corporation,Healthcare,Biotechnology,NMS,EQUITY
+WWW,WWW,"Wolverine World Wide, Inc.",Consumer Cyclical,Footwear & Accessories,NYQ,EQUITY
+PFF,PFF,iShares Preferred and Income Securities ETF,,,NGM,ETF
+IAG,IAG,IAMGOLD Corporation,Basic Materials,Gold,NYQ,EQUITY
+HUBB,HUBB,Hubbell Incorporated,Industrials,Electrical Equipment & Parts,NYQ,EQUITY
+TKR,TKR,The Timken Company,Industrials,Tools & Accessories,NYQ,EQUITY
+DIN,DIN,"Dine Brands Global, Inc.",Consumer Cyclical,Restaurants,NYQ,EQUITY
+ACOR,ACOR,,,,,NONE
+EWG,EWG,iShares MSCI Germany ETF,,,PCX,ETF
+RIG,RIG,Transocean Ltd.,Energy,Oil & Gas Drilling,NYQ,EQUITY
+BOH,BOH,Bank of Hawaii Corporation,Financial Services,Banks - Regional,NYQ,EQUITY
+BLD,BLD,TopBuild Corp.,Industrials,Engineering & Construction,NYQ,EQUITY
+SUI,SUI,"Sun Communities, Inc.",Real Estate,REIT - Residential,NYQ,EQUITY
+VHT,VHT,Vanguard Health Care Index Fund ETF Shares,,,PCX,ETF
+ADTN,ADTN,"ADTRAN Holdings, Inc.",Technology,Communication Equipment,NMS,EQUITY
+DLB,DLB,"Dolby Laboratories, Inc.",Industrials,Specialty Business Services,NYQ,EQUITY
+TROX,TROX,Tronox Holdings plc,Basic Materials,Chemicals,NYQ,EQUITY
+OZK,OZK,Bank OZK,Financial Services,Banks - Regional,NMS,EQUITY
+COR,COR,"Cencora, Inc.",Healthcare,Medical Distribution,NYQ,EQUITY
+DIOD,DIOD,Diodes Incorporated,Technology,Semiconductors,NMS,EQUITY
+DVY,DVY,iShares Select Dividend ETF,,,NGM,ETF
+PRTS,PRTS,"CarParts.com, Inc.",Consumer Cyclical,Auto Parts,NCM,EQUITY
+AIN,AIN,Albany International Corp.,Consumer Cyclical,Textile Manufacturing,NYQ,EQUITY
+TER,TER,"Teradyne, Inc.",Technology,Semiconductor Equipment & Materials,NMS,EQUITY
+MTSI,MTSI,"MACOM Technology Solutions Holdings, Inc.",Technology,Semiconductors,NMS,EQUITY
+BJRI,BJRI,"BJ's Restaurants, Inc.",Consumer Cyclical,Restaurants,NMS,EQUITY
+TTC,TTC,The Toro Company,Industrials,Tools & Accessories,NYQ,EQUITY
+NTGR,NTGR,"NETGEAR, Inc.",Technology,Communication Equipment,NMS,EQUITY
+KBR,KBR,"KBR, Inc.",Industrials,Engineering & Construction,NYQ,EQUITY
+PRFT,PRFT,,,,,NONE
+WTFC,WTFC,Wintrust Financial Corporation,Financial Services,Banks - Regional,NMS,EQUITY
+AWK,AWK,"American Water Works Company, Inc.",Utilities,Utilities - Regulated Water,NYQ,EQUITY
+ASIX,ASIX,AdvanSix Inc.,Basic Materials,Chemicals,NYQ,EQUITY
+ATSG,ATSG,,,,,NONE
+HTHT,HTHT,H World Group Limited,Consumer Cyclical,Lodging,NMS,EQUITY
+PCRX,PCRX,"Pacira BioSciences, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,NMS,EQUITY
+ENVA,ENVA,"Enova International, Inc.",Financial Services,Credit Services,NYQ,EQUITY
+WIW,WIW,Western Asset Inflation-Linked Opportunities & Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+CHEF,CHEF,"The Chefs' Warehouse, Inc.",Consumer Defensive,Food Distribution,NMS,EQUITY
+NSIT,NSIT,"Insight Enterprises, Inc.",Technology,Electronics & Computer Distribution,NMS,EQUITY
+WPP,WPP,WPP plc,Communication Services,Advertising Agencies,NYQ,EQUITY
+TITN,TITN,Titan Machinery Inc.,Industrials,Industrial Distribution,NMS,EQUITY
+XSD,XSD,State Street SPDR S&P Semiconductor ETF,,,PCX,ETF
+YETI,YETI,"YETI Holdings, Inc.",Consumer Cyclical,Leisure,NYQ,EQUITY
+ARCH,ARCH,,,,,NONE
+GDDY,GDDY,GoDaddy Inc.,Technology,Software - Infrastructure,NYQ,EQUITY
+FBP,FBP,First BanCorp.,Financial Services,Banks - Regional,NYQ,EQUITY
+CCOI,CCOI,"Cogent Communications Holdings, Inc.",Communication Services,Telecom Services,NMS,EQUITY
+CYTK,CYTK,"Cytokinetics, Incorporated",Healthcare,Biotechnology,NMS,EQUITY
+AMED,AMED,,,,,
+TPH,TPH,"Tri Pointe Homes, Inc.",Consumer Cyclical,Residential Construction,NYQ,EQUITY
+EMB,EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,,,NGM,ETF
+CHD,CHD,"Church & Dwight Co., Inc.",Consumer Defensive,Household & Personal Products,NYQ,EQUITY
+EGLE,EGLE,Global X S&P 500 U.S. Revenue Leaders ETF,,,PCX,ETF
+CAE,CAE,CAE Inc.,Industrials,Aerospace & Defense,NYQ,EQUITY
+ASTE,ASTE,"Astec Industries, Inc.",Industrials,Farm & Heavy Construction Machinery,NMS,EQUITY
+BKH,BKH,Black Hills Corporation,Utilities,Utilities - Regulated Gas,NYQ,EQUITY
+GATX,GATX,GATX Corporation,Industrials,Rental & Leasing Services,NYQ,EQUITY
+MTRN,MTRN,Materion Corporation,Basic Materials,Other Industrial Metals & Mining,NYQ,EQUITY
+IART,IART,Integra LifeSciences Holdings Corporation,Healthcare,Medical Devices,NMS,EQUITY
+WTRG,WTRG,"Essential Utilities, Inc.",Utilities,Utilities - Regulated Water,NYQ,EQUITY
+RDN,RDN,Radian Group Inc.,Financial Services,Insurance - Specialty,NYQ,EQUITY
+FM,FM,iShares Frontier and Select EM ETF,,,PCX,ETF
+BOKF,BOKF,BOK Financial Corporation,Financial Services,Banks - Regional,NMS,EQUITY
+VFH,VFH,Vanguard Financials Index Fund ETF Shares,,,PCX,ETF
+CANF,CANF,Can-Fite BioPharma Ltd.,Healthcare,Biotechnology,ASE,EQUITY
+XRAY,XRAY,DENTSPLY SIRONA Inc.,Healthcare,Medical Instruments & Supplies,NMS,EQUITY
+KEX,KEX,Kirby Corporation,Industrials,Marine Shipping,NYQ,EQUITY
+CLS,CLS,Celestica Inc.,Technology,Electronic Components,NYQ,EQUITY
+FIX,FIX,"Comfort Systems USA, Inc.",Industrials,Engineering & Construction,NYQ,EQUITY
+MVIS,MVIS,"MicroVision, Inc.",Technology,Scientific & Technical Instruments,NGM,EQUITY
+TLYS,TLYS,"Tilly's, Inc.",Consumer Cyclical,Apparel Retail,NYQ,EQUITY
+BDC,BDC,Belden Inc.,Technology,Communication Equipment,NYQ,EQUITY
+FR,FR,"First Industrial Realty Trust, Inc.",Real Estate,REIT - Industrial,NYQ,EQUITY
+RARE,RARE,Ultragenyx Pharmaceutical Inc.,Healthcare,Biotechnology,NMS,EQUITY
+ALTR,ALTR,,,,,NONE
+APPN,APPN,Appian Corporation,Technology,Software - Infrastructure,NGM,EQUITY
+KRC,KRC,Kilroy Realty Corporation,Real Estate,REIT - Office,NYQ,EQUITY
+AGQ,AGQ,ProShares Ultra Silver,,,PCX,ETF
+GVA,GVA,Granite Construction Incorporated,Industrials,Engineering & Construction,NYQ,EQUITY
+AOS,AOS,A. O. Smith Corporation,Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+NVTA,NVTA,,,,,NONE
+OSIS,OSIS,"OSI Systems, Inc.",Technology,Electronic Components,NMS,EQUITY
+ALE,ALE,,,,,
+KFY,KFY,Korn Ferry,Industrials,Staffing & Employment Services,NYQ,EQUITY
+AHT,AHT,"Ashford Hospitality Trust, Inc.",Real Estate,REIT - Hotel & Motel,NYQ,EQUITY
+EVRG,EVRG,"Evergy, Inc.",Utilities,Utilities - Regulated Electric,NMS,EQUITY
+EUO,EUO,ProShares UltraShort Euro,,,PCX,ETF
+ESPR,ESPR,"Esperion Therapeutics, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,NGM,EQUITY
+HEES,HEES,,,,,NONE
+USM,USM,,,,,
+MTUM,MTUM,iShares MSCI USA Momentum Factor ETF,,,BTS,ETF
+RHI,RHI,Robert Half Inc.,Industrials,Staffing & Employment Services,NYQ,EQUITY
+FMS,FMS,Fresenius Medical Care AG,Healthcare,Medical Care Facilities,NYQ,EQUITY
+GSL,GSL,"Global Ship Lease, Inc.",Industrials,Marine Shipping,NYQ,EQUITY
+ASC,ASC,Ardmore Shipping Corporation,Industrials,Marine Shipping,NYQ,EQUITY
+AJG,AJG,Arthur J. Gallagher & Co.,Financial Services,Insurance Brokers,NYQ,EQUITY
+AMG,AMG,"Affiliated Managers Group, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+WAFD,WAFD,"WaFd, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+AMWD,AMWD,American Woodmark Corporation,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NMS,EQUITY
+PRIM,PRIM,Primoris Services Corporation,Industrials,Engineering & Construction,NYQ,EQUITY
+MRTX,MRTX,,,,,NONE
+VB,VB,Vanguard Small-Cap Index Fund ETF Shares,,,PCX,ETF
+HDV,HDV,iShares Core High Dividend ETF,,,PCX,ETF
+APPS,APPS,"Digital Turbine, Inc.",Technology,Software - Application,NCM,EQUITY
+DGRO,DGRO,iShares Core Dividend Growth ETF,,,PCX,ETF
+SWI,SWI,,,,,NONE
+APOG,APOG,"Apogee Enterprises, Inc.",Industrials,Building Products & Equipment,NMS,EQUITY
+ALG,ALG,Alamo Group Inc.,Industrials,Farm & Heavy Construction Machinery,NYQ,EQUITY
+NMIH,NMIH,"NMI Holdings, Inc.",Financial Services,Insurance - Specialty,NGM,EQUITY
+APLS,APLS,"Apellis Pharmaceuticals, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+FNKO,FNKO,"Funko, Inc.",Consumer Cyclical,Leisure,NMS,EQUITY
+VIRT,VIRT,"Virtu Financial, Inc.",Financial Services,Capital Markets,NYQ,EQUITY
+ASHR,ASHR,Xtrackers Harvest CSI 300 China A-Shares ETF,,,PCX,ETF
+ARAY,ARAY,Accuray Incorporated,Healthcare,Medical Devices,NMS,EQUITY
+AGEN,AGEN,Agenus Inc.,Healthcare,Biotechnology,NCM,EQUITY
+NGD,NGD,New Gold Inc.,Basic Materials,Gold,ASE,EQUITY
+GDOT,GDOT,Green Dot Corporation,Financial Services,Credit Services,NYQ,EQUITY
+CPA,CPA,"Copa Holdings, S.A.",Industrials,Airlines,NYQ,EQUITY
+VRNS,VRNS,"Varonis Systems, Inc.",Technology,Software - Infrastructure,NMS,EQUITY
+ATRA,ATRA,"Atara Biotherapeutics, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+DENN,DENN,Denny's Corporation,Consumer Cyclical,Restaurants,NCM,EQUITY
+CBAY,CBAY,,,,,NONE
+LH,LH,Labcorp Holdings Inc.,Healthcare,Diagnostics & Research,NYQ,EQUITY
+TAST,TAST,,,,,NONE
+PFLT,PFLT,PennantPark Floating Rate Capital Ltd.,Financial Services,Asset Management,NYQ,EQUITY
+SPTN,SPTN,,,,,
+IAC,IAC,IAC Inc.,Communication Services,Internet Content & Information,NMS,EQUITY
+WTS,WTS,"Watts Water Technologies, Inc.",Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+BPTH,BPTH,"Bio-Path Holdings, Inc.",Healthcare,Biotechnology,PNK,EQUITY
+LAKE,LAKE,"Lakeland Industries, Inc.",Consumer Cyclical,Apparel Manufacturing,NGM,EQUITY
+FUL,FUL,H.B. Fuller Company,Basic Materials,Specialty Chemicals,NYQ,EQUITY
+CDNA,CDNA,"CareDx, Inc.",Healthcare,Diagnostics & Research,NGM,EQUITY
+VRT,VRT,Vertiv Holdings Co,Industrials,Electrical Equipment & Parts,NYQ,EQUITY
+AIV,AIV,Apartment Investment and Management Company,Real Estate,REIT - Residential,NYQ,EQUITY
+RGEN,RGEN,Repligen Corporation,Healthcare,Medical Instruments & Supplies,NMS,EQUITY
+AEG,AEG,Aegon Ltd.,Financial Services,Insurance - Diversified,NYQ,EQUITY
+RH,RH,RH,Consumer Cyclical,Specialty Retail,NYQ,EQUITY
+FATE,FATE,"Fate Therapeutics, Inc.",Healthcare,Biotechnology,NGM,EQUITY
+HUBG,HUBG,"Hub Group, Inc.",Industrials,Integrated Freight & Logistics,NMS,EQUITY
+RJF,RJF,"Raymond James Financial, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+HCSG,HCSG,"Healthcare Services Group, Inc.",Healthcare,Medical Care Facilities,NMS,EQUITY
+MXL,MXL,"MaxLinear, Inc.",Technology,Semiconductors,NMS,EQUITY
+EPV,EPV,ProShares UltraShort FTSE Europe,,,PCX,ETF
+NFE,NFE,New Fortress Energy Inc.,Energy,Oil & Gas Midstream,NMS,EQUITY
+ESLT,ESLT,Elbit Systems Ltd.,Industrials,Aerospace & Defense,NMS,EQUITY
+KODK,KODK,Eastman Kodak Company,Industrials,Specialty Business Services,NYQ,EQUITY
+UPWK,UPWK,Upwork Inc.,Communication Services,Internet Content & Information,NMS,EQUITY
+ESTC,ESTC,Elastic N.V.,Technology,Software - Application,NYQ,EQUITY
+ESI,ESI,Element Solutions Inc,Basic Materials,Specialty Chemicals,NYQ,EQUITY
+BLMN,BLMN,"Bloomin' Brands, Inc.",Consumer Cyclical,Restaurants,NMS,EQUITY
+UUUU,UUUU,Energy Fuels Inc.,Energy,Uranium,ASE,EQUITY
+UMC,UMC,United Microelectronics Corporation,Technology,Semiconductors,NYQ,EQUITY
+ANSS,ANSS,,,,,
+CVLT,CVLT,"Commvault Systems, Inc.",Technology,Software - Application,NMS,EQUITY
+KMPR,KMPR,Kemper Corporation,Financial Services,Insurance - Property & Casualty,NYQ,EQUITY
+BGS,BGS,"B&G Foods, Inc.",Consumer Defensive,Packaged Foods,NYQ,EQUITY
+HUYA,HUYA,HUYA Inc.,Communication Services,Entertainment,NYQ,EQUITY
+GGB,GGB,Gerdau S.A.,Basic Materials,Steel,NYQ,EQUITY
+DUST,DUST,Direxion Daily Gold Miners Index Bear 2X Shares,,,PCX,ETF
+CRH,CRH,CRH plc,Basic Materials,Building Materials,NYQ,EQUITY
+CMP,CMP,"Compass Minerals International, Inc.",Basic Materials,Other Industrial Metals & Mining,NYQ,EQUITY
+FND,FND,"Floor & Decor Holdings, Inc.",Consumer Cyclical,Home Improvement Retail,NYQ,EQUITY
+HTH,HTH,Hilltop Holdings Inc.,Financial Services,Financial Conglomerates,NYQ,EQUITY
+TXMD,TXMD,"TherapeuticsMD, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,NMS,EQUITY
+CRTO,CRTO,Criteo S.A.,Communication Services,Advertising Agencies,NMS,EQUITY
+KNX,KNX,Knight-Swift Transportation Holdings Inc.,Industrials,Trucking,NYQ,EQUITY
+LYV,LYV,"Live Nation Entertainment, Inc.",Communication Services,Entertainment,NYQ,EQUITY
+DSX,DSX,Diana Shipping Inc.,Industrials,Marine Shipping,NYQ,EQUITY
+CWCO,CWCO,Consolidated Water Co. Ltd.,Utilities,Utilities - Regulated Water,NMS,EQUITY
+VLY,VLY,Valley National Bancorp,Financial Services,Banks - Regional,NMS,EQUITY
+FTV,FTV,Fortive Corporation,Technology,Scientific & Technical Instruments,NYQ,EQUITY
+WW,WW,"WW International, Inc.",Healthcare,Medical Care Facilities,NGM,EQUITY
+MSEX,MSEX,Middlesex Water Company,Utilities,Utilities - Regulated Water,NMS,EQUITY
+INGN,INGN,"Inogen, Inc.",Healthcare,Medical Devices,NMS,EQUITY
+DRQ,DRQ,,,,,NONE
+DKL,DKL,"Delek Logistics Partners, LP",Energy,Oil & Gas Refining & Marketing,NYQ,EQUITY
+NNVC,NNVC,"NanoViricides, Inc.",Healthcare,Biotechnology,ASE,EQUITY
+TELL,TELL,,,,,NONE
+PEGA,PEGA,Pegasystems Inc.,Technology,Software - Application,NMS,EQUITY
+HURN,HURN,Huron Consulting Group Inc.,Industrials,Consulting Services,NMS,EQUITY
+MRNS,MRNS,,,,,NONE
+BAP,BAP,Credicorp Ltd.,Financial Services,Banks - Regional,NYQ,EQUITY
+PATK,PATK,"Patrick Industries, Inc.",Consumer Cyclical,Recreational Vehicles,NMS,EQUITY
+PCH,PCH,PotlatchDeltic Corporation,Real Estate,REIT - Specialty,NMS,EQUITY
+EBIX,EBIX,,,,,NONE
+AMX,AMX,"América Móvil, S.A.B. de C.V.",Communication Services,Telecom Services,NYQ,EQUITY
+WMS,WMS,"Advanced Drainage Systems, Inc.",Industrials,Building Products & Equipment,NYQ,EQUITY
+FULT,FULT,Fulton Financial Corporation,Financial Services,Banks - Regional,NMS,EQUITY
+MNKD,MNKD,MannKind Corporation,Healthcare,Biotechnology,NGM,EQUITY
+EXPO,EXPO,"Exponent, Inc.",Industrials,Engineering & Construction,NMS,EQUITY
+JBLU,JBLU,JetBlue Airways Corporation,Industrials,Airlines,NMS,EQUITY
+MORN,MORN,"Morningstar, Inc.",Financial Services,Financial Data & Stock Exchanges,NMS,EQUITY
+FORM,FORM,"FormFactor, Inc.",Technology,Semiconductor Equipment & Materials,NMS,EQUITY
+TPL,TPL,Texas Pacific Land Corporation,Energy,Oil & Gas E&P,NYQ,EQUITY
+AGI,AGI,Alamos Gold Inc.,Basic Materials,Gold,NYQ,EQUITY
+RDY,RDY,Dr. Reddy's Laboratories Limited,Healthcare,Drug Manufacturers - Specialty & Generic,NYQ,EQUITY
+TRU,TRU,TransUnion,Financial Services,Financial Data & Stock Exchanges,NYQ,EQUITY
+CCS,CCS,"Century Communities, Inc.",Real Estate,Real Estate - Development,NYQ,EQUITY
+ADXS,ADXS,"Ayala Pharmaceuticals, Inc.",Healthcare,Biotechnology,PNK,EQUITY
+JCI,JCI,Johnson Controls International plc,Industrials,Building Products & Equipment,NYQ,EQUITY
+PNFP,PNFP,"Pinnacle Financial Partners, Inc.",Financial Services,Banks - Regional,NYQ,EQUITY
+HPP,HPP,"Hudson Pacific Properties, Inc.",Real Estate,REIT - Office,NYQ,EQUITY
+YCS,YCS,ProShares UltraShort Yen,,,PCX,ETF
+REG,REG,Regency Centers Corporation,Real Estate,REIT - Retail,NMS,EQUITY
+HBM,HBM,Hudbay Minerals Inc.,Basic Materials,Copper,NYQ,EQUITY
+EGY,EGY,"VAALCO Energy, Inc.",Energy,Oil & Gas E&P,NYQ,EQUITY
+ATUS,ATUS,,,,,
+ICF,ICF,iShares Select U.S. REIT ETF,,,BTS,ETF
+ETRN,ETRN,,,,,NONE
+TSEM,TSEM,Tower Semiconductor Ltd.,Technology,Semiconductors,NMS,EQUITY
+CHUY,CHUY,,,,,NONE
+UBSI,UBSI,"United Bankshares, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+LMT,LMT,Lockheed Martin Corporation,Industrials,Aerospace & Defense,NYQ,EQUITY
+HLF,HLF,Herbalife Ltd.,Consumer Defensive,Packaged Foods,NYQ,EQUITY
+FSM,FSM,Fortuna Mining Corp.,Basic Materials,Gold,NYQ,EQUITY
+REM,REM,iShares Mortgage Real Estate Capped ETF,,,BTS,ETF
+POWI,POWI,"Power Integrations, Inc.",Technology,Semiconductors,NMS,EQUITY
+WHD,WHD,"Cactus, Inc.",Energy,Oil & Gas Equipment & Services,NYQ,EQUITY
+LPLA,LPLA,LPL Financial Holdings Inc.,Financial Services,Capital Markets,NMS,EQUITY
+KNDI,KNDI,"Kandi Technologies Group, Inc.",Consumer Cyclical,Recreational Vehicles,NMS,EQUITY
+AGRX,AGRX,,,,,NONE
+OCUL,OCUL,"Ocular Therapeutix, Inc.",Healthcare,Biotechnology,NGM,EQUITY
+EUFN,EUFN,iShares MSCI Europe Financials ETF,,,NGM,ETF
+BMA,BMA,Banco Macro S.A.,Financial Services,Banks - Regional,NYQ,EQUITY
+RVNC,RVNC,,,,,NONE
+AMKR,AMKR,"Amkor Technology, Inc.",Technology,Semiconductor Equipment & Materials,NMS,EQUITY
+CALX,CALX,"Calix, Inc.",Technology,Software - Infrastructure,NYQ,EQUITY
+ATR,ATR,"AptarGroup, Inc.",Healthcare,Medical Instruments & Supplies,NYQ,EQUITY
+GBCI,GBCI,"Glacier Bancorp, Inc.",Financial Services,Banks - Regional,NYQ,EQUITY
+ONB,ONB,Old National Bancorp,Financial Services,Banks - Regional,NMS,EQUITY
+GPC,GPC,Genuine Parts Company,Consumer Cyclical,Auto Parts,NYQ,EQUITY
+ACST,ACST,,,,,NONE
+CEIX,CEIX,,,,,NONE
+CXW,CXW,"CoreCivic, Inc.",Industrials,Security & Protection Services,NYQ,EQUITY
+DAC,DAC,Danaos Corporation,Industrials,Marine Shipping,NYQ,EQUITY
+RWLK,RWLK,,,,,NONE
+ASGN,ASGN,ASGN Incorporated,Technology,Information Technology Services,NYQ,EQUITY
+EFC,EFC,Ellington Financial Inc.,Real Estate,REIT - Mortgage,NYQ,EQUITY
+OTEX,OTEX,Open Text Corporation,Technology,Software - Application,NMS,EQUITY
+WIT,WIT,Wipro Limited,Technology,Information Technology Services,NYQ,EQUITY
+VOE,VOE,Vanguard Mid-Cap Value Index Fund ETF Shares,,,PCX,ETF
+ARI,ARI,"Apollo Commercial Real Estate Finance, Inc.",Real Estate,REIT - Mortgage,NYQ,EQUITY
+TAC,TAC,TransAlta Corporation,Utilities,Utilities - Independent Power Producers,NYQ,EQUITY
+FIZZ,FIZZ,National Beverage Corp.,Consumer Defensive,Beverages - Non-Alcoholic,NMS,EQUITY
+ARDX,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,NGM,EQUITY
+HI,HI,"Hillenbrand, Inc.",Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+WPRT,WPRT,Westport Fuel Systems Inc.,Consumer Cyclical,Auto Parts,NMS,EQUITY
+BTE,BTE,Baytex Energy Corp.,Energy,Oil & Gas E&P,NYQ,EQUITY
+EWA,EWA,iShares MSCI Australia ETF,,,PCX,ETF
+MX,MX,Magnachip Semiconductor Corporation,Technology,Semiconductors,NYQ,EQUITY
+SXC,SXC,"SunCoke Energy, Inc.",Basic Materials,Coking Coal,NYQ,EQUITY
+AGIO,AGIO,"Agios Pharmaceuticals, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+VBIV,VBIV,,,,,
+COPX,COPX,Global X Copper Miners ETF,,,PCX,ETF
+JACK,JACK,Jack in the Box Inc.,Consumer Cyclical,Restaurants,NMS,EQUITY
+USAC,USAC,"USA Compression Partners, LP",Energy,Oil & Gas Equipment & Services,NYQ,EQUITY
+CHDN,CHDN,Churchill Downs Incorporated,Consumer Cyclical,Gambling,NMS,EQUITY
+OFG,OFG,OFG Bancorp,Financial Services,Banks - Regional,NYQ,EQUITY
+PAGS,PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,NYQ,EQUITY
+CAMT,CAMT,Camtek Ltd.,Technology,Semiconductor Equipment & Materials,NGM,EQUITY
+PLL,PLL,,,,,
+LRCX,LRCX,Lam Research Corporation,Technology,Semiconductor Equipment & Materials,NMS,EQUITY
+RGR,RGR,"Sturm, Ruger & Company, Inc.",Industrials,Aerospace & Defense,NYQ,EQUITY
+NHI,NHI,"National Health Investors, Inc.",Real Estate,REIT - Healthcare Facilities,NYQ,EQUITY
+GEL,GEL,"Genesis Energy, L.P.",Energy,Oil & Gas Midstream,NYQ,EQUITY
+RDHL,RDHL,RedHill Biopharma Ltd.,Healthcare,Drug Manufacturers - Specialty & Generic,NCM,EQUITY
+CAL,CAL,"Caleres, Inc.",Consumer Cyclical,Apparel Retail,NYQ,EQUITY
+DX,DX,"Dynex Capital, Inc.",Real Estate,REIT - Mortgage,NYQ,EQUITY
+CRMT,CRMT,"America's Car-Mart, Inc.",Consumer Cyclical,Auto & Truck Dealerships,NMS,EQUITY
+FCFS,FCFS,"FirstCash Holdings, Inc.",Financial Services,Credit Services,NMS,EQUITY
+VRA,VRA,"Vera Bradley, Inc.",Consumer Cyclical,Footwear & Accessories,NMS,EQUITY
+AGR,AGR,,,,,NONE
+QUAL,QUAL,iShares MSCI USA Quality Factor ETF,,,BTS,ETF
+BBSI,BBSI,"Barrett Business Services, Inc.",Industrials,Staffing & Employment Services,NMS,EQUITY
+BSBR,BSBR,Banco Santander (Brasil) S.A.,Financial Services,Banks - Regional,NYQ,EQUITY
+FMX,FMX,"Fomento Económico Mexicano, S.A.B. de C.V.",Consumer Defensive,Beverages - Brewers,NYQ,EQUITY
+ANGI,ANGI,Angi Inc.,Communication Services,Internet Content & Information,NMS,EQUITY
+DXJ,DXJ,WisdomTree Japan Hedged Equity Fund,,,PCX,ETF
+DHT,DHT,"DHT Holdings, Inc.",Energy,Oil & Gas Midstream,NYQ,EQUITY
+TBIO,TBIO,"Telesis Bio, Inc.",Healthcare,Medical Devices,PNK,EQUITY
+ABEV,ABEV,Ambev S.A.,Consumer Defensive,Beverages - Brewers,NYQ,EQUITY
+PUMP,PUMP,ProPetro Holding Corp.,Energy,Oil & Gas Equipment & Services,NYQ,EQUITY
+AGO,AGO,Assured Guaranty Ltd.,Financial Services,Insurance - Specialty,NYQ,EQUITY
+ONTX,ONTX,,,,,NONE
+FLWS,FLWS,"1-800-FLOWERS.COM, Inc.",Consumer Cyclical,Specialty Retail,NMS,EQUITY
+QTWO,QTWO,"Q2 Holdings, Inc.",Technology,Software - Application,NYQ,EQUITY
+LSCC,LSCC,Lattice Semiconductor Corporation,Technology,Semiconductors,NMS,EQUITY
+PEAK,PEAK,,,,,NONE
+EXLS,EXLS,"ExlService Holdings, Inc.",Technology,Information Technology Services,NMS,EQUITY
+GBDC,GBDC,"Golub Capital BDC, Inc.",Financial Services,Asset Management,NMS,EQUITY
+CLW,CLW,Clearwater Paper Corporation,Basic Materials,Paper & Paper Products,NYQ,EQUITY
+PBH,PBH,Prestige Consumer Healthcare Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,NYQ,EQUITY
+NMM,NMM,Navios Maritime Partners L.P.,Industrials,Marine Shipping,NYQ,EQUITY
+CATY,CATY,Cathay General Bancorp,Financial Services,Banks - Regional,NMS,EQUITY
+CASH,CASH,"Pathward Financial, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+AMRC,AMRC,"Ameresco, Inc.",Industrials,Engineering & Construction,NYQ,EQUITY
+NWE,NWE,"NorthWestern Energy Group, Inc.",Utilities,Utilities - Regulated Electric,NMS,EQUITY
+EGBN,EGBN,"Eagle Bancorp, Inc.",Financial Services,Banks - Regional,NCM,EQUITY
+AMPH,AMPH,"Amphastar Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,NMS,EQUITY
+ARKQ,ARKQ,ARK Autonomous Technology & Robotics ETF,,,BTS,ETF
+TNP,TNP,,,,,NONE
+TOPS,TOPS,Top Ships Inc.,Energy,Oil & Gas Midstream,ASE,EQUITY
+BP,BP,BP p.l.c.,Energy,Oil & Gas Integrated,NYQ,EQUITY
+LNC,LNC,Lincoln National Corporation,Financial Services,Insurance - Life,NYQ,EQUITY
+BPT,BPT,,,,,NONE
+RBA,RBA,"RB Global, Inc.",Industrials,Specialty Business Services,NYQ,EQUITY
+AVB,AVB,"AvalonBay Communities, Inc.",Real Estate,REIT - Residential,NYQ,EQUITY
+HCI,HCI,"HCI Group, Inc.",Financial Services,Insurance - Property & Casualty,NYQ,EQUITY
+USNA,USNA,"USANA Health Sciences, Inc.",Consumer Defensive,Packaged Foods,NYQ,EQUITY
+TSLX,TSLX,"Sixth Street Specialty Lending, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+TRUE,TRUE,"TrueCar, Inc.",Communication Services,Internet Content & Information,NMS,EQUITY
+RHP,RHP,"Ryman Hospitality Properties, Inc.",Real Estate,REIT - Hotel & Motel,NYQ,EQUITY
+BGNE,BGNE,,,,,NONE
+VSTM,VSTM,"Verastem, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+MWA,MWA,"Mueller Water Products, Inc.",Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+PINC,PINC,"Premier, Inc.",Healthcare,Health Information Services,NMS,EQUITY
+HIBB,HIBB,,,,,NONE
+PDS,PDS,Precision Drilling Corporation,Energy,Oil & Gas Drilling,NYQ,EQUITY
+GTLS,GTLS,"Chart Industries, Inc.",Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+VXUS,VXUS,Vanguard Total International Stock Index Fund ETF Shares,,,NGM,ETF
+TALO,TALO,Talos Energy Inc.,Energy,Oil & Gas E&P,NYQ,EQUITY
+NUS,NUS,"Nu Skin Enterprises, Inc.",Consumer Defensive,Household & Personal Products,NYQ,EQUITY
+AROC,AROC,"Archrock, Inc.",Energy,Oil & Gas Equipment & Services,NYQ,EQUITY
+TNET,TNET,"TriNet Group, Inc.",Industrials,Staffing & Employment Services,NYQ,EQUITY
+MOV,MOV,"Movado Group, Inc.",Consumer Cyclical,Luxury Goods,NYQ,EQUITY
+EWI,EWI,iShares MSCI Italy ETF,,,PCX,ETF
+IBKR,IBKR,"Interactive Brokers Group, Inc.",Financial Services,Capital Markets,NMS,EQUITY
+NSSC,NSSC,"Napco Security Technologies, Inc.",Industrials,Security & Protection Services,NMS,EQUITY
+BCRX,BCRX,"BioCryst Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,NMS,EQUITY
+TV,TV,"Grupo Televisa, S.A.B.",Communication Services,Telecom Services,NYQ,EQUITY
+OMF,OMF,"OneMain Holdings, Inc.",Financial Services,Credit Services,NYQ,EQUITY
+SVM,SVM,Silvercorp Metals Inc.,Basic Materials,Silver,ASE,EQUITY
+HRTX,HRTX,"Heron Therapeutics, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+AUDC,AUDC,AudioCodes Ltd.,Technology,Communication Equipment,NMS,EQUITY
+BNGO,BNGO,"Bionano Genomics, Inc.",Healthcare,Medical Instruments & Supplies,NCM,EQUITY
+ACIW,ACIW,"ACI Worldwide, Inc.",Technology,Software - Infrastructure,NMS,EQUITY
+TBPH,TBPH,"Theravance Biopharma, Inc.",Healthcare,Biotechnology,NGM,EQUITY
+DBA,DBA,Invesco DB Agriculture Fund,,,PCX,ETF
+CAPL,CAPL,CrossAmerica Partners LP,Energy,Oil & Gas Refining & Marketing,NYQ,EQUITY
+AEHR,AEHR,"Aehr Test Systems, Inc.",Technology,Semiconductor Equipment & Materials,NCM,EQUITY
+COLB,COLB,"Columbia Banking System, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+ALLO,ALLO,"Allogene Therapeutics, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+MNRO,MNRO,"Monro, Inc.",Consumer Cyclical,Auto Parts,NMS,EQUITY
+RCI,RCI,Rogers Communications Inc.,Communication Services,Telecom Services,NYQ,EQUITY
+FWRD,FWRD,Forward Air Corporation,Industrials,Integrated Freight & Logistics,NMS,EQUITY
+OPTT,OPTT,"Ocean Power Technologies, Inc.",Industrials,Specialty Industrial Machinery,ASE,EQUITY
+JBL,JBL,Jabil Inc.,Technology,Electronic Components,NYQ,EQUITY
+DBC,DBC,Invesco DB Commodity Index Tracking Fund,,,PCX,ETF
+FELE,FELE,"Franklin Electric Co., Inc.",Industrials,Specialty Industrial Machinery,NMS,EQUITY
+PFS,PFS,"Provident Financial Services, Inc.",Financial Services,Banks - Regional,NYQ,EQUITY
+HOV,HOV,"Hovnanian Enterprises, Inc.",Consumer Cyclical,Residential Construction,NYQ,EQUITY
+TTMI,TTMI,"TTM Technologies, Inc.",Technology,Electronic Components,NMS,EQUITY
+ESRT,ESRT,"Empire State Realty Trust, Inc.",Real Estate,REIT - Diversified,NYQ,EQUITY
+FI,FI,,,,,
+RTH,RTH,VanEck Retail ETF,,,NGM,ETF
+WH,WH,"Wyndham Hotels & Resorts, Inc.",Consumer Cyclical,Lodging,NYQ,EQUITY
+KLIC,KLIC,"Kulicke and Soffa Industries, Inc.",Technology,Semiconductor Equipment & Materials,NMS,EQUITY
+EIG,EIG,"Employers Holdings, Inc.",Financial Services,Insurance - Specialty,NYQ,EQUITY
+TCS,TCS,,,,,NONE
+BPMC,BPMC,,,,,NONE
+HVT,HVT,"Haverty Furniture Companies, Inc.",Consumer Cyclical,Home Improvement Retail,NYQ,EQUITY
+TWI,TWI,"Titan International, Inc.",Industrials,Farm & Heavy Construction Machinery,NYQ,EQUITY
+CPK,CPK,Chesapeake Utilities Corporation,Utilities,Utilities - Regulated Gas,NYQ,EQUITY
+USFD,USFD,US Foods Holding Corp.,Consumer Defensive,Food Distribution,NYQ,EQUITY
+CRI,CRI,"Carter's, Inc.",Consumer Cyclical,Apparel Retail,NYQ,EQUITY
+QUAD,QUAD,"Quad/Graphics, Inc.",Industrials,Specialty Business Services,NYQ,EQUITY
+XXII,XXII,"22nd Century Group, Inc.",Consumer Defensive,Tobacco,NCM,EQUITY
+ASA,ASA,ASA Gold and Precious Metals Limited,Financial Services,Asset Management,NYQ,EQUITY
+GRBK,GRBK,"Green Brick Partners, Inc.",Consumer Cyclical,Residential Construction,NYQ,EQUITY
+CARG,CARG,"CarGurus, Inc.",Consumer Cyclical,Auto & Truck Dealerships,NMS,EQUITY
+SUPN,SUPN,"Supernus Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,NGM,EQUITY
+ECPG,ECPG,"Encore Capital Group, Inc.",Financial Services,Credit Services,NMS,EQUITY
+GAIN,GAIN,Gladstone Investment Corporation,Financial Services,Asset Management,NMS,EQUITY
+CQP,CQP,"Cheniere Energy Partners, L.P.",Energy,Oil & Gas Midstream,NYQ,EQUITY
+XLC,XLC,State Street Communication Services Select Sector SPDR ETF,,,PCX,ETF
+COHU,COHU,"Cohu, Inc.",Technology,Semiconductor Equipment & Materials,NMS,EQUITY
+AKBA,AKBA,"Akebia Therapeutics, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,NCM,EQUITY
+TGI,TGI,,,,,
+ALDX,ALDX,"Aldeyra Therapeutics, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+EWY,EWY,iShares MSCI South Korea ETF,,,PCX,ETF
+FOR,FOR,Forestar Group Inc.,Real Estate,Real Estate - Development,NYQ,EQUITY
+DRRX,DRRX,,,,,NONE
+ADNT,ADNT,Adient plc,Consumer Cyclical,Auto Parts,NYQ,EQUITY
+HGV,HGV,Hilton Grand Vacations Inc.,Consumer Cyclical,Resorts & Casinos,NYQ,EQUITY
+UCBI,UCBI,,,,,
+UVV,UVV,Universal Corporation,Consumer Defensive,Tobacco,NYQ,EQUITY
+GPI,GPI,"Group 1 Automotive, Inc.",Consumer Cyclical,Auto & Truck Dealerships,NYQ,EQUITY
+ERIE,ERIE,Erie Indemnity Company,Financial Services,Insurance Brokers,NMS,EQUITY
+ABCB,ABCB,Ameris Bancorp,Financial Services,Banks - Regional,NYQ,EQUITY
+BGFV,BGFV,,,,,
+RMTI,RMTI,"Rockwell Medical, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,NCM,EQUITY
+CEVA,CEVA,"CEVA, Inc.",Technology,Semiconductors,NMS,EQUITY
+PRLB,PRLB,"Proto Labs, Inc.",Industrials,Metal Fabrication,NYQ,EQUITY
+CACC,CACC,Credit Acceptance Corporation,Financial Services,Credit Services,NMS,EQUITY
+DGII,DGII,Digi International Inc.,Technology,Communication Equipment,NMS,EQUITY
+UEC,UEC,Uranium Energy Corp.,Energy,Uranium,ASE,EQUITY
+BFAM,BFAM,Bright Horizons Family Solutions Inc.,Consumer Cyclical,Personal Services,NYQ,EQUITY
+NSTG,NSTG,,,,,NONE
+NOMD,NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,NYQ,EQUITY
+GL,GL,Globe Life Inc.,Financial Services,Insurance - Life,NYQ,EQUITY
+MYE,MYE,"Myers Industries, Inc.",Consumer Cyclical,Packaging & Containers,NYQ,EQUITY
+OMER,OMER,Omeros Corporation,Healthcare,Biotechnology,NGM,EQUITY
+INDB,INDB,Independent Bank Corp.,Financial Services,Banks - Regional,NMS,EQUITY
+VBK,VBK,Vanguard Small-Cap Growth Index Fund ETF Shares,,,PCX,ETF
+DGRW,DGRW,WisdomTree U.S. Quality Dividend Growth Fund,,,NGM,ETF
+NVT,NVT,nVent Electric plc,Industrials,Electrical Equipment & Parts,NYQ,EQUITY
+VRTS,VRTS,"Virtus Investment Partners, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+NEWT,NEWT,"NewtekOne, Inc.",Financial Services,Banks - Regional,NGM,EQUITY
+AVAV,AVAV,"AeroVironment, Inc.",Industrials,Aerospace & Defense,NMS,EQUITY
+CHMI,CHMI,Cherry Hill Mortgage Investment Corporation,Real Estate,REIT - Mortgage,NYQ,EQUITY
+ECC,ECC,Eagle Point Credit Company Inc.,Financial Services,Asset Management,NYQ,EQUITY
+OCFC,OCFC,OceanFirst Financial Corp.,Financial Services,Banks - Regional,NMS,EQUITY
+RGA,RGA,"Reinsurance Group of America, Incorporated",Financial Services,Insurance - Reinsurance,NYQ,EQUITY
+BV,BV,"BrightView Holdings, Inc.",Industrials,Specialty Business Services,NYQ,EQUITY
+CENX,CENX,Century Aluminum Company,Basic Materials,Aluminum,NMS,EQUITY
+DGLY,DGLY,"Digital Ally, Inc.",Communication Services,Internet Content & Information,NCM,EQUITY
+BZUN,BZUN,Baozun Inc.,Consumer Cyclical,Internet Retail,NMS,EQUITY
+WATT,WATT,Energous Corporation,Technology,Communication Equipment,NCM,EQUITY
+CTLT,CTLT,,,,,NONE
+VCEL,VCEL,Vericel Corporation,Healthcare,Biotechnology,NGM,EQUITY
+PRMW,PRMW,,,,,NONE
+TGH,TGH,,,,,NONE
+AEIS,AEIS,"Advanced Energy Industries, Inc.",Industrials,Electrical Equipment & Parts,NMS,EQUITY
+PRO,PRO,,,,,
+PI,PI,"Impinj, Inc.",Technology,Semiconductors,NMS,EQUITY
+TGNA,TGNA,TEGNA Inc.,Communication Services,Broadcasting,NYQ,EQUITY
+LGND,LGND,Ligand Pharmaceuticals Incorporated,Healthcare,Biotechnology,NGM,EQUITY
+FIBK,FIBK,"First Interstate BancSystem, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+APLE,APLE,"Apple Hospitality REIT, Inc.",Real Estate,REIT - Hotel & Motel,NYQ,EQUITY
+PCTI,PCTI,,,,,NONE
+WNS,WNS,,,,,
+RIGL,RIGL,"Rigel Pharmaceuticals, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+OXLC,OXLC,Oxford Lane Capital Corp.,Financial Services,Asset Management,NGM,EQUITY
+COLD,COLD,"Americold Realty Trust, Inc.",Real Estate,REIT - Industrial,NYQ,EQUITY
+XHB,XHB,State Street SPDR S&P Homebuilders ETF,,,PCX,ETF
+ATRC,ATRC,"AtriCure, Inc.",Healthcare,Medical Instruments & Supplies,NGM,EQUITY
+ZTO,ZTO,ZTO Express (Cayman) Inc.,Industrials,Integrated Freight & Logistics,NYQ,EQUITY
+CDE,CDE,"Coeur Mining, Inc.",Basic Materials,Gold,NYQ,EQUITY
+GLBS,GLBS,Globus Maritime Limited,Industrials,Marine Shipping,NCM,EQUITY
+BAND,BAND,Bandwidth Inc.,Technology,Software - Infrastructure,NMS,EQUITY
+ANIP,ANIP,"ANI Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,NGM,EQUITY
+CVGW,CVGW,"Calavo Growers, Inc.",Consumer Defensive,Food Distribution,NMS,EQUITY
+CWK,CWK,Cushman & Wakefield Limited,Real Estate,Real Estate Services,NYQ,EQUITY
+AAON,AAON,"AAON, Inc.",Industrials,Building Products & Equipment,NMS,EQUITY
+VSTO,VSTO,,,,,NONE
+CNTY,CNTY,"Century Casinos, Inc.",Consumer Cyclical,Resorts & Casinos,NCM,EQUITY
+FSI,FSI,"Flexible Solutions International, Inc.",Basic Materials,Specialty Chemicals,ASE,EQUITY
+MORT,MORT,VanEck Mortgage REIT Income ETF,,,PCX,ETF
+VNET,VNET,"VNET Group, Inc.",Technology,Information Technology Services,NMS,EQUITY
+KMDA,KMDA,Kamada Ltd.,Healthcare,Drug Manufacturers - Specialty & Generic,NMS,EQUITY
+RLJ,RLJ,RLJ Lodging Trust,Real Estate,REIT - Hotel & Motel,NYQ,EQUITY
+USMV,USMV,iShares MSCI USA Min Vol Factor ETF,,,BTS,ETF
+CUBE,CUBE,CubeSmart,Real Estate,REIT - Industrial,NYQ,EQUITY
+AZZ,AZZ,AZZ Inc.,Industrials,Specialty Business Services,NYQ,EQUITY
+ACCO,ACCO,ACCO Brands Corporation,Industrials,Business Equipment & Supplies,NYQ,EQUITY
+OSW,OSW,OneSpaWorld Holdings Limited,Consumer Cyclical,Leisure,NCM,EQUITY
+PBPB,PBPB,,,,,
+ACA,ACA,"Arcosa, Inc.",Industrials,Engineering & Construction,NYQ,EQUITY
+FEZ,FEZ,State Street SPDR EURO STOXX 50 ETF,,,PCX,ETF
+EXPR,EXPR,,,,,NONE
+CUBI,CUBI,"Customers Bancorp, Inc.",Financial Services,Banks - Regional,NYQ,EQUITY
+QIWI,QIWI,QIWI plc,,,NMS,MUTUALFUND
+OUT,OUT,OUTFRONT Media Inc.,Real Estate,REIT - Specialty,NYQ,EQUITY
+HALL,HALL,"Hallmark Financial Services, Inc.",Financial Services,Insurance - Property & Casualty,PNK,EQUITY
+NOAH,NOAH,Noah Holdings Limited,Financial Services,Asset Management,NYQ,EQUITY
+EZPW,EZPW,"EZCORP, Inc.",Financial Services,Credit Services,NMS,EQUITY
+CAAS,CAAS,"China Automotive Systems, Inc.",Consumer Cyclical,Auto Parts,NCM,EQUITY
+GLPI,GLPI,"Gaming and Leisure Properties, Inc.",Real Estate,REIT - Specialty,NMS,EQUITY
+RICK,RICK,"RCI Hospitality Holdings, Inc.",Consumer Cyclical,Restaurants,NGM,EQUITY
+LAMR,LAMR,Lamar Advertising Company,Real Estate,REIT - Specialty,NMS,EQUITY
+POL,POL,,,,,NONE
+DNN,DNN,Denison Mines Corp.,Energy,Uranium,ASE,EQUITY
+MMYT,MMYT,MakeMyTrip Limited,Consumer Cyclical,Travel Services,NMS,EQUITY
+NPO,NPO,Enpro Inc.,Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+RUSHA,RUSHA,"Rush Enterprises, Inc.",Consumer Cyclical,Auto & Truck Dealerships,NMS,EQUITY
+AAOI,AAOI,"Applied Optoelectronics, Inc.",Technology,Communication Equipment,NGM,EQUITY
+ORA,ORA,"Ormat Technologies, Inc.",Utilities,Utilities - Renewable,NYQ,EQUITY
+VCYT,VCYT,"Veracyte, Inc.",Healthcare,Diagnostics & Research,NGM,EQUITY
+CCEP,CCEP,Coca-Cola Europacific Partners PLC,Consumer Defensive,Beverages - Non-Alcoholic,NMS,EQUITY
+OSUR,OSUR,"OraSure Technologies, Inc.",Healthcare,Medical Instruments & Supplies,NMS,EQUITY
+NERV,NERV,"Minerva Neurosciences, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+FSTR,FSTR,L.B. Foster Company,Industrials,Railroads,NMS,EQUITY
+RMAX,RMAX,"RE/MAX Holdings, Inc.",Real Estate,Real Estate Services,NYQ,EQUITY
+CLSK,CLSK,"CleanSpark, Inc.",Financial Services,Capital Markets,NCM,EQUITY
+NBY,NBY,"NovaBay Pharmaceuticals, Inc.",Healthcare,Biotechnology,ASE,EQUITY
+COOP,COOP,,,,,NONE
+WSBC,WSBC,"WesBanco, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+PGRE,PGRE,,,,,
+QCLN,QCLN,First Trust NASDAQ Clean Edge Green Energy Index Fund,,,NGM,ETF
+VC,VC,Visteon Corporation,Consumer Cyclical,Auto Parts,NMS,EQUITY
+UTI,UTI,"Universal Technical Institute, Inc.",Consumer Defensive,Education & Training Services,NYQ,EQUITY
+ATHX,ATHX,"Athersys, Inc.",,,NGM,EQUITY
+GPRK,GPRK,GeoPark Limited,Energy,Oil & Gas E&P,NYQ,EQUITY
+NVMI,NVMI,Nova Ltd.,Technology,Semiconductor Equipment & Materials,NMS,EQUITY
+LOGI,LOGI,Logitech International S.A.,Technology,Computer Hardware,NMS,EQUITY
+BIL,BIL,State Street SPDR Bloomberg 1-3 Month T-Bill ETF,,,PCX,ETF
+BLIN,BLIN,"Bridgeline Digital, Inc.",Technology,Software - Infrastructure,NCM,EQUITY
+AGRO,AGRO,Adecoagro S.A.,Consumer Defensive,Farm Products,NYQ,EQUITY
+GRFS,GRFS,"Grifols, S.A.",Healthcare,Drug Manufacturers - General,NMS,EQUITY
+BWXT,BWXT,"BWX Technologies, Inc.",Industrials,Aerospace & Defense,NYQ,EQUITY
+MTZ,MTZ,"MasTec, Inc.",Industrials,Engineering & Construction,NYQ,EQUITY
+HIMX,HIMX,"Himax Technologies, Inc.",Technology,Semiconductors,NMS,EQUITY
+WTI,WTI,"W&T Offshore, Inc.",Energy,Oil & Gas E&P,NYQ,EQUITY
+ANGL,ANGL,VanEck Fallen Angel High Yield Bond ETF,,,NGM,ETF
+AGM,AGM,Federal Agricultural Mortgage Corporation,Financial Services,Credit Services,NYQ,EQUITY
+FET,FET,"Forum Energy Technologies, Inc.",Energy,Oil & Gas Equipment & Services,NYQ,EQUITY
+PLUS,PLUS,ePlus inc.,Technology,Software - Application,NMS,EQUITY
+KAR,KAR,,,,,NONE
+CAMP,CAMP,CAMP4 THERAPEUTICS CORPORATION,Healthcare,Biotechnology,NGM,EQUITY
+PUK,PUK,Prudential plc,Financial Services,Insurance - Life,NYQ,EQUITY
+IBP,IBP,"Installed Building Products, Inc.",Consumer Cyclical,Residential Construction,NYQ,EQUITY
+PRA,PRA,ProAssurance Corporation,Financial Services,Insurance - Property & Casualty,NYQ,EQUITY
+OFIX,OFIX,Orthofix Medical Inc.,Healthcare,Medical Devices,NMS,EQUITY
+CADE,CADE,Cadence Bank,Financial Services,Banks - Regional,NYQ,EQUITY
+JNUG,JNUG,Direxion Daily Junior Gold Miners Index Bull 2X Shares,,,PCX,ETF
+CBD,CBD,,,,,NONE
+FFBC,FFBC,First Financial Bancorp.,Financial Services,Banks - Regional,NMS,EQUITY
+AKR,AKR,Acadia Realty Trust,Real Estate,REIT - Retail,NYQ,EQUITY
+BANC,BANC,"Banc of California, Inc.",Financial Services,Banks - Regional,NYQ,EQUITY
+HNI,HNI,HNI Corporation,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NYQ,EQUITY
+PHX,PHX,,,,,NONE
+IBTX,IBTX,,,,,NONE
+AIF,AIF,,,,,NONE
+PPH,PPH,VanEck Pharmaceutical ETF,,,NGM,ETF
+DLNG,DLNG,Dynagas LNG Partners LP,Energy,Oil & Gas Midstream,NYQ,EQUITY
+ATEC,ATEC,"Alphatec Holdings, Inc.",Healthcare,Medical Devices,NMS,EQUITY
+PFBC,PFBC,Preferred Bank,Financial Services,Banks - Regional,NMS,EQUITY
+AHH,AHH,"Armada Hoffler Properties, Inc.",Real Estate,REIT - Diversified,NYQ,EQUITY
+MOAT,MOAT,VanEck Morningstar Wide Moat ETF,,,BTS,ETF
+LII,LII,Lennox International Inc.,Industrials,Building Products & Equipment,NYQ,EQUITY
+PAM,PAM,Pampa Energía S.A.,Utilities,Utilities - Independent Power Producers,NYQ,EQUITY
+WSR,WSR,Whitestone REIT,Real Estate,REIT - Retail,NYQ,EQUITY
+ACWI,ACWI,iShares MSCI ACWI ETF,,,NGM,ETF
+HSII,HSII,,,,,
+PT,PT,J and Friends Holdings Limited,Financial Services,Credit Services,NGM,EQUITY
+AXGN,AXGN,"Axogen, Inc.",Healthcare,Medical Devices,NCM,EQUITY
+CALA,CALA,"Calithera Biosciences, Inc.",Financial Services,Shell Companies,PNK,EQUITY
+CIB,CIB,Grupo Cibest S.A.,Financial Services,Banks - Regional,NYQ,EQUITY
+OESX,OESX,"Orion Energy Systems, Inc.",Industrials,Electrical Equipment & Parts,NCM,EQUITY
+PRAA,PRAA,"PRA Group, Inc.",Financial Services,Credit Services,NMS,EQUITY
+FVD,FVD,First Trust Value Line Dividend Index Fund,,,PCX,ETF
+AFMD,AFMD,Affimed N.V.,,,NGM,EQUITY
+ASRT,ASRT,"Assertio Holdings, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,NCM,EQUITY
+TRMK,TRMK,Trustmark Corporation,Financial Services,Banks - Regional,NMS,EQUITY
+FRME,FRME,First Merchants Corporation,Financial Services,Banks - Regional,NMS,EQUITY
+BHLB,BHLB,,,,,
+PRQR,PRQR,ProQR Therapeutics N.V.,Healthcare,Biotechnology,NCM,EQUITY
+NWS,NWS,News Corporation,Communication Services,Entertainment,NMS,EQUITY
+REI,REI,"Ring Energy, Inc.",Energy,Oil & Gas E&P,ASE,EQUITY
+HTLF,HTLF,,,,,NONE
+ATEN,ATEN,"A10 Networks, Inc.",Technology,Software - Infrastructure,NYQ,EQUITY
+VVV,VVV,Valvoline Inc.,Consumer Cyclical,Auto & Truck Dealerships,NYQ,EQUITY
+ZOM,ZOM,,,,,NONE
+AWR,AWR,American States Water Company,Utilities,Utilities - Regulated Water,NYQ,EQUITY
+SPRO,SPRO,"Spero Therapeutics, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+CDAY,CDAY,,,,,NONE
+APTO,APTO,"Aptose Biosciences, Inc.",,,NGM,EQUITY
+VXX,VXX,iPath Series B S&P 500 VIX Short-Term Futures ETN,,,BTS,ETF
+EGRX,EGRX,"Eagle Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,PNK,EQUITY
+KELYA,KELYA,"Kelly Services, Inc.",Industrials,Staffing & Employment Services,NMS,EQUITY
+ALRM,ALRM,"Alarm.com Holdings, Inc.",Technology,Software - Application,NMS,EQUITY
+CGEN,CGEN,Compugen Ltd.,Healthcare,Biotechnology,NCM,EQUITY
+LNT,LNT,Alliant Energy Corporation,Utilities,Utilities - Regulated Electric,NMS,EQUITY
+CARA,CARA,,,,,NONE
+ATOS,ATOS,"Atossa Therapeutics, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+FHI,FHI,"Federated Hermes, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+ACRX,ACRX,,,,,NONE
+UTL,UTL,Unitil Corporation,Utilities,Utilities - Diversified,NYQ,EQUITY
+BVN,BVN,Compañía de Minas Buenaventura S.A.A.,Basic Materials,Other Precious Metals & Mining,NYQ,EQUITY
+EQH,EQH,"Equitable Holdings, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+AMTX,AMTX,"Aemetis, Inc.",Basic Materials,Specialty Chemicals,NGM,EQUITY
+VOT,VOT,Vanguard Mid-Cap Growth Index Fund ETF Shares,,,PCX,ETF
+EXK,EXK,Endeavour Silver Corp.,Basic Materials,Silver,NYQ,EQUITY
+UFCS,UFCS,"United Fire Group, Inc.",Financial Services,Insurance - Property & Casualty,NMS,EQUITY
+ADMA,ADMA,"ADMA Biologics, Inc.",Healthcare,Biotechnology,NGM,EQUITY
+TTEC,TTEC,"TTEC Holdings, Inc.",Technology,Information Technology Services,NMS,EQUITY
+LPX,LPX,Louisiana-Pacific Corporation,Industrials,Building Products & Equipment,NYQ,EQUITY
+ESEA,ESEA,Euroseas Ltd.,Industrials,Marine Shipping,NCM,EQUITY
+UI,UI,Ubiquiti Inc.,Technology,Communication Equipment,NYQ,EQUITY
+OEC,OEC,Orion S.A.,Basic Materials,Specialty Chemicals,NYQ,EQUITY
+CRIS,CRIS,"Curis, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+DLX,DLX,Deluxe Corporation,Industrials,Conglomerates,NYQ,EQUITY
+MNOV,MNOV,"MediciNova, Inc.",Healthcare,Biotechnology,NGM,EQUITY
+VCSH,VCSH,Vanguard Short-Term Corporate Bond Index Fund ETF Shares,,,NGM,ETF
+ROIC,ROIC,,,,,NONE
+AGS,AGS,,,,,NONE
+NWBI,NWBI,"Northwest Bancshares, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+TENB,TENB,"Tenable Holdings, Inc.",Technology,Software - Infrastructure,NMS,EQUITY
+PLTM,PLTM,GraniteShares Platinum Trust,,,PCX,ETF
+CX,CX,"CEMEX, S.A.B. de C.V.",Basic Materials,Building Materials,NYQ,EQUITY
+PDBC,PDBC,Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF,,,NGM,ETF
+XES,XES,State Street SPDR S&P Oil & Gas Equipment & Services ETF,,,PCX,ETF
+CBU,CBU,"Community Financial System, Inc.",Financial Services,Banks - Regional,NYQ,EQUITY
+PSO,PSO,Pearson plc,Communication Services,Publishing,NYQ,EQUITY
+GKOS,GKOS,Glaukos Corporation,Healthcare,Medical Devices,NYQ,EQUITY
+PANL,PANL,Pangaea Logistics Solutions Ltd.,Industrials,Marine Shipping,NCM,EQUITY
+BSM,BSM,"Black Stone Minerals, L.P.",Energy,Oil & Gas E&P,NYQ,EQUITY
+ACMR,ACMR,"ACM Research, Inc.",Technology,Semiconductor Equipment & Materials,NGM,EQUITY
+LSTR,LSTR,"Landstar System, Inc.",Industrials,Integrated Freight & Logistics,NMS,EQUITY
+PAHC,PAHC,Phibro Animal Health Corporation,Healthcare,Drug Manufacturers - Specialty & Generic,NGM,EQUITY
+ZUO,ZUO,,,,,NONE
+VLRS,VLRS,"Controladora Vuela Compañía de Aviación, S.A.B. de C.V.",Industrials,Airlines,NYQ,EQUITY
+AMLP,AMLP,Alerian MLP ETF,,,PCX,ETF
+ALT,ALT,"Altimmune, Inc.",Healthcare,Biotechnology,NGM,EQUITY
+DLA,DLA,,,,,NONE
+VLUE,VLUE,iShares MSCI USA Value Factor ETF,,,BTS,ETF
+NWPX,NWPX,"NWPX Infrastructure, Inc.",Basic Materials,Steel,NMS,EQUITY
+CTO,CTO,"CTO Realty Growth, Inc.",Real Estate,REIT - Diversified,NYQ,EQUITY
+VKTX,VKTX,"Viking Therapeutics, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+CERS,CERS,Cerus Corporation,Healthcare,Medical Devices,NGM,EQUITY
+THRM,THRM,Gentherm Incorporated,Consumer Cyclical,Auto Parts,NMS,EQUITY
+ATRO,ATRO,Astronics Corporation,Industrials,Aerospace & Defense,NMS,EQUITY
+QTRX,QTRX,Quanterix Corporation,Healthcare,Medical Devices,NGM,EQUITY
+CODI,CODI,Compass Diversified,Industrials,Conglomerates,NYQ,EQUITY
+ENV,ENV,,,,,NONE
+FFIN,FFIN,"First Financial Bankshares, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+GTN,GTN,"Gray Media, Inc.",Communication Services,Broadcasting,NYQ,EQUITY
+CRNT,CRNT,Ceragon Networks Ltd.,Technology,Communication Equipment,NMS,EQUITY
+DCO,DCO,Ducommun Incorporated,Industrials,Aerospace & Defense,NYQ,EQUITY
+BXC,BXC,BlueLinx Holdings Inc.,Industrials,Industrial Distribution,NYQ,EQUITY
+XNCR,XNCR,"Xencor, Inc.",Healthcare,Biotechnology,NGM,EQUITY
+DAVA,DAVA,Endava plc,Technology,Software - Infrastructure,NYQ,EQUITY
+TBBK,TBBK,"The Bancorp, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+KOSS,KOSS,Koss Corporation,Technology,Consumer Electronics,NCM,EQUITY
+TPVG,TPVG,TriplePoint Venture Growth BDC Corp.,Financial Services,Asset Management,NYQ,EQUITY
+FSK,FSK,FS KKR Capital Corp.,Financial Services,Asset Management,NYQ,EQUITY
+SUP,SUP,,,,,NONE
+FBT,FBT,First Trust NYSE Arca Biotechnology Index Fund,,,PCX,ETF
+EYE,EYE,"National Vision Holdings, Inc.",Consumer Cyclical,Specialty Retail,NMS,EQUITY
+ACP,ACP,Abrdn Income Credit Strategies Fund,Financial Services,Asset Management,NYQ,EQUITY
+ING,ING,ING Groep N.V.,Financial Services,Banks - Diversified,NYQ,EQUITY
+GMS,GMS,,,,,NONE
+RGCO,RGCO,"RGC Resources, Inc.",Utilities,Utilities - Regulated Gas,NGM,EQUITY
+VIAV,VIAV,Viavi Solutions Inc.,Technology,Communication Equipment,NMS,EQUITY
+GDS,GDS,GDS Holdings Limited,Technology,Information Technology Services,NGM,EQUITY
+SPNS,SPNS,,,,,NONE
+ARCT,ARCT,Arcturus Therapeutics Holdings Inc.,Healthcare,Biotechnology,NGM,EQUITY
+RRR,RRR,"Red Rock Resorts, Inc.",Consumer Cyclical,Resorts & Casinos,NMS,EQUITY
+NDLS,NDLS,Noodles & Company,Consumer Cyclical,Restaurants,NMS,EQUITY
+CIM,CIM,Chimera Investment Corporation,Real Estate,REIT - Mortgage,NYQ,EQUITY
+EQC,EQC,,,,,NONE
+APAM,APAM,Artisan Partners Asset Management Inc.,Financial Services,Asset Management,NYQ,EQUITY
+LECO,LECO,"Lincoln Electric Holdings, Inc.",Industrials,Tools & Accessories,NMS,EQUITY
+CHRS,CHRS,"Coherus Oncology, Inc.",Healthcare,Biotechnology,NGM,EQUITY
+EVTC,EVTC,"EVERTEC, Inc.",Technology,Software - Infrastructure,NYQ,EQUITY
+RDNT,RDNT,"RadNet, Inc.",Healthcare,Diagnostics & Research,NGM,EQUITY
+HESM,HESM,Hess Midstream LP,Energy,Oil & Gas Midstream,NYQ,EQUITY
+CMCO,CMCO,Columbus McKinnon Corporation,Industrials,Farm & Heavy Construction Machinery,NMS,EQUITY
+LE,LE,"Lands' End, Inc.",Consumer Cyclical,Apparel Retail,NCM,EQUITY
+MPAA,MPAA,"Motorcar Parts of America, Inc.",Consumer Cyclical,Auto Parts,NMS,EQUITY
+MYRG,MYRG,MYR Group Inc.,Industrials,Engineering & Construction,NMS,EQUITY
+PKX,PKX,POSCO Holdings Inc.,Basic Materials,Steel,NYQ,EQUITY
+AGYS,AGYS,"Agilysys, Inc.",Technology,Software - Application,NMS,EQUITY
+PLX,PLX,"Protalix BioTherapeutics, Inc.",Healthcare,Biotechnology,ASE,EQUITY
+FLOT,FLOT,iShares Floating Rate Bond ETF,,,BTS,ETF
+KRO,KRO,"Kronos Worldwide, Inc.",Basic Materials,Specialty Chemicals,NYQ,EQUITY
+SPLG,SPLG,State Street SPDR Portfolio S&P 500 ETF,,,PCX,ETF
+QUIK,QUIK,QuickLogic Corporation,Technology,Semiconductors,NCM,EQUITY
+CTS,CTS,CTS Corporation,Technology,Electronic Components,NYQ,EQUITY
+HRZN,HRZN,Horizon Technology Finance Corporation,Financial Services,Asset Management,NMS,EQUITY
+LZB,LZB,La-Z-Boy Incorporated,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NYQ,EQUITY
+DEI,DEI,"Douglas Emmett, Inc.",Real Estate,REIT - Office,NYQ,EQUITY
+GTE,GTE,Gran Tierra Energy Inc.,Energy,Oil & Gas E&P,ASE,EQUITY
+ICD,ICD,,,,,NONE
+PAR,PAR,PAR Technology Corporation,Technology,Software - Application,NYQ,EQUITY
+FHB,FHB,"First Hawaiian, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+BCBP,BCBP,"BCB Bancorp, Inc.",Financial Services,Banks - Regional,NGM,EQUITY
+ERII,ERII,"Energy Recovery, Inc.",Industrials,Pollution & Treatment Controls,NMS,EQUITY
+SUM,SUM,,,,,NONE
+DOOO,DOOO,,,,,
+OPCH,OPCH,"Option Care Health, Inc.",Healthcare,Medical Care Facilities,NMS,EQUITY
+PLOW,PLOW,"Douglas Dynamics, Inc.",Consumer Cyclical,Auto Parts,NYQ,EQUITY
+EBR,EBR,,,,,
+BCPC,BCPC,Balchem Corporation,Basic Materials,Specialty Chemicals,NMS,EQUITY
+WSC,WSC,WillScot Holdings Corporation,Industrials,Rental & Leasing Services,NCM,EQUITY
+GOGL,GOGL,,,,,
+CIO,CIO,"City Office REIT, Inc.",Real Estate,REIT - Office,NYQ,EQUITY
+COKE,COKE,"Coca-Cola Consolidated, Inc.",Consumer Defensive,Beverages - Non-Alcoholic,NMS,EQUITY
+LOPE,LOPE,"Grand Canyon Education, Inc.",Consumer Defensive,Education & Training Services,NMS,EQUITY
+TPC,TPC,Tutor Perini Corporation,Industrials,Engineering & Construction,NYQ,EQUITY
+AVT,AVT,"Avnet, Inc.",Technology,Electronics & Computer Distribution,NMS,EQUITY
+DOOR,DOOR,,,,,NONE
+PNNT,PNNT,PennantPark Investment Corporation,Financial Services,Asset Management,NYQ,EQUITY
+AVA,AVA,Avista Corporation,Utilities,Utilities - Diversified,NYQ,EQUITY
+LEU,LEU,Centrus Energy Corp.,Energy,Uranium,NYQ,EQUITY
+RM,RM,Regional Management Corp.,Financial Services,Credit Services,NYQ,EQUITY
+FORR,FORR,"Forrester Research, Inc.",Industrials,Consulting Services,NMS,EQUITY
+ENTA,ENTA,"Enanta Pharmaceuticals, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+LPSN,LPSN,"LivePerson, Inc.",Technology,Software - Application,NMS,EQUITY
+CNSL,CNSL,,,,,NONE
+CPSI,CPSI,,,,,NONE
+RDUS,RDUS,,,,,
+BXMT,BXMT,"Blackstone Mortgage Trust, Inc.",Real Estate,REIT - Mortgage,NYQ,EQUITY
+KOPN,KOPN,Kopin Corporation,Technology,Electronic Components,NCM,EQUITY
+ACRE,ACRE,Ares Commercial Real Estate Corporation,Real Estate,REIT - Mortgage,NYQ,EQUITY
+RGS,RGS,Regis Corporation,Consumer Cyclical,Personal Services,NGM,EQUITY
+NSPR,NSPR,"InspireMD, Inc.",Healthcare,Medical Devices,NCM,EQUITY
+INSW,INSW,"International Seaways, Inc.",Energy,Oil & Gas Midstream,NYQ,EQUITY
+DRV,DRV,Direxion Daily Real Estate Bear 3X Shares,,,PCX,ETF
+AER,AER,AerCap Holdings N.V.,Industrials,Rental & Leasing Services,NYQ,EQUITY
+CVM,CVM,CEL-SCI Corporation,Healthcare,Biotechnology,ASE,EQUITY
+DHC,DHC,Diversified Healthcare Trust,Real Estate,REIT - Healthcare Facilities,NMS,EQUITY
+NEA,NEA,Nuveen AMT-Free Quality Municipal Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+NBTB,NBTB,NBT Bancorp Inc.,Financial Services,Banks - Regional,NMS,EQUITY
+AUPH,AUPH,Aurinia Pharmaceuticals Inc.,Healthcare,Biotechnology,NGM,EQUITY
+BPOP,BPOP,"Popular, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+LBRDK,LBRDK,Liberty Broadband Corporation,Communication Services,Telecom Services,NMS,EQUITY
+GMED,GMED,"Globus Medical, Inc.",Healthcare,Medical Devices,NYQ,EQUITY
+TWST,TWST,Twist Bioscience Corporation,Healthcare,Diagnostics & Research,NMS,EQUITY
+URA,URA,Global X Uranium ETF,,,PCX,ETF
+MTRX,MTRX,Matrix Service Company,Industrials,Engineering & Construction,NMS,EQUITY
+DEA,DEA,"Easterly Government Properties, Inc.",Real Estate,REIT - Office,NYQ,EQUITY
+NEU,NEU,NewMarket Corporation,Basic Materials,Specialty Chemicals,NYQ,EQUITY
+JNPR,JNPR,,,,,NONE
+DON,DON,WisdomTree U.S. MidCap Dividend Fund,,,PCX,ETF
+HRI,HRI,Herc Holdings Inc.,Industrials,Rental & Leasing Services,NYQ,EQUITY
+FCPT,FCPT,"Four Corners Property Trust, Inc.",Real Estate,REIT - Retail,NYQ,EQUITY
+CHX,CHX,,,,,
+JDST,JDST,Direxion Daily Junior Gold Miners Index Bear 2X Shares,,,PCX,ETF
+REX,REX,REX American Resources Corporation,Basic Materials,Chemicals,NYQ,EQUITY
+TCPC,TCPC,BlackRock TCP Capital Corp.,Financial Services,Asset Management,NMS,EQUITY
+ADUS,ADUS,Addus HomeCare Corporation,Healthcare,Medical Care Facilities,NMS,EQUITY
+GNL,GNL,"Global Net Lease, Inc.",Real Estate,REIT - Diversified,NYQ,EQUITY
+CABO,CABO,"Cable One, Inc.",Communication Services,Telecom Services,NYQ,EQUITY
+PPA,PPA,Invesco Aerospace & Defense ETF,,,PCX,ETF
+ALEX,ALEX,"Alexander & Baldwin, Inc.",Real Estate,REIT - Retail,NYQ,EQUITY
+EDAP,EDAP,EDAP TMS S.A.,Healthcare,Medical Distribution,NGM,EQUITY
+PBJ,PBJ,Invesco Food & Beverage ETF,,,PCX,ETF
+BSET,BSET,"Bassett Furniture Industries, Incorporated",Consumer Cyclical,"Furnishings, Fixtures & Appliances",NMS,EQUITY
+NTB,NTB,The Bank of N.T. Butterfield & Son Limited,Financial Services,Banks - Diversified,NYQ,EQUITY
+UGP,UGP,Ultrapar Participações S.A.,Energy,Oil & Gas Refining & Marketing,NYQ,EQUITY
+PSI,PSI,Invesco Semiconductors ETF,,,PCX,ETF
+UUP,UUP,Invesco DB US Dollar Index Bullish Fund,,,PCX,ETF
+CNOB,CNOB,"ConnectOne Bancorp, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+NM,NM,,,,,NONE
+DOMO,DOMO,"Domo, Inc.",Technology,Software - Application,NGM,EQUITY
+CLRB,CLRB,"Cellectar Biosciences, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+LPCN,LPCN,Lipocine Inc.,Healthcare,Biotechnology,NCM,EQUITY
+TH,TH,Target Hospitality Corp.,Industrials,Specialty Business Services,NCM,EQUITY
+CDXS,CDXS,"Codexis, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+ATKR,ATKR,Atkore Inc.,Industrials,Electrical Equipment & Parts,NYQ,EQUITY
+FBIZ,FBIZ,"First Business Financial Services, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+BLCM,BLCM,,,,,NONE
+HR,HR,Healthcare Realty Trust Incorporated,Real Estate,REIT - Healthcare Facilities,NYQ,EQUITY
+TPB,TPB,"Turning Point Brands, Inc.",Consumer Defensive,Tobacco,NYQ,EQUITY
+TRS,TRS,TriMas Corporation,Consumer Cyclical,Packaging & Containers,NMS,EQUITY
+HCKT,HCKT,"The Hackett Group, Inc.",Technology,Information Technology Services,NMS,EQUITY
+TARO,TARO,,,,,NONE
+KYN,KYN,"Kayne Anderson Energy Infrastructure Fund, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+VECO,VECO,Veeco Instruments Inc.,Technology,Semiconductor Equipment & Materials,NMS,EQUITY
+TCBK,TCBK,TriCo Bancshares,Financial Services,Banks - Regional,NMS,EQUITY
+NTRA,NTRA,"Natera, Inc.",Healthcare,Diagnostics & Research,NMS,EQUITY
+CMRX,CMRX,,,,,NONE
+BCOV,BCOV,,,,,NONE
+PRDO,PRDO,Perdoceo Education Corporation,Consumer Defensive,Education & Training Services,NMS,EQUITY
+OCN,OCN,,,,,NONE
+IBN,IBN,ICICI Bank Limited,Financial Services,Banks - Regional,NYQ,EQUITY
+INBK,INBK,First Internet Bancorp,Financial Services,Banks - Regional,NMS,EQUITY
+JBT,JBT,,,,,NONE
+PEJ,PEJ,Invesco Dynamic Leisure and Entertainment ETF,,,PCX,ETF
+HOLI,HOLI,,,,,NONE
+ICAD,ICAD,,,,,
+TKC,TKC,Turkcell Iletisim Hizmetleri A.S.,Communication Services,Telecom Services,NYQ,EQUITY
+FDIS,FDIS,Fidelity MSCI Consumer Discretionary Index ETF,,,PCX,ETF
+CTSO,CTSO,Cytosorbents Corporation,Healthcare,Medical Devices,NCM,EQUITY
+TTGT,TTGT,"TechTarget, Inc.",Technology,Information Technology Services,NMS,EQUITY
+ERX,ERX,Direxion Daily Energy Bull 2X Shares,,,PCX,ETF
+EXPI,EXPI,"eXp World Holdings, Inc.",Real Estate,Real Estate Services,NGM,EQUITY
+TZOO,TZOO,Travelzoo,Communication Services,Internet Content & Information,NMS,EQUITY
+FPI,FPI,Farmland Partners Inc.,Real Estate,REIT - Specialty,NYQ,EQUITY
+LADR,LADR,Ladder Capital Corp,Real Estate,REIT - Mortgage,NYQ,EQUITY
+TECL,TECL,Direxion Daily Technology Bull 3X Shares,,,PCX,ETF
+SPSC,SPSC,"SPS Commerce, Inc.",Technology,Software - Application,NMS,EQUITY
+NR,NR,,,,,NONE
+BCLI,BCLI,Brainstorm Cell Therapeutics Inc.,Healthcare,Biotechnology,OQB,EQUITY
+VOX,VOX,Vanguard Communication Services Index Fund ETF Shares,,,PCX,ETF
+BFS,BFS,"Saul Centers, Inc.",Real Estate,REIT - Retail,NYQ,EQUITY
+CCBG,CCBG,"Capital City Bank Group, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+BHE,BHE,"Benchmark Electronics, Inc.",Technology,Electronic Components,NYQ,EQUITY
+ESE,ESE,ESCO Technologies Inc.,Technology,Scientific & Technical Instruments,NYQ,EQUITY
+XLRE,XLRE,State Street Real Estate Select Sector SPDR ETF,,,PCX,ETF
+ALIM,ALIM,,,,,NONE
+AMSC,AMSC,American Superconductor Corporation,Industrials,Specialty Industrial Machinery,NMS,EQUITY
+GOLF,GOLF,Acushnet Holdings Corp.,Consumer Cyclical,Leisure,NYQ,EQUITY
+ARDC,ARDC,"Ares Dynamic Credit Allocation Fund, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+BKLN,BKLN,Invesco Senior Loan ETF,,,PCX,ETF
+CAC,CAC,Camden National Corporation,Financial Services,Banks - Regional,NMS,EQUITY
+WRLD,WRLD,World Acceptance Corporation,Financial Services,Credit Services,NMS,EQUITY
+USAP,USAP,,,,,NONE
+APG,APG,APi Group Corporation,Industrials,Engineering & Construction,NYQ,EQUITY
+CW,CW,Curtiss-Wright Corporation,Industrials,Aerospace & Defense,NYQ,EQUITY
+GUNR,GUNR,FlexShares Morningstar Global Upstream Natural Resources Index Fund,,,PCX,ETF
+LEDS,LEDS,SemiLEDs Corporation,Technology,Semiconductors,NCM,EQUITY
+PRPL,PRPL,"Purple Innovation, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",NMS,EQUITY
+EAF,EAF,GrafTech International Ltd.,Industrials,Electrical Equipment & Parts,NYQ,EQUITY
+AEZS,AEZS,,,,,NONE
+LMAT,LMAT,"LeMaitre Vascular, Inc.",Healthcare,Medical Instruments & Supplies,NGM,EQUITY
+GLTR,GLTR,abrdn Physical Precious Metals Basket Shares ETF,,,PCX,ETF
+HHS,HHS,"Harte Hanks, Inc.",Industrials,Conglomerates,NGM,EQUITY
+BMRC,BMRC,Bank of Marin Bancorp,Financial Services,Banks - Regional,NMS,EQUITY
+ARLO,ARLO,"Arlo Technologies, Inc.",Industrials,Building Products & Equipment,NYQ,EQUITY
+BRFS,BRFS,,,,,
+BUSE,BUSE,First Busey Corporation,Financial Services,Banks - Regional,NMS,EQUITY
+KWR,KWR,Quaker Chemical Corporation,Basic Materials,Specialty Chemicals,NYQ,EQUITY
+ARGX,ARGX,argenx SE,Healthcare,Biotechnology,NMS,EQUITY
+ALX,ALX,"Alexander's, Inc.",Real Estate,REIT - Retail,NYQ,EQUITY
+CNNE,CNNE,"Cannae Holdings, Inc.",Consumer Cyclical,Restaurants,NYQ,EQUITY
+SPH,SPH,"Suburban Propane Partners, L.P.",Utilities,Utilities - Regulated Gas,NYQ,EQUITY
+EPRT,EPRT,"Essential Properties Realty Trust, Inc.",Real Estate,REIT - Retail,NYQ,EQUITY
+LXP,LXP,LXP Industrial Trust,Real Estate,REIT - Industrial,NYQ,EQUITY
+PEBO,PEBO,Peoples Bancorp Inc.,Financial Services,Banks - Regional,NMS,EQUITY
+FDUS,FDUS,Fidus Investment Corporation,Financial Services,Asset Management,NMS,EQUITY
+BBH,BBH,VanEck Biotech ETF,,,NGM,ETF
+GMAB,GMAB,Genmab A/S,Healthcare,Biotechnology,NMS,EQUITY
+BRT,BRT,BRT Apartments Corp.,Real Estate,REIT - Residential,NYQ,EQUITY
+HEP,HEP,,,,,NONE
+ELTK,ELTK,Eltek Ltd.,Technology,Electronic Components,NCM,EQUITY
+VERU,VERU,Veru Inc.,Healthcare,Biotechnology,NCM,EQUITY
+WLDN,WLDN,"Willdan Group, Inc.",Industrials,Engineering & Construction,NGM,EQUITY
+CCNE,CCNE,CNB Financial Corporation,Financial Services,Banks - Regional,NMS,EQUITY
+FSS,FSS,Federal Signal Corporation,Industrials,Pollution & Treatment Controls,NYQ,EQUITY
+FMNB,FMNB,Farmers National Banc Corp.,Financial Services,Banks - Regional,NCM,EQUITY
+NVGS,NVGS,Navigator Holdings Ltd.,Energy,Oil & Gas Midstream,NYQ,EQUITY
+GNK,GNK,Genco Shipping & Trading Limited,Industrials,Marine Shipping,NYQ,EQUITY
+BLRX,BLRX,BioLineRx Ltd.,Healthcare,Biotechnology,NCM,EQUITY
+ATNI,ATNI,"ATN International, Inc.",Communication Services,Telecom Services,NMS,EQUITY
+FARM,FARM,Farmer Bros. Co.,Consumer Defensive,Packaged Foods,NMS,EQUITY
+GENE,GENE,,,,,NONE
+EVRI,EVRI,,,,,NONE
+UEIC,UEIC,Universal Electronics Inc.,Technology,Consumer Electronics,NMS,EQUITY
+ERY,ERY,Direxion Daily Energy Bear 2X Shares,,,PCX,ETF
+CHCO,CHCO,City Holding Company,Financial Services,Banks - Regional,NMS,EQUITY
+VVI,VVI,,,,,NONE
+BAK,BAK,Braskem S.A.,Basic Materials,Chemicals,NYQ,EQUITY
+NMR,NMR,"Nomura Holdings, Inc.",Financial Services,Capital Markets,NYQ,EQUITY
+AROW,AROW,Arrow Financial Corporation,Financial Services,Banks - Regional,NMS,EQUITY
+CIG,CIG,Companhia Energética de Minas Gerais - CEMIG,Utilities,Utilities - Diversified,NYQ,EQUITY
+HRTG,HRTG,"Heritage Insurance Holdings, Inc.",Financial Services,Insurance - Property & Casualty,NYQ,EQUITY
+USFR,USFR,WisdomTree Floating Rate Treasury Fund,,,PCX,ETF
+VTWO,VTWO,Vanguard Russell 2000 Index Fund ETF Shares,,,NGM,ETF
+GSHD,GSHD,"Goosehead Insurance, Inc.",Financial Services,Insurance Brokers,NMS,EQUITY
+GOOD,GOOD,Gladstone Commercial Corporation,Real Estate,REIT - Diversified,NMS,EQUITY
+VTNR,VTNR,"Vertex Energy, Inc",,,NGM,EQUITY
+FSBW,FSBW,"FS Bancorp, Inc.",Financial Services,Banks - Regional,NCM,EQUITY
+KINS,KINS,"Kingstone Companies, Inc.",Financial Services,Insurance - Property & Casualty,NCM,EQUITY
+ACES,ACES,ALPS Clean Energy ETF,,,PCX,ETF
+CIBR,CIBR,First Trust NASDAQ Cybersecurity ETF,,,NGM,ETF
+FSTA,FSTA,Fidelity MSCI Consumer Staples Index ETF,,,PCX,ETF
+ONCY,ONCY,Oncolytics Biotech Inc.,Healthcare,Biotechnology,NCM,EQUITY
+LPG,LPG,Dorian LPG Ltd.,Energy,Oil & Gas Midstream,NYQ,EQUITY
+TGS,TGS,Transportadora de Gas del Sur S.A.,Energy,Oil & Gas Integrated,NYQ,EQUITY
+ENZ,ENZ,,,,,NONE
+TMST,TMST,,,,,NONE
+VCIT,VCIT,Vanguard Intermediate-Term Corporate Bond Index Fund ETF Shares,,,NGM,ETF
+FXR,FXR,First Trust Industrials/Producer Durables AlphaDEX Fund,,,PCX,ETF
+EWQ,EWQ,iShares MSCI France ETF,,,PCX,ETF
+BOTZ,BOTZ,Global X Robotics & Artificial Intelligence ETF,,,NGM,ETF
+L,L,Loews Corporation,Financial Services,Insurance - Property & Casualty,NYQ,EQUITY
+WHF,WHF,"WhiteHorse Finance, Inc.",Financial Services,Asset Management,NMS,EQUITY
+EMQQ,EMQQ,EMQQ The Emerging Markets Internet ETF,,,PCX,ETF
+MUFG,MUFG,"Mitsubishi UFJ Financial Group, Inc.",Financial Services,Banks - Diversified,NYQ,EQUITY
+TDIV,TDIV,First Trust NASDAQ Technology Dividend Index Fund,,,NGM,ETF
+FXO,FXO,First Trust Financials AlphaDEX Fund,,,PCX,ETF
+RDWR,RDWR,Radware Ltd.,Technology,Software - Infrastructure,NMS,EQUITY
+NINE,NINE,"Nine Energy Service, Inc.",Energy,Oil & Gas Equipment & Services,NYQ,EQUITY
+LTC,LTC,"LTC Properties, Inc.",Real Estate,REIT - Healthcare Facilities,NYQ,EQUITY
+PFC,PFC,,,,,NONE
+VTIP,VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund ETF Shares,,,NGM,ETF
+GLT,GLT,,,,,NONE
+CHMG,CHMG,Chemung Financial Corporation,Financial Services,Banks - Regional,NMS,EQUITY
+EPAC,EPAC,Enerpac Tool Group Corp.,Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+RLGT,RLGT,"Radiant Logistics, Inc.",Industrials,Integrated Freight & Logistics,ASE,EQUITY
+RPT,RPT,Rithm Property Trust Inc.,Real Estate,REIT - Mortgage,NYQ,EQUITY
+FC,FC,Franklin Covey Co.,Consumer Defensive,Education & Training Services,NYQ,EQUITY
+FTEK,FTEK,"Fuel Tech, Inc.",Industrials,Pollution & Treatment Controls,NCM,EQUITY
+EB,EB,"Eventbrite, Inc.",Communication Services,Internet Content & Information,NYQ,EQUITY
+NRIM,NRIM,"Northrim BanCorp, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+AMRN,AMRN,Amarin Corporation plc,Healthcare,Drug Manufacturers - General,NCM,EQUITY
+CQQQ,CQQQ,Invesco China Technology ETF,,,PCX,ETF
+LCUT,LCUT,"Lifetime Brands, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",NMS,EQUITY
+MRCC,MRCC,Monroe Capital Corporation,Financial Services,Asset Management,NMS,EQUITY
+LRN,LRN,"Stride, Inc.",Consumer Defensive,Education & Training Services,NYQ,EQUITY
+AUB,AUB,Atlantic Union Bankshares Corporation,Financial Services,Banks - Regional,NYQ,EQUITY
+ALRS,ALRS,Alerus Financial Corporation,Financial Services,Banks - Regional,NCM,EQUITY
+MOFG,MOFG,"MidWestOne Financial Group, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+BLX,BLX,"Banco Latinoamericano de Comercio Exterior, S. A.",Financial Services,Banks - Regional,NYQ,EQUITY
+ALLT,ALLT,Allot Ltd.,Technology,Software - Infrastructure,NMS,EQUITY
+GALT,GALT,Galectin Therapeutics Inc.,Healthcare,Biotechnology,NCM,EQUITY
+FTK,FTK,"Flotek Industries, Inc.",Energy,Oil & Gas Equipment & Services,NYQ,EQUITY
+AMBC,AMBC,,,,,
+LAND,LAND,Gladstone Land Corporation,Real Estate,REIT - Specialty,NGM,EQUITY
+AXS,AXS,AXIS Capital Holdings Limited,Financial Services,Insurance - Specialty,NYQ,EQUITY
+PGX,PGX,Invesco Preferred ETF,,,PCX,ETF
+KRG,KRG,Kite Realty Group Trust,Real Estate,REIT - Retail,NYQ,EQUITY
+JJSF,JJSF,J&J Snack Foods Corp.,Consumer Defensive,Packaged Foods,NMS,EQUITY
+GLYC,GLYC,,,,,NONE
+RCKY,RCKY,"Rocky Brands, Inc.",Consumer Cyclical,Footwear & Accessories,NMS,EQUITY
+HOFT,HOFT,Hooker Furnishings Corporation,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NMS,EQUITY
+APPF,APPF,"AppFolio, Inc.",Technology,Software - Application,NGM,EQUITY
+CATO,CATO,The Cato Corporation,Consumer Cyclical,Apparel Retail,NYQ,EQUITY
+ABIO,ABIO,,,,,NONE
+BDN,BDN,Brandywine Realty Trust,Real Estate,REIT - Office,NYQ,EQUITY
+NNI,NNI,"Nelnet, Inc.",Financial Services,Credit Services,NYQ,EQUITY
+EVOK,EVOK,,,,,
+BNDX,BNDX,Vanguard Total International Bond Index Fund,,,NGM,ETF
+MTLS,MTLS,Materialise NV,Technology,Software - Application,NMS,EQUITY
+FXL,FXL,First Trust Technology AlphaDEX Fund,,,PCX,ETF
+XMLV,XMLV,Invesco S&P MidCap Low Volatility ETF,,,PCX,ETF
+KBE,KBE,State Street SPDR S&P Bank ETF,,,PCX,ETF
+BNO,BNO,"United States Brent Oil Fund, LP",,,PCX,ETF
+VYGR,VYGR,"Voyager Therapeutics, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+SPXC,SPXC,"SPX Technologies, Inc.",Industrials,Building Products & Equipment,NYQ,EQUITY
+QYLD,QYLD,Global X NASDAQ 100 Covered Call ETF,,,NGM,ETF
+AAT,AAT,"American Assets Trust, Inc.",Real Estate,REIT - Diversified,NYQ,EQUITY
+BSRR,BSRR,Sierra Bancorp,Financial Services,Banks - Regional,NMS,EQUITY
+CEI,CEI,,,,,NONE
+COLL,COLL,"Collegium Pharmaceutical, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,NMS,EQUITY
+EVA,EVA,,,,,NONE
+ARGT,ARGT,Global X MSCI Argentina ETF,,,PCX,ETF
+VTEB,VTEB,Vanguard Tax-Exempt Bond Index Fund ETF Shares,,,PCX,ETF
+ATNM,ATNM,"Actinium Pharmaceuticals, Inc.",Healthcare,Biotechnology,ASE,EQUITY
+BGSF,BGSF,"BGSF, Inc.",Industrials,Staffing & Employment Services,NYQ,EQUITY
+CTRN,CTRN,"Citi Trends, Inc.",Consumer Cyclical,Apparel Retail,NMS,EQUITY
+AMAL,AMAL,Amalgamated Financial Corp.,Financial Services,Banks - Regional,NGM,EQUITY
+ADAP,ADAP,,,,,
+KIE,KIE,State Street SPDR S&P Insurance ETF,,,PCX,ETF
+NEXT,NEXT,NextDecade Corporation,Energy,Oil & Gas Equipment & Services,NCM,EQUITY
+FBNC,FBNC,First Bancorp,Financial Services,Banks - Regional,NMS,EQUITY
+FBK,FBK,FB Financial Corporation,Financial Services,Banks - Regional,NYQ,EQUITY
+FTS,FTS,Fortis Inc.,Utilities,Utilities - Regulated Electric,NYQ,EQUITY
+DSI,DSI,iShares ESG MSCI KLD 400 ETF,,,PCX,ETF
+YORW,YORW,The York Water Company,Utilities,Utilities - Regulated Water,NMS,EQUITY
+EXTR,EXTR,"Extreme Networks, Inc.",Technology,Communication Equipment,NMS,EQUITY
+DRIV,DRIV,Global X Autonomous & Electric Vehicles ETF,,,NGM,ETF
+AP,AP,Ampco-Pittsburgh Corporation,Industrials,Metal Fabrication,NYQ,EQUITY
+VT,VT,Vanguard Total World Stock Index Fund ETF Shares,,,PCX,ETF
+SPHQ,SPHQ,Invesco S&P 500 Quality ETF,,,PCX,ETF
+HAYN,HAYN,,,,,NONE
+BFIN,BFIN,BankFinancial Corporation,Financial Services,Banks - Regional,NMS,EQUITY
+DSU,DSU,"BlackRock Debt Strategies Fund, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+AMSF,AMSF,"AMERISAFE, Inc.",Financial Services,Insurance - Specialty,NMS,EQUITY
+QRTEA,QRTEA,,,,,NONE
+ZLAB,ZLAB,Zai Lab Limited,Healthcare,Biotechnology,NGM,EQUITY
+BKD,BKD,Brookdale Senior Living Inc.,Healthcare,Medical Care Facilities,NYQ,EQUITY
+PJT,PJT,PJT Partners Inc.,Financial Services,Capital Markets,NYQ,EQUITY
+RPD,RPD,"Rapid7, Inc.",Technology,Software - Infrastructure,NGM,EQUITY
+KBWR,KBWR,Invesco Bloomberg Financial Data Providers ETF,,,NGM,ETF
+VGSH,VGSH,Vanguard Short-Term Treasury Index Fund ETF Shares,,,NGM,ETF
+RPG,RPG,Invesco S&P 500 Pure Growth ETF,,,PCX,ETF
+CARS,CARS,Cars.com Inc.,Communication Services,Internet Content & Information,NYQ,EQUITY
+TR,TR,"Tootsie Roll Industries, Inc.",Consumer Defensive,Confectioners,NYQ,EQUITY
+BOIL,BOIL,ProShares Ultra Bloomberg Natural Gas,,,PCX,ETF
+PJP,PJP,Invesco Pharmaceuticals ETF,,,PCX,ETF
+PDFS,PDFS,"PDF Solutions, Inc.",Technology,Software - Application,NMS,EQUITY
+FTDR,FTDR,"Frontdoor, Inc.",Consumer Cyclical,Personal Services,NMS,EQUITY
+MTX,MTX,Minerals Technologies Inc.,Basic Materials,Specialty Chemicals,NYQ,EQUITY
+CMCM,CMCM,Cheetah Mobile Inc.,Communication Services,Internet Content & Information,NYQ,EQUITY
+DLN,DLN,WisdomTree U.S. LargeCap Dividend Fund,,,PCX,ETF
+GHC,GHC,Graham Holdings Company,Consumer Defensive,Education & Training Services,NYQ,EQUITY
+FLIC,FLIC,,,,,NONE
+GAIA,GAIA,"Gaia, Inc.",Communication Services,Entertainment,NGM,EQUITY
+COWZ,COWZ,Pacer US Cash Cows 100 ETF,,,BTS,ETF
+BJK,BJK,VanEck Gaming ETF,,,NGM,ETF
+CYCC,CYCC,,,,,NONE
+NVG,NVG,Nuveen AMT-Free Municipal Credit Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+AHCO,AHCO,AdaptHealth Corp.,Healthcare,Medical Devices,NCM,EQUITY
+LOCO,LOCO,"El Pollo Loco Holdings, Inc.",Consumer Cyclical,Restaurants,NMS,EQUITY
+RWL,RWL,Invesco S&P 500 Revenue ETF,,,PCX,ETF
+FTEC,FTEC,Fidelity MSCI Information Technology Index ETF,,,PCX,ETF
+BRY,BRY,,,,,
+CARZ,CARZ,First Trust S-Network Future Vehicles & Technology ETF,,,NGM,ETF
+EDC,EDC,Direxion Daily MSCI Emerging Markets Bull 3X Shares,,,PCX,ETF
+PACW,PACW,,,,,NONE
+CWST,CWST,"Casella Waste Systems, Inc.",Industrials,Waste Management,NMS,EQUITY
+NGVC,NGVC,"Natural Grocers by Vitamin Cottage, Inc.",Consumer Defensive,Grocery Stores,NYQ,EQUITY
+HOPE,HOPE,"Hope Bancorp, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+IBIO,IBIO,"iBio, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+VOXX,VOXX,,,,,NONE
+VHC,VHC,VirnetX Holding Corporation,Technology,Software - Infrastructure,NCM,EQUITY
+BGH,BGH,Barings Global Short Duration High Yield Fund,Financial Services,Asset Management,NYQ,EQUITY
+CLDT,CLDT,Chatham Lodging Trust,Real Estate,REIT - Hotel & Motel,NYQ,EQUITY
+LFUS,LFUS,"Littelfuse, Inc.",Technology,Electronic Components,NMS,EQUITY
+NZF,NZF,Nuveen Municipal Credit Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+COMB,COMB,GraniteShares Bloomberg Commodity Broad Strategy No K-1 ETF,,,PCX,ETF
+TRVG,TRVG,trivago N.V.,Communication Services,Internet Content & Information,NMS,EQUITY
+AFB,AFB,"AllianceBernstein National Municipal Income Fund, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+RCUS,RCUS,"Arcus Biosciences, Inc.",Healthcare,Biotechnology,NYQ,EQUITY
+OPI,OPI,,,,,
+ARVN,ARVN,"Arvinas, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+CIVB,CIVB,"Civista Bancshares, Inc.",Financial Services,Banks - Regional,NCM,EQUITY
+AMJ,AMJ,JPMorgan Alerian MLP Index ETN,,,PCX,ETF
+FTCS,FTCS,First Trust Capital Strength ETF,,,NGM,ETF
+KEP,KEP,Korea Electric Power Corporation,Utilities,Utilities - Regulated Electric,NYQ,EQUITY
+KALA,KALA,"KALA BIO, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+CENT,CENT,Central Garden & Pet Company,Consumer Defensive,Packaged Foods,NMS,EQUITY
+GSBC,GSBC,"Great Southern Bancorp, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+OLP,OLP,"One Liberty Properties, Inc.",Real Estate,REIT - Diversified,NYQ,EQUITY
+UVSP,UVSP,Univest Financial Corporation,Financial Services,Banks - Regional,NMS,EQUITY
+EURN,EURN,,,,,NONE
+INSM,INSM,Insmed Incorporated,Healthcare,Biotechnology,NMS,EQUITY
+PRTA,PRTA,Prothena Corporation plc,Healthcare,Biotechnology,NMS,EQUITY
+USHY,USHY,iShares Broad USD High Yield Corporate Bond ETF,,,BTS,ETF
+QFIN,QFIN,"Qfin Holdings, Inc.",Financial Services,Credit Services,NMS,EQUITY
+CTBI,CTBI,"Community Trust Bancorp, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+RWR,RWR,State Street SPDR Dow Jones REIT ETF,,,PCX,ETF
+NAD,NAD,Nuveen Quality Municipal Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+ZYME,ZYME,Zymeworks Inc.,Healthcare,Biotechnology,NMS,EQUITY
+BY,BY,"Byline Bancorp, Inc.",Financial Services,Banks - Regional,NYQ,EQUITY
+FXH,FXH,First Trust Health Care AlphaDEX Fund,,,PCX,ETF
+TRST,TRST,TrustCo Bank Corp NY,Financial Services,Banks - Regional,NMS,EQUITY
+CIGI,CIGI,Colliers International Group Inc.,Real Estate,Real Estate Services,NMS,EQUITY
+FTA,FTA,First Trust Large Cap Value AlphaDEX Fund,,,NGM,ETF
+PSR,PSR,Invesco Active U.S. Real Estate Fund,,,PCX,ETF
+CVCY,CVCY,,,,,NONE
+MOR,MOR,,,,,NONE
+DLHC,DLHC,DLH Holdings Corp.,Industrials,Specialty Business Services,NCM,EQUITY
+EQAL,EQAL,Invesco Russell 1000 Equal Weight ETF,,,PCX,ETF
+AAXJ,AAXJ,iShares MSCI All Country Asia ex Japan ETF,,,NGM,ETF
+FRA,FRA,"BlackRock Floating Rate Income Strategies Fund, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+HTLD,HTLD,"Heartland Express, Inc.",Industrials,Trucking,NMS,EQUITY
+ACWX,ACWX,iShares MSCI ACWI ex U.S. ETF,,,NGM,ETF
+TTI,TTI,"TETRA Technologies, Inc.",Industrials,Conglomerates,NYQ,EQUITY
+FFWM,FFWM,First Foundation Inc.,Financial Services,Banks - Regional,NYQ,EQUITY
+NHC,NHC,National HealthCare Corporation,Healthcare,Medical Care Facilities,ASE,EQUITY
+FCT,FCT,First Trust Senior Floating Rate Income Fund II,Financial Services,Asset Management,NYQ,EQUITY
+FEX,FEX,First Trust Large Cap Core AlphaDEX Fund,,,NGM,ETF
+PSMT,PSMT,"PriceSmart, Inc.",Consumer Defensive,Discount Stores,NMS,EQUITY
+CDLX,CDLX,"Cardlytics, Inc.",Communication Services,Advertising Agencies,NGM,EQUITY
+ABUS,ABUS,Arbutus Biopharma Corporation,Healthcare,Biotechnology,NMS,EQUITY
+LAUR,LAUR,"Laureate Education, Inc.",Consumer Defensive,Education & Training Services,NMS,EQUITY
+BTAI,BTAI,"BioXcel Therapeutics, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,NCM,EQUITY
+ALCO,ALCO,"Alico, Inc.",Consumer Defensive,Farm Products,NMS,EQUITY
+KALU,KALU,Kaiser Aluminum Corporation,Basic Materials,Aluminum,NMS,EQUITY
+CASI,CASI,"CASI Pharmaceuticals, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+UTF,UTF,"Cohen & Steers Infrastructure Fund, Inc",Financial Services,Asset Management,NYQ,EQUITY
+CASS,CASS,"Cass Information Systems, Inc.",Industrials,Specialty Business Services,NMS,EQUITY
+PRF,PRF,Invesco RAFI US 1000 ETF,,,PCX,ETF
+FTAI,FTAI,FTAI Aviation Ltd.,Industrials,Rental & Leasing Services,NMS,EQUITY
+OPRA,OPRA,Opera Limited,Communication Services,Internet Content & Information,NMS,EQUITY
+XHR,XHR,"Xenia Hotels & Resorts, Inc.",Real Estate,REIT - Hotel & Motel,NYQ,EQUITY
+FPX,FPX,First Trust US Equity Opportunities ETF,,,PCX,ETF
+EEMV,EEMV,iShares MSCI Emerging Markets Min Vol Factor ETF,,,BTS,ETF
+NEAR,NEAR,iShares Short Duration Bond Active ETF,,,BTS,ETF
+CMPR,CMPR,Cimpress plc,Industrials,Specialty Business Services,NMS,EQUITY
+TRNS,TRNS,"Transcat, Inc.",Industrials,Specialty Business Services,NGM,EQUITY
+BIOL,BIOL,,,,,
+FAX,FAX,Abrdn Asia-Pacific Income Fund Inc,Financial Services,Asset Management,ASE,EQUITY
+DMRC,DMRC,Digimarc Corporation,Technology,Software - Application,NMS,EQUITY
+PEY,PEY,Invesco High Yield Equity Dividend Achievers ETF,,,NGM,ETF
+HBCP,HBCP,"Home Bancorp, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+PHUN,PHUN,"Phunware, Inc.",Technology,Software - Application,NCM,EQUITY
+GILT,GILT,Gilat Satellite Networks Ltd.,Technology,Communication Equipment,NMS,EQUITY
+ESGD,ESGD,iShares ESG Aware MSCI EAFE ETF,,,NGM,ETF
+PKOH,PKOH,Park-Ohio Holdings Corp.,Industrials,Specialty Industrial Machinery,NMS,EQUITY
+VOOV,VOOV,Vanguard S&P 500 Value Index Fund ETF Shares,,,PCX,ETF
+PMO,PMO,Putnam Municipal Opportunities Trust,Financial Services,Asset Management,NYQ,EQUITY
+NEO,NEO,"NeoGenomics, Inc.",Healthcare,Diagnostics & Research,NCM,EQUITY
+AINC,AINC,,,,,NONE
+EFV,EFV,iShares MSCI EAFE Value ETF,,,BTS,ETF
+OR,OR,OR Royalties Inc.,Basic Materials,Gold,NYQ,EQUITY
+HBIO,HBIO,"Harvard Bioscience, Inc.",Healthcare,Medical Instruments & Supplies,NCM,EQUITY
+DXPE,DXPE,"DXP Enterprises, Inc.",Industrials,Industrial Distribution,NMS,EQUITY
+FENG,FENG,Phoenix New Media Limited,Communication Services,Internet Content & Information,NYQ,EQUITY
+SPSM,SPSM,State Street SPDR Portfolio S&P 600 Small Cap ETF,,,PCX,ETF
+MPB,MPB,"Mid Penn Bancorp, Inc.",Financial Services,Banks - Regional,NGM,EQUITY
+XAR,XAR,State Street SPDR S&P Aerospace & Defense ETF,,,PCX,ETF
+AQST,AQST,"Aquestive Therapeutics, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,NGM,EQUITY
+KRP,KRP,"Kimbell Royalty Partners, LP",Energy,Oil & Gas E&P,NYQ,EQUITY
+GM,GM,General Motors Company,Consumer Cyclical,Auto Manufacturers,NYQ,EQUITY
+MSBI,MSBI,"Midland States Bancorp, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+MSC,MSC,Studio City International Holdings Limited,Consumer Cyclical,Resorts & Casinos,NYQ,EQUITY
+FRBA,FRBA,First Bank,Financial Services,Banks - Regional,NGM,EQUITY
+GSBD,GSBD,"Goldman Sachs BDC, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+MUX,MUX,McEwen Inc.,Basic Materials,Other Precious Metals & Mining,NYQ,EQUITY
+WIA,WIA,Western Asset Inflation-Linked Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+PBT,PBT,Permian Basin Royalty Trust,Energy,Oil & Gas Midstream,NYQ,EQUITY
+BKCC,BKCC,,,,,NONE
+ASYS,ASYS,"Amtech Systems, Inc.",Technology,Semiconductor Equipment & Materials,NMS,EQUITY
+FLL,FLL,"Full House Resorts, Inc.",Consumer Cyclical,Resorts & Casinos,NCM,EQUITY
+VEU,VEU,Vanguard FTSE All-World ex-US Index Fund ETF Shares,,,PCX,ETF
+AMSWA,AMSWA,,,,,NONE
+CSGS,CSGS,"CSG Systems International, Inc.",Technology,Software - Infrastructure,NMS,EQUITY
+HSTM,HSTM,"HealthStream, Inc.",Healthcare,Health Information Services,NMS,EQUITY
+NMFC,NMFC,New Mountain Finance Corporation,Financial Services,Asset Management,NMS,EQUITY
+UAN,UAN,"CVR Partners, LP",Basic Materials,Agricultural Inputs,NYQ,EQUITY
+BRZU,BRZU,Direxion Daily MSCI Brazil Bull 2X Shares,,,PCX,ETF
+CDMO,CDMO,,,,,NONE
+PGC,PGC,Peapack-Gladstone Financial Corporation,Financial Services,Banks - Regional,NMS,EQUITY
+SPIB,SPIB,State Street SPDR Portfolio Intermediate Term Corporate Bond ETF,,,PCX,ETF
+KRNT,KRNT,Kornit Digital Ltd.,Industrials,Specialty Industrial Machinery,NMS,EQUITY
+QQEW,QQEW,First Trust Nasdaq-100 Select Equal Weight ETF,,,NGM,ETF
+XSW,XSW,State Street SPDR S&P Software & Services ETF,,,PCX,ETF
+RYAM,RYAM,Rayonier Advanced Materials Inc.,Basic Materials,Chemicals,NYQ,EQUITY
+JAKK,JAKK,"JAKKS Pacific, Inc.",Consumer Cyclical,Leisure,NMS,EQUITY
+XNET,XNET,Xunlei Limited,Technology,Software - Infrastructure,NMS,EQUITY
+RDVY,RDVY,First Trust Rising Dividend Achievers ETF,,,NGM,ETF
+URG,URG,Ur-Energy Inc.,Energy,Uranium,ASE,EQUITY
+DRH,DRH,DiamondRock Hospitality Company,Real Estate,REIT - Hotel & Motel,NMS,EQUITY
+FUV,FUV,,,,,NONE
+RPAY,RPAY,Repay Holdings Corporation,Technology,Software - Infrastructure,NCM,EQUITY
+VAW,VAW,Vanguard Materials Index Fund ETF Shares,,,PCX,ETF
+TECS,TECS,Direxion Daily Technology Bear 3X Shares,,,PCX,ETF
+EQX,EQX,Equinox Gold Corp.,Basic Materials,Gold,ASE,EQUITY
+DLTH,DLTH,Duluth Holdings Inc.,Consumer Cyclical,Apparel Retail,NMS,EQUITY
+EARN,EARN,Ellington Credit Company,Financial Services,Asset Management,NYQ,EQUITY
+NIU,NIU,Niu Technologies,Consumer Cyclical,Auto Manufacturers,NGM,EQUITY
+QRHC,QRHC,Quest Resource Holding Corporation,Industrials,Waste Management,NCM,EQUITY
+DGICA,DGICA,Donegal Group Inc.,Financial Services,Insurance - Property & Casualty,NMS,EQUITY
+CYD,CYD,China Yuchai International Limited,Consumer Cyclical,Auto Manufacturers,NYQ,EQUITY
+GF,GF,"The New Germany Fund, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+UTG,UTG,Reaves Utility Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+EDV,EDV,Vanguard Extended Duration Treasury Index Fund ETF Shares,,,PCX,ETF
+FENY,FENY,Fidelity MSCI Energy Index ETF,,,PCX,ETF
+GEN,GEN,Gen Digital Inc.,Technology,Software - Infrastructure,NMS,EQUITY
+DAKT,DAKT,"Daktronics, Inc.",Technology,Electronic Components,NMS,EQUITY
+NTCT,NTCT,"NetScout Systems, Inc.",Technology,Software - Infrastructure,NMS,EQUITY
+SPXL,SPXL,Direxion Daily S&P500 Bull 3X Shares,,,PCX,ETF
+NC,NC,"NACCO Industries, Inc.",Energy,Thermal Coal,NYQ,EQUITY
+JYNT,JYNT,The Joint Corp.,Healthcare,Medical Care Facilities,NCM,EQUITY
+BSV,BSV,Vanguard Short-Term Bond Index Fund ETF Shares,,,PCX,ETF
+ETON,ETON,"Eton Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,NGM,EQUITY
+RVT,RVT,"Royce Small-Cap Trust, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+GRVY,GRVY,"Gravity Co., Ltd.",Communication Services,Electronic Gaming & Multimedia,NGM,EQUITY
+RAND,RAND,Rand Capital Corporation,Financial Services,Asset Management,NCM,EQUITY
+FBMS,FBMS,,,,,NONE
+TSE,TSE,Trinseo PLC,Basic Materials,Specialty Chemicals,NYQ,EQUITY
+RCMT,RCMT,"RCM Technologies, Inc.",Industrials,Conglomerates,NGM,EQUITY
+CUTR,CUTR,"Cutera, Inc.",,,NGM,EQUITY
+TLH,TLH,iShares 10-20 Year Treasury Bond ETF,,,PCX,ETF
+RQI,RQI,"Cohen & Steers Quality Income Realty Fund, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+NFBK,NFBK,"Northfield Bancorp, Inc. (Staten Island, NY)",Financial Services,Banks - Regional,NMS,EQUITY
+EWT,EWT,iShares MSCI Taiwan ETF,,,PCX,ETF
+WMC,WMC,,,,,NONE
+GLDD,GLDD,Great Lakes Dredge & Dock Corporation,Industrials,Engineering & Construction,NMS,EQUITY
+AIA,AIA,iShares Asia 50 ETF,,,NGM,ETF
+ALPN,ALPN,,,,,NONE
+UNTY,UNTY,"Unity Bancorp, Inc.",Financial Services,Banks - Regional,NGM,EQUITY
+WEAT,WEAT,Teucrium Wheat Fund,,,PCX,ETF
+BHB,BHB,Bar Harbor Bankshares,Financial Services,Banks - Regional,ASE,EQUITY
+GNE,GNE,Genie Energy Ltd.,Utilities,Utilities - Regulated Electric,NYQ,EQUITY
+EVGN,EVGN,Evogene Ltd.,Healthcare,Biotechnology,NCM,EQUITY
+CRT,CRT,Cross Timbers Royalty Trust,Energy,Oil & Gas E&P,NYQ,EQUITY
+GDV,GDV,The Gabelli Dividend & Income Trust,Financial Services,Asset Management,NYQ,EQUITY
+OCSL,OCSL,Oaktree Specialty Lending Corporation,Financial Services,Asset Management,NMS,EQUITY
+LEO,LEO,"BNY Mellon Strategic Municipals, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+DEM,DEM,WisdomTree Emerging Markets High Dividend Fund,,,PCX,ETF
+RCON,RCON,"Recon Technology, Ltd.",Energy,Oil & Gas Equipment & Services,NCM,EQUITY
+NAK,NAK,Northern Dynasty Minerals Ltd.,Basic Materials,Other Industrial Metals & Mining,ASE,EQUITY
+FMN,FMN,Federated Hermes Premier Municipal Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+LIQT,LIQT,"LiqTech International, Inc.",Industrials,Pollution & Treatment Controls,NCM,EQUITY
+CSSE,CSSE,,,,,
+EBMT,EBMT,"Eagle Bancorp Montana, Inc.",Financial Services,Banks - Regional,NGM,EQUITY
+TDW,TDW,Tidewater Inc.,Energy,Oil & Gas Equipment & Services,NYQ,EQUITY
+PRK,PRK,Park National Corporation,Financial Services,Banks - Regional,ASE,EQUITY
+PEO,PEO,"Adams Natural Resources Fund, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+PHO,PHO,Invesco Water Resources ETF,,,NGM,ETF
+EBF,EBF,"Ennis, Inc.",Industrials,Business Equipment & Supplies,NYQ,EQUITY
+DMLP,DMLP,"Dorchester Minerals, L.P.",Energy,Oil & Gas E&P,NMS,EQUITY
+OOMA,OOMA,"Ooma, Inc.",Technology,Software - Application,NYQ,EQUITY
+NEXA,NEXA,Nexa Resources S.A.,Basic Materials,Other Industrial Metals & Mining,NYQ,EQUITY
+BSIG,BSIG,,,,,NONE
+PHI,PHI,PLDT Inc.,Communication Services,Telecom Services,NYQ,EQUITY
+CENTA,CENTA,Central Garden & Pet Company,Consumer Defensive,Packaged Foods,NMS,EQUITY
+BBDC,BBDC,"Barings BDC, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+PDM,PDM,"Piedmont Realty Trust, Inc.",Real Estate,REIT - Office,NYQ,EQUITY
+HACK,HACK,Amplify Cybersecurity ETF,,,PCX,ETF
+UFPT,UFPT,"UFP Technologies, Inc.",Healthcare,Medical Devices,NCM,EQUITY
+IAK,IAK,iShares U.S. Insurance ETF,,,PCX,ETF
+TCX,TCX,Tucows Inc.,Technology,Software - Infrastructure,NCM,EQUITY
+DSGX,DSGX,The Descartes Systems Group Inc.,Technology,Software - Application,NMS,EQUITY
+ODC,ODC,Oil-Dri Corporation of America,Basic Materials,Specialty Chemicals,NYQ,EQUITY
+REMX,REMX,VanEck Rare Earth and Strategic Metals ETF,,,PCX,ETF
+TMP,TMP,Tompkins Financial Corporation,Financial Services,Banks - Regional,ASE,EQUITY
+PFIE,PFIE,,,,,NONE
+TOUR,TOUR,Tuniu Corporation,Consumer Cyclical,Travel Services,NCM,EQUITY
+FLXS,FLXS,"Flexsteel Industries, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",NMS,EQUITY
+ORGO,ORGO,Organogenesis Holdings Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,NCM,EQUITY
+EFOI,EFOI,"Energy Focus, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",NCM,EQUITY
+PRPH,PRPH,"ProPhase Labs, Inc.",Healthcare,Diagnostics & Research,PNK,EQUITY
+VICR,VICR,Vicor Corporation,Technology,Electronic Components,NMS,EQUITY
+UPRO,UPRO,ProShares UltraPro S&P500,,,PCX,ETF
+AGX,AGX,"Argan, Inc.",Industrials,Engineering & Construction,NYQ,EQUITY
+PID,PID,Invesco International Dividend Achievers ETF,,,NGM,ETF
+BKT,BKT,"BlackRock Income Trust, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+JOUT,JOUT,Johnson Outdoors Inc.,Consumer Cyclical,Leisure,NMS,EQUITY
+QUS,QUS,State Street SPDR MSCI USA StrategicFactors? ETF,,,PCX,ETF
+AMEH,AMEH,,,,,NONE
+AOSL,AOSL,Alpha and Omega Semiconductor Limited,Technology,Semiconductors,NMS,EQUITY
+SUB,SUB,iShares Short-Term National Muni Bond ETF,,,PCX,ETF
+TFLO,TFLO,iShares Treasury Floating Rate Bond ETF,,,PCX,ETF
+ACTG,ACTG,Acacia Research Corporation,Industrials,Business Equipment & Supplies,NMS,EQUITY
+EZM,EZM,WisdomTree U.S. MidCap Earnings Fund,,,PCX,ETF
+MSB,MSB,Mesabi Trust,Basic Materials,Steel,NYQ,EQUITY
+TBNK,TBNK,,,,,NONE
+CCLP,CCLP,,,,,NONE
+LTRX,LTRX,"Lantronix, Inc.",Technology,Communication Equipment,NCM,EQUITY
+NXRT,NXRT,"NexPoint Residential Trust, Inc.",Real Estate,REIT - Residential,NYQ,EQUITY
+QCRH,QCRH,"QCR Holdings, Inc.",Financial Services,Banks - Regional,NGM,EQUITY
+ANIK,ANIK,"Anika Therapeutics, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,NMS,EQUITY
+SPHB,SPHB,Invesco S&P 500 High Beta ETF,,,PCX,ETF
+ATRI,ATRI,,,,,NONE
+RAMP,RAMP,"LiveRamp Holdings, Inc.",Technology,Software - Infrastructure,NYQ,EQUITY
+BIV,BIV,Vanguard Intermediate-Term Bond Index Fund,,,PCX,ETF
+HSON,HSON,,,,,
+ASTC,ASTC,Astrotech Corporation,Technology,Scientific & Technical Instruments,NCM,EQUITY
+CBFV,CBFV,"CB Financial Services, Inc.",Financial Services,Banks - Regional,NGM,EQUITY
+CFBK,CFBK,CF Bankshares Inc.,Financial Services,Banks - Regional,NCM,EQUITY
+DFIN,DFIN,"Donnelley Financial Solutions, Inc.",Technology,Software - Application,NYQ,EQUITY
+EML,EML,The Eastern Company,Industrials,Tools & Accessories,NGM,EQUITY
+AMNB,AMNB,,,,,NONE
+FNX,FNX,First Trust Mid Cap Core AlphaDEX Fund,,,NGM,ETF
+EVN,EVN,Eaton Vance Municipal Income Trust,Financial Services,Asset Management,NYQ,EQUITY
+EMD,EMD,Western Asset Emerging Markets Debt Fund Inc.,Financial Services,Asset Management,NYQ,EQUITY
+OPRX,OPRX,OptimizeRx Corporation,Healthcare,Health Information Services,NCM,EQUITY
+POWL,POWL,"Powell Industries, Inc.",Industrials,Electrical Equipment & Parts,NMS,EQUITY
+PED,PED,PEDEVCO Corp.,Energy,Oil & Gas E&P,ASE,EQUITY
+PSCE,PSCE,Invesco S&P SmallCap Energy ETF,,,NGM,ETF
+AMPE,AMPE,"Ampio Pharmaceuticals, Inc.",Healthcare,Biotechnology,PNK,EQUITY
+FSP,FSP,Franklin Street Properties Corp.,Real Estate,REIT - Office,ASE,EQUITY
+BIZD,BIZD,VanEck BDC Income ETF,,,PCX,ETF
+EYPT,EYPT,"EyePoint, Inc.",Healthcare,Biotechnology,NGM,EQUITY
+SPI,SPI,"SPI Energy Co., Ltd.",,,NCM,EQUITY
+APDN,APDN,,,,,NONE
+USEG,USEG,U.S. Energy Corp.,Energy,Oil & Gas E&P,NCM,EQUITY
+ESPO,ESPO,VanEck Video Gaming and eSports ETF,,,NGM,ETF
+GMDA,GMDA,,,,,NONE
+ZYXI,ZYXI,,,,,
+OGEN,OGEN,"Oragenics, Inc.",Healthcare,Biotechnology,ASE,EQUITY
+SUNW,SUNW,,,,,NONE
+KOD,KOD,Kodiak Sciences Inc.,Healthcare,Biotechnology,NGM,EQUITY
+FRBK,FRBK,,,,,NONE
+CRBP,CRBP,"Corbus Pharmaceuticals Holdings, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+REZ,REZ,iShares Residential and Multisector Real Estate ETF,,,PCX,ETF
+BLBD,BLBD,Blue Bird Corporation,Industrials,Farm & Heavy Construction Machinery,NGM,EQUITY
+FARO,FARO,,,,,
+ANAB,ANAB,"AnaptysBio, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+UMH,UMH,"UMH Properties, Inc.",Real Estate,REIT - Residential,NYQ,EQUITY
+FTXG,FTXG,First Trust Nasdaq Food & Beverage ETF,,,NGM,ETF
+HTBI,HTBI,"HomeTrust Bancshares, Inc.",,,NGM,EQUITY
+AMTB,AMTB,Amerant Bancorp Inc.,Financial Services,Banks - Regional,NYQ,EQUITY
+JRVR,JRVR,"James River Group Holdings, Inc.",Financial Services,Insurance - Specialty,NMS,EQUITY
+FNCL,FNCL,Fidelity MSCI Financials Index ETF,,,PCX,ETF
+REVG,REVG,"REV Group, Inc.",Industrials,Farm & Heavy Construction Machinery,NYQ,EQUITY
+PCQ,PCQ,PIMCO California Municipal Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+LYTS,LYTS,LSI Industries Inc.,Technology,Electronic Components,NMS,EQUITY
+ROBO,ROBO,Robo Global Robotics and Automation Index ETF,,,PCX,ETF
+FWONK,FWONK,Formula One Group,Communication Services,Entertainment,NMS,EQUITY
+PTGX,PTGX,"Protagonist Therapeutics, Inc.",Healthcare,Biotechnology,NGM,EQUITY
+LVS,LVS,Las Vegas Sands Corp.,Consumer Cyclical,Resorts & Casinos,NYQ,EQUITY
+ESGR,ESGR,,,,,NONE
+PGEN,PGEN,"Precigen, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+HONE,HONE,,,,,NONE
+ACIU,ACIU,AC Immune SA,Healthcare,Biotechnology,NGM,EQUITY
+GHL,GHL,,,,,NONE
+BFK,BFK,BlackRock Municipal Income Trust,Financial Services,Asset Management,NYQ,EQUITY
+INCO,INCO,Columbia India Consumer ETF,,,PCX,ETF
+CMLS,CMLS,Cumulus Media Inc.,Communication Services,Broadcasting,OQB,EQUITY
+NRO,NRO,Neuberger Berman Income Funds - Neuberger Real Estate Securities Income Fund Inc.,Financial Services,Asset Management,ASE,EQUITY
+AFT,AFT,,,,,NONE
+CRMD,CRMD,CorMedix Inc.,Healthcare,Biotechnology,NGM,EQUITY
+ADX,ADX,"Adams Diversified Equity Fund, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+QQXT,QQXT,First Trust NASDAQ-100 Ex-Technology Sector Index Fund,,,NGM,ETF
+SPCB,SPCB,SuperCom Ltd.,Industrials,Security & Protection Services,NCM,EQUITY
+PCB,PCB,PCB Bancorp,Financial Services,Banks - Regional,NMS,EQUITY
+FXG,FXG,First Trust Consumer Staples AlphaDEX Fund,,,PCX,ETF
+RCM,RCM,,,,,NONE
+CVCO,CVCO,"Cavco Industries, Inc.",Consumer Cyclical,Residential Construction,NMS,EQUITY
+PAVE,PAVE,Global X U.S. Infrastructure Development ETF,,,BTS,ETF
+CPIX,CPIX,Cumberland Pharmaceuticals Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,NMS,EQUITY
+UHAL,UHAL,U-Haul Holding Company,Industrials,Rental & Leasing Services,NYQ,EQUITY
+UVXY,UVXY,ProShares Ultra VIX Short-Term Futures ETF,,,BTS,ETF
+TMV,TMV,Direxion Daily 20+ Year Treasury Bear 3X Shares,,,PCX,ETF
+GREK,GREK,Global X MSCI Greece ETF,,,PCX,ETF
+EFT,EFT,Eaton Vance Floating-Rate Income Trust,Financial Services,Asset Management,NYQ,EQUITY
+RYTM,RYTM,"Rhythm Pharmaceuticals, Inc.",Healthcare,Biotechnology,NGM,EQUITY
+LANC,LANC,Lancaster Colony Corporation,,,NMS,EQUITY
+HNRG,HNRG,Hallador Energy Company,Energy,Thermal Coal,NCM,EQUITY
+PETQ,PETQ,,,,,NONE
+ASPN,ASPN,"Aspen Aerogels, Inc.",Industrials,Building Products & Equipment,NYQ,EQUITY
+VRRM,VRRM,Verra Mobility Corporation,Technology,Information Technology Services,NCM,EQUITY
+EEV,EEV,ProShares UltraShort MSCI Emerging Markets,,,PCX,ETF
+AMPY,AMPY,Amplify Energy Corp.,Energy,Oil & Gas E&P,NYQ,EQUITY
+EAST,EAST,,,,,NONE
+FSV,FSV,FirstService Corporation,Real Estate,Real Estate Services,NMS,EQUITY
+GPMT,GPMT,Granite Point Mortgage Trust Inc.,Real Estate,REIT - Mortgage,NYQ,EQUITY
+DESP,DESP,,,,,NONE
+NRP,NRP,Natural Resource Partners L.P.,Energy,Thermal Coal,NYQ,EQUITY
+RNGR,RNGR,"Ranger Energy Services, Inc.",Energy,Oil & Gas Equipment & Services,NYQ,EQUITY
+AXDX,AXDX,,,,,NONE
+OFLX,OFLX,"Omega Flex, Inc.",Industrials,Specialty Industrial Machinery,NGM,EQUITY
+VWOB,VWOB,Vanguard Emerging Markets Government Bond Index Fund,,,NGM,ETF
+KRYS,KRYS,"Krystal Biotech, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+RCKT,RCKT,"Rocket Pharmaceuticals, Inc.",Healthcare,Biotechnology,NGM,EQUITY
+BAB,BAB,Invesco Taxable Municipal Bond ETF,,,PCX,ETF
+BPRN,BPRN,"Princeton Bancorp, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+TISI,TISI,"Team, Inc.",Industrials,Specialty Business Services,NYQ,EQUITY
+GRIN,GRIN,VictoryShares International Free Cash Flow Growth ETF,,,NGM,ETF
+OPY,OPY,Oppenheimer Holdings Inc.,Financial Services,Capital Markets,NYQ,EQUITY
+AWP,AWP,abrdn Global Premier Properties Fund,Financial Services,Asset Management,NYQ,EQUITY
+RFIL,RFIL,"RF Industries, Ltd.",Industrials,Electrical Equipment & Parts,NGM,EQUITY
+API,API,"Agora, Inc.",Technology,Software - Application,NMS,EQUITY
+TAGS,TAGS,Teucrium Agricultural Fund,,,PCX,ETF
+KBWB,KBWB,Invesco KBW Bank ETF,,,NGM,ETF
+CTHR,CTHR,"Charles & Colvard, Ltd.",Consumer Cyclical,Luxury Goods,PNK,EQUITY
+TYG,TYG,Tortoise Energy Infrastructure Corporation,Financial Services,Asset Management,NYQ,EQUITY
+CLIR,CLIR,ClearSign Technologies Corporation,Industrials,Pollution & Treatment Controls,NCM,EQUITY
+NCZ,NCZ,Virtus Convertible & Income Fund II,Financial Services,Asset Management,NYQ,EQUITY
+CBNK,CBNK,"Capital Bancorp, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+RBCAA,RBCAA,"Republic Bancorp, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+CTMX,CTMX,"CytomX Therapeutics, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+VV,VV,Vanguard Large Cap Index Fund,,,PCX,ETF
+GDEN,GDEN,"Golden Entertainment, Inc.",Consumer Cyclical,Resorts & Casinos,NGM,EQUITY
+FXZ,FXZ,First Trust Materials AlphaDEX Fund,,,PCX,ETF
+DES,DES,WisdomTree U.S. SmallCap Dividend Fund,,,PCX,ETF
+WHLR,WHLR,"Wheeler Real Estate Investment Trust, Inc.",Real Estate,REIT - Retail,NCM,EQUITY
+FAT,FAT,FAT Brands Inc.,Consumer Cyclical,Restaurants,NGM,EQUITY
+RMBL,RMBL,,,,,
+BBDO,BBDO,Banco Bradesco S.A.,Financial Services,Banks - Regional,NYQ,EQUITY
+PKE,PKE,Park Aerospace Corp.,Industrials,Aerospace & Defense,NYQ,EQUITY
+PKW,PKW,Invesco BuyBack Achievers ETF,,,NGM,ETF
+AE,AE,,,,,NONE
+FT,FT,Franklin Universal Trust,Financial Services,Asset Management,NYQ,EQUITY
+INSG,INSG,Inseego Corp.,Technology,Communication Equipment,NMS,EQUITY
+BBU,BBU,Brookfield Business Partners L.P.,Industrials,Conglomerates,NYQ,EQUITY
+DSKE,DSKE,,,,,NONE
+KOF,KOF,"Coca-Cola FEMSA, S.A.B. de C.V.",Consumer Defensive,Beverages - Non-Alcoholic,NYQ,EQUITY
+ALOT,ALOT,"AstroNova, Inc.",Technology,Computer Hardware,NGM,EQUITY
+ESSA,ESSA,,,,,
+FCBC,FCBC,"First Community Bankshares, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+BSVN,BSVN,Bank7 Corp.,Financial Services,Banks - Regional,NMS,EQUITY
+WTM,WTM,"White Mountains Insurance Group, Ltd.",Financial Services,Insurance - Property & Casualty,NYQ,EQUITY
+BOSC,BOSC,B.O.S. Better Online Solutions Ltd.,Technology,Communication Equipment,NCM,EQUITY
+QD,QD,,,,,
+SPMD,SPMD,State Street SPDR Portfolio S&P 400 Mid Cap ETF,,,PCX,ETF
+GSY,GSY,Invesco Ultra Short Duration ETF,,,PCX,ETF
+EZA,EZA,iShares MSCI South Africa ETF,,,PCX,ETF
+FHLC,FHLC,Fidelity MSCI Health Care Index ETF,,,PCX,ETF
+BAR,BAR,GraniteShares Gold Trust,,,PCX,ETF
+EINC,EINC,VanEck Energy Income ETF,,,PCX,ETF
+NTIC,NTIC,Northern Technologies International Corporation,Basic Materials,Specialty Chemicals,NGM,EQUITY
+FINV,FINV,FinVolution Group,Financial Services,Credit Services,NYQ,EQUITY
+BBC,BBC,Virtus LifeSci Biotech Clinical Trials ETF,,,PCX,ETF
+QQQX,QQQX,Nuveen Nasdaq 100 Dynamic Overwrite Fund,Financial Services,Asset Management,NGM,EQUITY
+ALLK,ALLK,,,,,NONE
+GAB,GAB,The Gabelli Equity Trust Inc.,Financial Services,Asset Management,NYQ,EQUITY
+EFG,EFG,iShares MSCI EAFE Growth ETF,,,BTS,ETF
+LEE,LEE,"Lee Enterprises, Incorporated",Communication Services,Publishing,NMS,EQUITY
+GOF,GOF,Guggenheim Strategic Opportunities Fund,Financial Services,Asset Management,NYQ,EQUITY
+XERS,XERS,"Xeris Biopharma Holdings, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+KAI,KAI,Kadant Inc.,Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+XSOE,XSOE,WisdomTree Emerging Markets ex-State-Owned Enterprises Fund,,,PCX,ETF
+FTGC,FTGC,First Trust Global Tactical Commodity Strategy Fund,,,NGM,ETF
+TCCO,TCCO,Technical Communications Corporation,Technology,Communication Equipment,PNK,EQUITY
+CHT,CHT,"Chunghwa Telecom Co., Ltd.",Communication Services,Telecom Services,NYQ,EQUITY
+BCH,BCH,Banco de Chile,Financial Services,Banks - Regional,NYQ,EQUITY
+EZU,EZU,iShares MSCI Eurozone ETF,,,BTS,ETF
+CRWS,CRWS,"Crown Crafts, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",NCM,EQUITY
+TYO,TYO,Direxion Daily 7-10 Year Treasury Bear 3X Shares,,,PCX,ETF
+XOMA,XOMA,XOMA Royalty Corporation,Healthcare,Biotechnology,NGM,EQUITY
+VRNA,VRNA,,,,,
+LINC,LINC,Lincoln Educational Services Corporation,Consumer Defensive,Education & Training Services,NMS,EQUITY
+UCO,UCO,ProShares Ultra Bloomberg Crude Oil,,,PCX,ETF
+TENX,TENX,"Tenax Therapeutics, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+FCOM,FCOM,Fidelity MSCI Communication Services Index ETF,,,PCX,ETF
+HCM,HCM,HUTCHMED (China) Limited,Healthcare,Drug Manufacturers - Specialty & Generic,NMS,EQUITY
+BWG,BWG,Legg Mason BW Global Income Opportunities Fund Inc.,Financial Services,Asset Management,NYQ,EQUITY
+LTBR,LTBR,Lightbridge Corporation,Industrials,Electrical Equipment & Parts,NCM,EQUITY
+GNTY,GNTY,,,,,
+RMR,RMR,The RMR Group Inc.,Real Estate,Real Estate Services,NCM,EQUITY
+FFIC,FFIC,Flushing Financial Corporation,Financial Services,Banks - Regional,NMS,EQUITY
+FIW,FIW,First Trust Water ETF,,,PCX,ETF
+DMTK,DMTK,,,,,NONE
+CNDT,CNDT,Conduent Incorporated,Technology,Information Technology Services,NMS,EQUITY
+NBH,NBH,Neuberger Berman Income Funds - Neuberger Municipal Fund Inc.,Financial Services,Asset Management,ASE,EQUITY
+DDM,DDM,ProShares Ultra Dow30,,,PCX,ETF
+GDYN,GDYN,"Grid Dynamics Holdings, Inc.",Technology,Information Technology Services,NCM,EQUITY
+GLDM,GLDM,SPDR Gold MiniShares,,,PCX,ETF
+FLNT,FLNT,"Fluent, Inc.",Communication Services,Advertising Agencies,NCM,EQUITY
+SUSA,SUSA,iShares ESG Optimized MSCI USA ETF,,,PCX,ETF
+BLFS,BLFS,"BioLife Solutions, Inc.",Healthcare,Medical Instruments & Supplies,NCM,EQUITY
+PPT,PPT,Putnam Premier Income Trust,Financial Services,Asset Management,NYQ,EQUITY
+PZA,PZA,Invesco National AMT-Free Municipal Bond ETF,,,PCX,ETF
+KW,KW,"Kennedy-Wilson Holdings, Inc.",Real Estate,Real Estate Services,NYQ,EQUITY
+UXIN,UXIN,Uxin Limited,Consumer Cyclical,Auto & Truck Dealerships,NMS,EQUITY
+BWFG,BWFG,"Bankwell Financial Group, Inc.",Financial Services,Banks - Regional,NGM,EQUITY
+EUSA,EUSA,iShares MSCI USA Equal Weighted ETF,,,PCX,ETF
+VERI,VERI,"Veritone, Inc.",Technology,Software - Infrastructure,NGM,EQUITY
+KE,KE,"Kimball Electronics, Inc.",Industrials,Electrical Equipment & Parts,NMS,EQUITY
+VGLT,VGLT,Vanguard Long-Term Treasury Index Fund ETF Shares,,,NGM,ETF
+NTWK,NTWK,"NetSol Technologies, Inc.",Technology,Software - Application,NCM,EQUITY
+KBWY,KBWY,Invesco KBW Premium Yield Equity REIT ETF,,,NGM,ETF
+VREX,VREX,Varex Imaging Corporation,Healthcare,Medical Devices,NMS,EQUITY
+WVE,WVE,Wave Life Sciences Ltd.,Healthcare,Biotechnology,NGM,EQUITY
+FNDA,FNDA,Schwab Fundamental U.S. Small Company ETF,,,PCX,ETF
+GHY,GHY,"PGIM Global High Yield Fund, Inc",Financial Services,Asset Management,NYQ,EQUITY
+FIDU,FIDU,Fidelity MSCI Industrials Index ETF,,,PCX,ETF
+MYI,MYI,"BlackRock MuniYield Quality Fund III, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+HQH,HQH,Abrdn Healthcare Investors,Financial Services,Asset Management,NYQ,EQUITY
+BTO,BTO,John Hancock Financial Opportunities Fund,Financial Services,Asset Management,NYQ,EQUITY
+FNK,FNK,First Trust Mid Cap Value AlphaDEX Fund,,,NGM,ETF
+OMFL,OMFL,Invesco Russell 1000 Dynamic Multifactor ETF,,,BTS,ETF
+DFJ,DFJ,WisdomTree Japan SmallCap Dividend Fund,,,PCX,ETF
+BFC,BFC,Bank First Corporation,Financial Services,Banks - Regional,NCM,EQUITY
+TEDU,TEDU,,,,,NONE
+RDCM,RDCM,RADCOM Ltd.,Communication Services,Telecom Services,NCM,EQUITY
+AWF,AWF,AllianceBernstein Global High Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+AIRG,AIRG,"Airgain, Inc.",Technology,Communication Equipment,NCM,EQUITY
+ERSX,ERSX,ERShares NextGen Entrepreneurs ETF,,,NGM,ETF
+NFRA,NFRA,FlexShares STOXX Global Broad Infrastructure Index Fund,,,PCX,ETF
+FTC,FTC,First Trust Large Cap Growth AlphaDEX Fund,,,NGM,ETF
+UST,UST,ProShares Ultra 7-10 Year Treasury,,,PCX,ETF
+WINA,WINA,Winmark Corporation,Consumer Cyclical,Specialty Retail,NGM,EQUITY
+FTSM,FTSM,First Trust Enhanced Short Maturity ETF,,,NGM,ETF
+LTRPA,LTRPA,,,,,NONE
+MRUS,MRUS,Merus N.V.,Healthcare,Biotechnology,NGM,EQUITY
+ESGV,ESGV,Vanguard ESG U.S. Stock ETF,,,BTS,ETF
+BCSF,BCSF,"Bain Capital Specialty Finance, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+VSS,VSS,Vanguard FTSE All-World ex-US Small-Cap Index Fund ETF Shares,,,PCX,ETF
+FGBI,FGBI,"First Guaranty Bancshares, Inc.",Financial Services,Banks - Regional,NGM,EQUITY
+SPUU,SPUU,Direxion Daily S&P 500 Bull 2X Shares,,,PCX,ETF
+NKSH,NKSH,"National Bankshares, Inc.",Financial Services,Banks - Regional,NCM,EQUITY
+AEYE,AEYE,"AudioEye, Inc.",Technology,Software - Application,NCM,EQUITY
+BHR,BHR,Braemar Hotels & Resorts Inc.,Real Estate,REIT - Hotel & Motel,NYQ,EQUITY
+VCLT,VCLT,Vanguard Long-Term Corporate Bond Index Fund ETF Shares,,,NGM,ETF
+FBZ,FBZ,First Trust Brazil AlphaDEX Fund,,,NGM,ETF
+NTG,NTG,,,,,NONE
+AEY,AEY,,,,,NONE
+PROV,PROV,"Provident Financial Holdings, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+PWV,PWV,Invesco Dynamic Large Cap Value ETF,,,PCX,ETF
+BSL,BSL,Blackstone Senior Floating Rate 2027 Term Fund,Financial Services,Asset Management,NYQ,EQUITY
+FSFG,FSFG,"First Savings Financial Group, Inc.",Financial Services,Banks - Regional,NCM,EQUITY
+ANY,ANY,Sphere 3D Corp.,Financial Services,Capital Markets,NCM,EQUITY
+EIS,EIS,iShares MSCI Israel ETF,,,PCX,ETF
+UJB,UJB,ProShares Ultra High Yield,,,PCX,ETF
+UDOW,UDOW,ProShares UltraPro Dow30,,,PCX,ETF
+PSCD,PSCD,Invesco S&P SmallCap Consumer Discretionary ETF,,,NGM,ETF
+FINX,FINX,Global X FinTech ETF,,,NGM,ETF
+ACNB,ACNB,ACNB Corporation,Financial Services,Banks - Regional,NCM,EQUITY
+YMAB,YMAB,,,,,
+FTXN,FTXN,First Trust Nasdaq Oil & Gas ETF,,,NGM,ETF
+CRVL,CRVL,CorVel Corporation,Financial Services,Insurance Brokers,NMS,EQUITY
+BNED,BNED,"Barnes & Noble Education, Inc.",Consumer Cyclical,Specialty Retail,NYQ,EQUITY
+TNA,TNA,Direxion Daily Small Cap Bull 3X Shares,,,PCX,ETF
+HIX,HIX,Western Asset High Income Fund II Inc.,Financial Services,Asset Management,NYQ,EQUITY
+VXF,VXF,Vanguard Extended Market Index Fund ETF Shares,,,PCX,ETF
+GIM,GIM,,,,,NONE
+PGP,PGP,PIMCO Global StocksPLUS & Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+TLSA,TLSA,Tiziana Life Sciences Ltd,Healthcare,Biotechnology,NCM,EQUITY
+TIPX,TIPX,State Street SPDR Bloomberg 1-10 Year TIPS ETF,,,PCX,ETF
+LXU,LXU,"LSB Industries, Inc.",Basic Materials,Chemicals,NYQ,EQUITY
+DTD,DTD,WisdomTree U.S. Total Dividend Fund,,,PCX,ETF
+GGAL,GGAL,Grupo Financiero Galicia S.A.,Financial Services,Banks - Regional,NCM,EQUITY
+ABEO,ABEO,Abeona Therapeutics Inc.,Healthcare,Biotechnology,NCM,EQUITY
+CDZI,CDZI,Cadiz Inc.,Utilities,Utilities - Regulated Water,NGM,EQUITY
+LMBS,LMBS,First Trust Low Duration Opportunities ETF,,,NGM,ETF
+CPSS,CPSS,"Consumer Portfolio Services, Inc.",Financial Services,Credit Services,NGM,EQUITY
+PML,PML,PIMCO Municipal Income Fund II,Financial Services,Asset Management,NYQ,EQUITY
+DJCO,DJCO,Daily Journal Corporation,Technology,Software - Application,NCM,EQUITY
+DNP,DNP,DNP Select Income Fund Inc.,Financial Services,Asset Management,NYQ,EQUITY
+PMX,PMX,,,,,
+BUI,BUI,"BlackRock Utilities, Infrastructure & Power Opportunities Trust",Financial Services,Asset Management,NYQ,EQUITY
+RDIV,RDIV,Invesco S&P Ultra Dividend Revenue ETF,,,PCX,ETF
+VMO,VMO,Invesco Municipal Opportunity Trust,Financial Services,Asset Management,NYQ,EQUITY
+PMF,PMF,,,,,
+YYY,YYY,Amplify CEF High Income ETF,,,PCX,ETF
+PBUS,PBUS,Invesco MSCI USA ETF,,,BTS,ETF
+REZI,REZI,"Resideo Technologies, Inc.",Industrials,Industrial Distribution,NYQ,EQUITY
+NBN,NBN,Northeast Bank,Financial Services,Banks - Regional,NGM,EQUITY
+NVEC,NVEC,NVE Corporation,Technology,Semiconductors,NCM,EQUITY
+RGP,RGP,"Resources Connection, Inc.",Industrials,Consulting Services,NMS,EQUITY
+MVBF,MVBF,MVB Financial Corp.,Financial Services,Banks - Regional,NCM,EQUITY
+ICCC,ICCC,ImmuCell Corporation,Healthcare,Biotechnology,NCM,EQUITY
+QQQE,QQQE,Direxion NASDAQ-100 Equal Weighted Index Shares,,,NGM,ETF
+GMRE,GMRE,Chiron Real Estate Inc.,Real Estate,REIT - Healthcare Facilities,NYQ,EQUITY
+FPE,FPE,First Trust Preferred Securities and Income ETF,,,PCX,ETF
+PHK,PHK,PIMCO High Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+ACU,ACU,Acme United Corporation,Consumer Defensive,Household & Personal Products,ASE,EQUITY
+LEJU,LEJU,,,,,NONE
+PBE,PBE,Invesco Biotechnology & Genome ETF,,,PCX,ETF
+GENC,GENC,"Gencor Industries, Inc.",Industrials,Farm & Heavy Construction Machinery,ASE,EQUITY
+BHK,BHK,BlackRock Core Bond Trust,Financial Services,Asset Management,NYQ,EQUITY
+WASH,WASH,"Washington Trust Bancorp, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+DMB,DMB,"BNY Mellon Municipal Bond Infrastructure Fund, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+AGD,AGD,abrdn Global Dynamic Dividend,,,NYQ,EQUITY
+LPTH,LPTH,"LightPath Technologies, Inc.",Technology,Electronic Components,NCM,EQUITY
+ATEX,ATEX,Anterix Inc.,Communication Services,Telecom Services,NCM,EQUITY
+FUNC,FUNC,First United Corporation,Financial Services,Banks - Regional,NMS,EQUITY
+GRX,GRX,The Gabelli Healthcare & Wellness Trust,Financial Services,Asset Management,NYQ,EQUITY
+CJJD,CJJD,,,,,NONE
+ATOM,ATOM,Atomera Incorporated,Technology,Semiconductor Equipment & Materials,NCM,EQUITY
+VJET,VJET,,,,,NONE
+AMZA,AMZA,InfraCap MLP ETF,,,PCX,ETF
+BRF,BRF,VanEck Brazil Small-Cap ETF,,,PCX,ETF
+USIG,USIG,iShares Broad USD Investment Grade Corporate Bond ETF,,,NGM,ETF
+GSAT,GSAT,"Globalstar, Inc.",Communication Services,Telecom Services,NMS,EQUITY
+EQ,EQ,"Equillium, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+PZC,PZC,,,,,
+NOVT,NOVT,Novanta Inc.,Technology,Scientific & Technical Instruments,NMS,EQUITY
+TAIT,TAIT,Taitron Components Incorporated,Technology,Electronics & Computer Distribution,PNK,EQUITY
+TRVN,TRVN,"Trevena, Inc.",Healthcare,Biotechnology,PNK,EQUITY
+EFAV,EFAV,iShares MSCI EAFE Min Vol Factor ETF,,,BTS,ETF
+RDFN,RDFN,,,,,NONE
+CRBN,CRBN,iShares Low Carbon Optimized MSCI ACWI ETF,,,PCX,ETF
+FBND,FBND,Fidelity Total Bond ETF,,,PCX,ETF
+PLPC,PLPC,Preformed Line Products Company,Industrials,Electrical Equipment & Parts,NMS,EQUITY
+FFC,FFC,Flaherty & Crumrine Preferred Securities Income Fund Inc.,Financial Services,Asset Management,NYQ,EQUITY
+ESCA,ESCA,"Escalade, Incorporated",Consumer Cyclical,Leisure,NGM,EQUITY
+FTXL,FTXL,First Trust Nasdaq Semiconductor ETF,,,NGM,ETF
+PGZ,PGZ,Principal Real Estate Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+BW,BW,"Babcock & Wilcox Enterprises, Inc.",Industrials,Specialty Industrial Machinery,NYQ,EQUITY
+LPL,LPL,"LG Display Co., Ltd.",Technology,Consumer Electronics,NYQ,EQUITY
+QNST,QNST,"QuinStreet, Inc.",Communication Services,Advertising Agencies,NMS,EQUITY
+DGS,DGS,WisdomTree Emerging Markets SmallCap Dividend Fund,,,PCX,ETF
+BFST,BFST,"Business First Bancshares, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+CXE,CXE,MFS High Income Municipal Trust,Financial Services,Asset Management,NYQ,EQUITY
+QGRO,QGRO,American Century U.S. Quality Growth ETF,,,PCX,ETF
+CVBF,CVBF,CVB Financial Corp.,Financial Services,Banks - Regional,NMS,EQUITY
+CWB,CWB,State Street SPDR Bloomberg Convertible Securities ETF,,,PCX,ETF
+PTF,PTF,Invesco Dorsey Wright Technology Momentum ETF,,,NGM,ETF
+ONCT,ONCT,,,,,NONE
+BME,BME,BlackRock Health Sciences Trust,Financial Services,Asset Management,NYQ,EQUITY
+NUGT,NUGT,Direxion Daily Gold Miners Index Bull 2X Shares,,,PCX,ETF
+RWM,RWM,ProShares Short Russell2000,,,PCX,ETF
+RWO,RWO,State Street SPDR Dow Jones Global Real Estate ETF,,,PCX,ETF
+VFL,VFL,abrdn National Municipal Income Fund,Financial Services,Asset Management,ASE,EQUITY
+ONEY,ONEY,State Street SPDR Russell 1000 Yield Focus ETF,,,PCX,ETF
+TY,TY,Tri-Continental Corporation,Financial Services,Asset Management,NYQ,EQUITY
+DMF,DMF,,,,,NONE
+LWAY,LWAY,"Lifeway Foods, Inc.",Consumer Defensive,Packaged Foods,NGM,EQUITY
+UTSI,UTSI,UTStarcom Holdings Corp.,Technology,Communication Equipment,NMS,EQUITY
+WTBA,WTBA,"West Bancorporation, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+KBWP,KBWP,Invesco KBW Property & Casualty Insurance ETF,,,NGM,ETF
+CPLP,CPLP,,,,,NONE
+PNI,PNI,PIMCO New York Municipal Income Fund II,Financial Services,Asset Management,NYQ,EQUITY
+CRNX,CRNX,"Crinetics Pharmaceuticals, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+COMT,COMT,iShares GSCI Commodity Dynamic Roll Strategy ETF,,,NGM,ETF
+ACEL,ACEL,"Accel Entertainment, Inc.",Consumer Cyclical,Gambling,NYQ,EQUITY
+AVNW,AVNW,"Aviat Networks, Inc.",Technology,Communication Equipment,NMS,EQUITY
+ADVM,ADVM,,,,,NONE
+PCF,PCF,High Income Securities Fund,Financial Services,Asset Management,NYQ,EQUITY
+MVF,MVF,BlackRock MuniVest,Financial Services,Asset Management,NYQ,EQUITY
+VGM,VGM,Invesco Trust for Investment Grade Municipals,Financial Services,Asset Management,NYQ,EQUITY
+KNSA,KNSA,"Kiniksa Pharmaceuticals International, plc",Healthcare,Drug Manufacturers - Specialty & Generic,NMS,EQUITY
+VEON,VEON,VEON Ltd.,Communication Services,Telecom Services,NMS,EQUITY
+SPTI,SPTI,State Street SPDR Portfolio Intermediate Term Treasury ETF,,,PCX,ETF
+EBTC,EBTC,,,,,NONE
+CHIE,CHIE,Global X MSCI China Energy ETF,,,PCX,ETF
+DJD,DJD,Invesco Dow Jones Industrial Average Dividend ETF,,,PCX,ETF
+ELD,ELD,WisdomTree Emerging Markets Local Debt Fund,,,PCX,ETF
+CMCT,CMCT,Creative Media & Community Trust Corporation,Real Estate,REIT - Office,NCM,EQUITY
+AKTS,AKTS,"Aktis Oncology, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+EVF,EVF,Eaton Vance Senior Income Trust,Financial Services,Asset Management,NYQ,EQUITY
+VIXY,VIXY,ProShares VIX Short-Term Futures ETF,,,BTS,ETF
+GURE,GURE,"Gulf Resources, Inc.",Basic Materials,Chemicals,NCM,EQUITY
+GAM,GAM,"General American Investors Company, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+TRTX,TRTX,"TPG RE Finance Trust, Inc.",Real Estate,REIT - Mortgage,NYQ,EQUITY
+ASM,ASM,Avino Silver & Gold Mines Ltd.,Basic Materials,Other Precious Metals & Mining,ASE,EQUITY
+FTXR,FTXR,First Trust Nasdaq Transportation ETF,,,NGM,ETF
+GBAB,GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust,Financial Services,Asset Management,NYQ,EQUITY
+PCEF,PCEF,Invesco CEF Income Composite ETF,,,PCX,ETF
+SPOK,SPOK,"Spok Holdings, Inc.",Healthcare,Health Information Services,NMS,EQUITY
+GLO,GLO,Clough Global Opportunities Fund,Financial Services,Asset Management,ASE,EQUITY
+CTG,CTG,,,,,NONE
+PNF,PNF,,,,,
+KURA,KURA,"Kura Oncology, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+OXBR,OXBR,Oxbridge Re Holdings Limited,Financial Services,Insurance - Reinsurance,NCM,EQUITY
+BST,BST,BlackRock Science and Technology Trust,Financial Services,Asset Management,NYQ,EQUITY
+MRBK,MRBK,Meridian Corporation,Financial Services,Banks - Regional,NMS,EQUITY
+FPL,FPL,,,,,NONE
+BIOX,BIOX,Bioceres Crop Solutions Corp.,Basic Materials,Agricultural Inputs,NMS,EQUITY
+ROOF,ROOF,NYLI CBRE NextGen Real Estate ETF,,,PCX,ETF
+CIX,CIX,CompX International Inc.,Industrials,Security & Protection Services,ASE,EQUITY
+ETG,ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+PXLW,PXLW,"Pixelworks, Inc.",Technology,Semiconductors,NCM,EQUITY
+XSLV,XSLV,Invesco S&P SmallCap Low Volatility ETF,,,PCX,ETF
+VALU,VALU,"Value Line, Inc.",Financial Services,Financial Data & Stock Exchanges,NCM,EQUITY
+VIOV,VIOV,Vanguard S&P Small-Cap 600 Value Index Fund ETF Shares,,,PCX,ETF
+QLD,QLD,ProShares Ultra QQQ,,,PCX,ETF
+ASHS,ASHS,Xtrackers Harvest CSI 500 China A-Shares Small Cap ETF,,,PCX,ETF
+KTCC,KTCC,Key Tronic Corporation,Technology,Computer Hardware,NGM,EQUITY
+NRT,NRT,North European Oil Royalty Trust,Energy,Oil & Gas E&P,NYQ,EQUITY
+TTP,TTP,,,,,NONE
+ONEV,ONEV,State Street SPDR Russell 1000 Low Volatility Focus ETF,,,PCX,ETF
+RGLS,RGLS,,,,,NONE
+FRI,FRI,First Trust S&P REIT Index Fund,,,PCX,ETF
+CLSD,CLSD,"Clearside Biomedical, Inc.",Healthcare,Biotechnology,NGM,EQUITY
+GBR,GBR,"New Concept Energy, Inc.",Real Estate,Real Estate Services,ASE,EQUITY
+OVID,OVID,Ovid Therapeutics Inc.,Healthcare,Biotechnology,NCM,EQUITY
+VGI,VGI,Virtus Global Multi-Sector Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+PDI,PDI,PIMCO Dynamic Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+PFM,PFM,Invesco Dividend Achievers ETF,,,NGM,ETF
+PLBC,PLBC,Plumas Bancorp,Financial Services,Banks - Regional,NCM,EQUITY
+CORR,CORR,,,,,NONE
+CULP,CULP,"Culp, Inc.",Consumer Cyclical,Textile Manufacturing,NYQ,EQUITY
+BBAR,BBAR,Banco BBVA Argentina S.A.,Financial Services,Banks - Regional,NYQ,EQUITY
+CLWT,CLWT,Euro Tech Holdings Company Limited,Industrials,Pollution & Treatment Controls,NCM,EQUITY
+CASA,CASA,,,,,NONE
+BOXL,BOXL,Boxlight Corporation,Technology,Consumer Electronics,NCM,EQUITY
+RIBT,RIBT,RiceBran Technologies,Consumer Defensive,Packaged Foods,PNK,EQUITY
+GTIM,GTIM,Good Times Restaurants Inc.,Consumer Cyclical,Restaurants,NCM,EQUITY
+HQI,HQI,"HireQuest, Inc.",Industrials,Staffing & Employment Services,NCM,EQUITY
+GNR,GNR,State Street SPDR S&P Global Natural Resources ETF,,,PCX,ETF
+FEN,FEN,,,,,NONE
+VTVT,VTVT,vTv Therapeutics Inc.,Healthcare,Biotechnology,NCM,EQUITY
+RBB,RBB,RBB Bancorp,Financial Services,Banks - Regional,NMS,EQUITY
+OCX,OCX,,,,,NONE
+NATH,NATH,"Nathan's Famous, Inc.",Consumer Cyclical,Restaurants,NMS,EQUITY
+EVV,EVV,Eaton Vance Limited Duration Income Fund,Financial Services,Asset Management,ASE,EQUITY
+RBBN,RBBN,Ribbon Communications Inc.,Technology,Software - Application,NMS,EQUITY
+RMNI,RMNI,"Rimini Street, Inc.",Technology,Software - Application,NGM,EQUITY
+APYX,APYX,Apyx Medical Corporation,Healthcare,Medical Devices,NMS,EQUITY
+EPOL,EPOL,iShares MSCI Poland ETF,,,PCX,ETF
+BCML,BCML,BayCom Corp,Financial Services,Banks - Regional,NMS,EQUITY
+LKFN,LKFN,Lakeland Financial Corporation,Financial Services,Banks - Regional,NMS,EQUITY
+PVI,PVI,Invesco Floating Rate Municipal Income ETF,,,PCX,ETF
+CEM,CEM,,,,,NONE
+CWI,CWI,State Street SPDR MSCI ACWI ex-US ETF,,,PCX,ETF
+FTFT,FTFT,Future FinTech Group Inc.,Technology,Software - Application,NCM,EQUITY
+ETW,ETW,Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund,Financial Services,Asset Management,NYQ,EQUITY
+CGA,CGA,,,,,NONE
+PESI,PESI,"Perma-Fix Environmental Services, Inc.",Industrials,Waste Management,NCM,EQUITY
+PSQ,PSQ,ProShares Short QQQ,,,PCX,ETF
+DBEZ,DBEZ,Xtrackers MSCI Eurozone Hedged Equity ETF,,,PCX,ETF
+HUSA,HUSA,,,,,NONE
+FNLC,FNLC,"The First Bancorp, Inc.",Financial Services,Banks - Regional,NMS,EQUITY
+CFFI,CFFI,C&F Financial Corporation,Financial Services,Banks - Regional,NMS,EQUITY
+CZWI,CZWI,"Citizens Community Bancorp, Inc.",Financial Services,Banks - Regional,NGM,EQUITY
+TIPT,TIPT,Tiptree Inc.,Financial Services,Insurance - Specialty,NCM,EQUITY
+OSPN,OSPN,OneSpan Inc.,Technology,Software - Infrastructure,NCM,EQUITY
+DBEU,DBEU,Xtrackers MSCI Europe Hedged Equity ETF,,,PCX,ETF
+RDI,RDI,"Reading International, Inc.",Communication Services,Entertainment,NCM,EQUITY
+VBF,VBF,Invesco Bond Fund,Financial Services,Asset Management,NYQ,EQUITY
+CGBD,CGBD,"Carlyle Secured Lending, Inc.",Financial Services,Asset Management,NMS,EQUITY
+ESTA,ESTA,Establishment Labs Holdings Inc.,Healthcare,Medical Devices,NCM,EQUITY
+VRCA,VRCA,Verrica Pharmaceuticals Inc.,Healthcare,Biotechnology,NCM,EQUITY
+FFNW,FFNW,,,,,NONE
+MOGO,MOGO,Orion Digital Corp.,Technology,Software - Infrastructure,NCM,EQUITY
+HPS,HPS,John Hancock Preferred Income Fund III,Financial Services,Asset Management,NYQ,EQUITY
+NML,NML,Neuberger Berman Income Funds - Neuberger Energy Infrastructure and Income Fund Inc.,Financial Services,Asset Management,ASE,EQUITY
+BWX,BWX,SPDR Bloomberg International Treasury Bond ETF,,,PCX,ETF
+CREG,CREG,Smart Powerr Corp.,Utilities,Utilities - Renewable,NCM,EQUITY
+FBIO,FBIO,"Fortress Biotech, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+EQBK,EQBK,"Equity Bancshares, Inc.",Financial Services,Banks - Regional,NYQ,EQUITY
+ORTX,ORTX,,,,,NONE
+VTSI,VTSI,"VirTra, Inc.",Technology,Software - Application,NCM,EQUITY
+CRESY,CRESY,"Cresud Sociedad Anónima, Comercial, Inmobiliaria, Financiera y Agropecuaria",Industrials,Conglomerates,NMS,EQUITY
+WOOD,WOOD,iShares Global Timber & Forestry ETF,,,NGM,ETF
+CHIX,CHIX,Global X MSCI China Financials ETF,,,PCX,ETF
+ELP,ELP,,,,,
+SPDW,SPDW,State Street SPDR Portfolio Developed World ex-US ETF,,,PCX,ETF
+BBGI,BBGI,"Beasley Broadcast Group, Inc.",Communication Services,Broadcasting,NCM,EQUITY
+CRVS,CRVS,"Corvus Pharmaceuticals, Inc.",Healthcare,Biotechnology,NGM,EQUITY
+BBJP,BBJP,JPMorgan BetaBuilders Japan ETF,,,BTS,ETF
+NWLI,NWLI,,,,,NONE
+KXIN,KXIN,Kaixin Holdings,Consumer Cyclical,Auto & Truck Dealerships,NCM,EQUITY
+USA,USA,Liberty All-Star Equity Fund,Financial Services,Asset Management,NYQ,EQUITY
+REKR,REKR,"Rekor Systems, Inc.",Technology,Software - Infrastructure,NCM,EQUITY
+CZNC,CZNC,Citizens & Northern Corporation,Financial Services,Banks - Regional,NCM,EQUITY
+HEWJ,HEWJ,iShares Currency Hedged MSCI Japan ETF,,,PCX,ETF
+TSI,TSI,"TCW Strategic Income Fund, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+TLK,TLK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,Communication Services,Telecom Services,NYQ,EQUITY
+FCO,FCO,"abrdn Global Income Fund, Inc.",Financial Services,Asset Management,ASE,EQUITY
+CLPR,CLPR,Clipper Realty Inc.,Real Estate,REIT - Residential,NYQ,EQUITY
+EMKR,EMKR,,,,,NONE
+EVFM,EVFM,"Evofem Biosciences, Inc.",Healthcare,Biotechnology,PNK,EQUITY
+OPGN,OPGN,"OpGen, Inc.",Healthcare,Medical Devices,PNK,EQUITY
+FEIM,FEIM,"Frequency Electronics, Inc.",Technology,Communication Equipment,NGM,EQUITY
+BYSI,BYSI,BeyondSpring Inc.,Healthcare,Biotechnology,NCM,EQUITY
+FANH,FANH,,,,,NONE
+NAIL,NAIL,Direxion Daily Homebuilders & Supplies Bull 3X Shares,,,PCX,ETF
+CNET,CNET,ZW Data Action Technologies Inc.,Communication Services,Advertising Agencies,NCM,EQUITY
+TK,TK,Teekay Corporation Ltd.,Energy,Oil & Gas Midstream,NYQ,EQUITY
+HROW,HROW,"Harrow, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,NGM,EQUITY
+UBT,UBT,ProShares Ultra 20+ Year Treasury,,,PCX,ETF
+XMMO,XMMO,Invesco S&P MidCap Momentum ETF,,,PCX,ETF
+ESQ,ESQ,"Esquire Financial Holdings, Inc.",Financial Services,Banks - Regional,NCM,EQUITY
+GCBC,GCBC,"Greene County Bancorp, Inc.",Financial Services,Banks - Regional,NCM,EQUITY
+PIRS,PIRS,,,,,NONE
+ESGE,ESGE,iShares ESG Aware MSCI EM ETF,,,NGM,ETF
+BBCP,BBCP,"Concrete Pumping Holdings, Inc.",Industrials,Engineering & Construction,NCM,EQUITY
+KLXE,KLXE,"KLX Energy Services Holdings, Inc.",Energy,Oil & Gas Equipment & Services,NMS,EQUITY
+MTR,MTR,Mesa Royalty Trust,Energy,Oil & Gas E&P,NYQ,EQUITY
+GTEC,GTEC,Greenland Technologies Holding Corporation,Consumer Cyclical,Auto Parts,NCM,EQUITY
+FAM,FAM,,,,,NONE
+PDT,PDT,John Hancock Premium Dividend Fund,Financial Services,Asset Management,NYQ,EQUITY
+EWUS,EWUS,iShares MSCI United Kingdom Small-Cap ETF,,,BTS,ETF
+REW,REW,ProShares UltraShort Technology,,,PCX,ETF
+PSTV,PSTV,"Plus Therapeutics, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+RINF,RINF,ProShares Inflation Expectations ETF,,,PCX,ETF
+SYBX,SYBX,"Synlogic, Inc.",Healthcare,Biotechnology,PNK,EQUITY
+TUSK,TUSK,"Mammoth Energy Services, Inc.",Industrials,Conglomerates,NMS,EQUITY
+USCI,USCI,"United States Commodity Index Fund, LP",,,PCX,ETF
+VNM,VNM,VanEck Vietnam ETF,,,BTS,ETF
+SPTS,SPTS,State Street SPDR Portfolio Short Term Treasury ETF,,,PCX,ETF
+GASS,GASS,StealthGas Inc.,Industrials,Marine Shipping,NMS,EQUITY
+CHIM,CHIM,Global X MSCI China Materials ETF,,,PCX,ETF
+EURL,EURL,Direxion Daily FTSE Europe Bull 3X Shares,,,PCX,ETF
+DHIL,DHIL,"Diamond Hill Investment Group, Inc.",Financial Services,Asset Management,NMS,EQUITY
+ARAV,ARAV,,,,,NONE
+CURE,CURE,Direxion Daily Healthcare Bull 3X Shares,,,PCX,ETF
+ENSV,ENSV,Enservco Corporation,Energy,Oil & Gas Equipment & Services,PNK,EQUITY
+PMM,PMM,Putnam Managed Municipal Income Trust,Financial Services,Asset Management,NYQ,EQUITY
+KEQU,KEQU,Kewaunee Scientific Corporation,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NGM,EQUITY
+AMRK,AMRK,,,,,
+JGH,JGH,Nuveen Global High Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+VALQ,VALQ,American Century U.S. Quality Value ETF,,,PCX,ETF
+LDP,LDP,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+ACWV,ACWV,iShares MSCI Global Min Vol Factor ETF,,,BTS,ETF
+MUE,MUE,"BlackRock MuniHoldings Quality Fund II, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+BFZ,BFZ,BlackRock California Municipal Income Trust,Financial Services,Asset Management,NYQ,EQUITY
+AIQ,AIQ,Global X Artificial Intelligence & Technology ETF,,,NGM,ETF
+WYY,WYY,WidePoint Corporation,Technology,Information Technology Services,ASE,EQUITY
+CZA,CZA,Invesco Zacks Mid-Cap ETF,,,PCX,ETF
+PRNT,PRNT,The 3D Printing ETF,,,BTS,ETF
+PCYO,PCYO,Pure Cycle Corporation,Utilities,Utilities - Regulated Water,NCM,EQUITY
+FGM,FGM,First Trust Germany AlphaDEX Fund,,,NGM,ETF
+IAF,IAF,Abrdn Australia Equity Fund Inc,Financial Services,Asset Management,ASE,EQUITY
+MUA,MUA,"BlackRock MuniAssets Fund, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+GEOS,GEOS,Geospace Technologies Corporation,Energy,Oil & Gas Equipment & Services,NMS,EQUITY
+AOR,AOR,iShares Core 60/40 Balanced Allocation ETF,,,PCX,ETF
+DOG,DOG,ProShares Short Dow30,,,PCX,ETF
+TBF,TBF,ProShares Short 20+ Year Treasury,,,PCX,ETF
+GSIT,GSIT,"GSI Technology, Inc.",Technology,Semiconductors,NMS,EQUITY
+PSL,PSL,Invesco Dorsey Wright Consumer Staples Momentum ETF,,,NGM,ETF
+NXJ,NXJ,Nuveen New Jersey Quality Municipal Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+ORC,ORC,"Orchid Island Capital, Inc.",Real Estate,REIT - Mortgage,NYQ,EQUITY
+DSL,DSL,DoubleLine Income Solutions Fund,Financial Services,Asset Management,NYQ,EQUITY
+KGRN,KGRN,KraneShares MSCI China Clean Technology ETF,,,PCX,ETF
+CRF,CRF,"Cornerstone Total Return Fund, Inc.",Financial Services,Asset Management,ASE,EQUITY
+HQL,HQL,Abrdn Life Sciences Investors,Financial Services,Asset Management,NYQ,EQUITY
+ETB,ETB,Eaton Vance Tax-Managed Buy-Write Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+SYPR,SYPR,"Sypris Solutions, Inc.",Consumer Cyclical,Auto Parts,NGM,EQUITY
+CANE,CANE,Teucrium Sugar Fund,,,PCX,ETF
+PSCC,PSCC,Invesco S&P SmallCap Consumer Staples ETF,,,NGM,ETF
+MXC,MXC,Mexco Energy Corporation,Energy,Oil & Gas E&P,ASE,EQUITY
+LGLV,LGLV,State Street SPDR US Large Cap Low Volatility Index ETF,,,PCX,ETF
+MPV,MPV,Barings Participation Investors,Financial Services,Asset Management,NYQ,EQUITY
+XNTK,XNTK,State Street SPDR NYSE Technology ETF,,,PCX,ETF
+CWBC,CWBC,Community West Bancshares,Financial Services,Banks - Regional,NCM,EQUITY
+YXI,YXI,ProShares Short FTSE China 50,,,PCX,ETF
+RWX,RWX,State Street SPDR Dow Jones International Real Estate ETF,,,PCX,ETF
+EVC,EVC,Entravision Communications Corporation,Communication Services,Advertising Agencies,NYQ,EQUITY
+VKQ,VKQ,Invesco Municipal Trust,Financial Services,Asset Management,NYQ,EQUITY
+DCTH,DCTH,"Delcath Systems, Inc.",Healthcare,Medical Devices,NCM,EQUITY
+GUSH,GUSH,Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares,,,PCX,ETF
+CVLY,CVLY,,,,,NONE
+OTLK,OTLK,"Outlook Therapeutics, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+DIV,DIV,Global X SuperDividend U.S. ETF,,,PCX,ETF
+KOLD,KOLD,ProShares UltraShort Bloomberg Natural Gas,,,PCX,ETF
+DGP,DGP,DB Gold Double Long ETN,,,PCX,ETF
+DXD,DXD,ProShares UltraShort Dow30,,,PCX,ETF
+DGZ,DGZ,DB Gold Short ETN,,,PCX,ETF
+FJP,FJP,First Trust Japan AlphaDEX Fund,,,NGM,ETF
+GNSS,GNSS,Genasys Inc.,Technology,Scientific & Technical Instruments,NCM,EQUITY
+GMBL,GMBL,"Esports Entertainment Group, Inc.",Consumer Cyclical,Gambling,PNK,EQUITY
+ONEO,ONEO,State Street SPDR Russell 1000 Momentum Focus ETF,,,PCX,ETF
+TIGO,TIGO,Millicom International Cellular S.A.,Communication Services,Telecom Services,NMS,EQUITY
+FLC,FLC,Flaherty & Crumrine Total Return Fund Inc.,Financial Services,Asset Management,NYQ,EQUITY
+ENLV,ENLV,Enlivex Ltd.,Healthcare,Biotechnology,NCM,EQUITY
+RVP,RVP,"Retractable Technologies, Inc.",Healthcare,Medical Instruments & Supplies,ASE,EQUITY
+OSG,OSG,"Octave Specialty Group, Inc.",Financial Services,Insurance - Specialty,NYQ,EQUITY
+FF,FF,FutureFuel Corp.,Basic Materials,Specialty Chemicals,NYQ,EQUITY
+BGR,BGR,BlackRock Energy and Resources Trust,Financial Services,Asset Management,NYQ,EQUITY
+BIB,BIB,ProShares Ultra Nasdaq Biotechnology,,,NGM,ETF
+ELMD,ELMD,"Electromed, Inc.",Healthcare,Medical Devices,ASE,EQUITY
+DZSI,DZSI,DZS Inc.,Technology,Communication Equipment,PNK,EQUITY
+DGRS,DGRS,WisdomTree U.S. SmallCap Quality Dividend Growth Fund,,,NGM,ETF
+CBON,CBON,VanEck China Bond ETF,,,PCX,ETF
+VAPO,VAPO,,,,,NONE
+FTSL,FTSL,First Trust Senior Loan Fund,,,NGM,ETF
+GLQ,GLQ,Clough Global Equity Fund,Financial Services,Asset Management,ASE,EQUITY
+ASLN,ASLN,,,,,NONE
+SUPV,SUPV,Grupo Supervielle S.A.,Financial Services,Banks - Regional,NYQ,EQUITY
+CHW,CHW,Calamos Global Dynamic Income Fund,Financial Services,Asset Management,NGM,EQUITY
+FPAY,FPAY,"FlexShopper, Inc.",Industrials,Rental & Leasing Services,PNK,EQUITY
+RXL,RXL,ProShares Ultra Health Care,,,PCX,ETF
+CPHI,CPHI,"China Pharma Holdings, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,ASE,EQUITY
+CLM,CLM,"Cornerstone Strategic Investment Fund, Inc.",Financial Services,Asset Management,ASE,EQUITY
+AJX,AJX,,,,,NONE
+DTEC,DTEC,ALPS Disruptive Technologies ETF,,,PCX,ETF
+DBGR,DBGR,Xtrackers MSCI Germany Hedged Equity ETF,,,PCX,ETF
+PFXF,PFXF,VanEck Preferred Securities ex Financials ETF,,,PCX,ETF
+EIGR,EIGR,,,,,NONE
+LARK,LARK,"Landmark Bancorp, Inc.",Financial Services,Banks - Regional,NGM,EQUITY
+SPPP,SPPP,Sprott Physical Platinum & Palladium Tr,,,ASE,EQUITY
+DBP,DBP,Invesco DB Precious Metals Fund,,,PCX,ETF
+TBT,TBT,ProShares UltraShort 20+ Year Treasury,,,PCX,ETF
+AVGR,AVGR,,,,,NONE
+XLG,XLG,Invesco S&P 500 Top 50 ETF,,,PCX,ETF
+FNWB,FNWB,First Northwest Bancorp,Financial Services,Banks - Regional,NGM,EQUITY
+DIVB,DIVB,iShares Core Dividend ETF,,,BTS,ETF
+HURC,HURC,"Hurco Companies, Inc.",Industrials,Specialty Industrial Machinery,NMS,EQUITY
+ERC,ERC,Allspring Multi-Sector Income Fund,Financial Services,Asset Management,ASE,EQUITY
+KCE,KCE,State Street SPDR S&P Capital Markets ETF,,,PCX,ETF
+FXU,FXU,First Trust Utilities AlphaDEX Fund,,,PCX,ETF
+BOND,BOND,PIMCO Active Bond Exchange-Traded Fund,,,NYQ,ETF
+SVRA,SVRA,Savara Inc.,Healthcare,Biotechnology,NMS,EQUITY
+HIE,HIE,,,,,NONE
+FNDE,FNDE,Schwab Fundamental Emerging Markets Equity ETF,,,PCX,ETF
+EDN,EDN,Empresa Distribuidora y Comercializadora Norte Sociedad Anónima,Utilities,Utilities - Regulated Electric,NYQ,EQUITY
+TRX,TRX,TRX Gold Corporation,Basic Materials,Gold,ASE,EQUITY
+HEEM,HEEM,iShares Currency Hedged MSCI Emerging Markets ETF,,,BTS,ETF
+CAF,CAF,"Morgan Stanley China A Share Fund, Inc.",Financial Services,Asset Management,NYQ,EQUITY
+BELFA,BELFA,Bel Fuse Inc.,Technology,Electronic Components,NMS,EQUITY
+VXZ,VXZ,iPath Series B S&P 500 VIX Mid-Term Futures ETN,,,BTS,ETF
+FAMI,FAMI,"Farmmi, Inc.",Consumer Defensive,Packaged Foods,NCM,EQUITY
+DJP,DJP,iPath Bloomberg Commodity Index Total Return(SM) ETN,,,PCX,ETF
+GLDI,GLDI,UBS ETRACS Gold Shares Covered Call ETN,,,NGM,ETF
+DBJP,DBJP,Xtrackers MSCI Japan Hedged Equity ETF,,,PCX,ETF
+USLM,USLM,"United States Lime & Minerals, Inc.",Basic Materials,Building Materials,NMS,EQUITY
+CHCI,CHCI,"Comstock Holding Companies, Inc.",Real Estate,Real Estate Services,NCM,EQUITY
+CXH,CXH,MFS Investment Grade Municipal Trust,Financial Services,Asset Management,NYQ,EQUITY
+SZK,SZK,ProShares UltraShort Consumer Staples,,,PCX,ETF
+MTEX,MTEX,"Mannatech, Incorporated",Consumer Defensive,Food Distribution,NCM,EQUITY
+NESR,NESR,National Energy Services Reunited Corp.,Energy,Oil & Gas Equipment & Services,NCM,EQUITY
+KB,KB,KB Financial Group Inc.,Financial Services,Banks - Regional,NYQ,EQUITY
+PIXY,PIXY,,,,,NONE
+NIM,NIM,Nuveen Select Maturities Municipal Fund,Financial Services,Asset Management,NYQ,EQUITY
+CTXR,CTXR,"Citius Pharmaceuticals, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+CALF,CALF,Pacer US Small Cap Cash Cows 100 ETF,,,BTS,ETF
+TFI,TFI,State Street SPDR Nuveen ICE Municipal Bond ETF,,,PCX,ETF
+BH,BH,Biglari Holdings Inc.,Consumer Cyclical,Restaurants,NYQ,EQUITY
+GBLI,GBLI,"Global Indemnity Group, LLC",Financial Services,Insurance - Property & Casualty,NMS,EQUITY
+AGZ,AGZ,iShares Agency Bond ETF,,,PCX,ETF
+CNFR,CNFR,,,,,
+TGEN,TGEN,Tecogen Inc.,Industrials,Electrical Equipment & Parts,ASE,EQUITY
+MOGU,MOGU,MOGU Inc.,Consumer Cyclical,Internet Retail,NYQ,EQUITY
+VKI,VKI,Invesco Advantage Municipal Income Trust II,Financial Services,Asset Management,ASE,EQUITY
+FLTR,FLTR,VanEck IG Floating Rate ETF,,,PCX,ETF
+NAN,NAN,Nuveen New York Quality Municipal Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+BATT,BATT,Amplify Lithium & Battery Technology ETF,,,PCX,ETF
+UAVS,UAVS,"AgEagle Aerial Systems, Inc.",Technology,Computer Hardware,ASE,EQUITY
+DXYN,DXYN,"The Dixie Group, Inc.",Consumer Cyclical,Textile Manufacturing,OQB,EQUITY
+EXG,EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+FEUZ,FEUZ,First Trust Eurozone AlphaDEX ETF,,,NGM,ETF
+CANG,CANG,Cango Inc.,Financial Services,Capital Markets,NYQ,EQUITY
+PXI,PXI,Invesco DWA Energy Momentum ETF,,,NGM,ETF
+NRK,NRK,Nuveen New York AMT-Free Quality Municipal Income Fund,Financial Services,Asset Management,NYQ,EQUITY
+OSS,OSS,"One Stop Systems, Inc.",Technology,Computer Hardware,NCM,EQUITY
+FEM,FEM,First Trust Emerging Markets AlphaDEX Fund,,,NGM,ETF
+HEWG,HEWG,iShares Currency Hedged MSCI Germany ETF,,,NGM,ETF
+PRFZ,PRFZ,Invesco RAFI US 1500 Small-Mid ETF,,,NGM,ETF
+HNNA,HNNA,"Hennessy Advisors, Inc.",Financial Services,Asset Management,NGM,EQUITY
+EELV,EELV,Invesco S&P Emerging Markets Low Volatility ETF,,,PCX,ETF
+NPK,NPK,"National Presto Industries, Inc.",Industrials,Aerospace & Defense,NYQ,EQUITY
+KORU,KORU,Direxion Daily South Korea Bull 3X Shares,,,PCX,ETF
+CMBS,CMBS,iShares CMBS ETF,,,PCX,ETF
+REPL,REPL,"Replimune Group, Inc.",Healthcare,Biotechnology,NMS,EQUITY
+CBAT,CBAT,"CBAK Energy Technology, Inc.",Industrials,Electrical Equipment & Parts,NCM,EQUITY
+RCEL,RCEL,"AVITA Medical, Inc.",Healthcare,Medical Devices,NCM,EQUITY
+AUBN,AUBN,"Auburn National Bancorporation, Inc.",Financial Services,Banks - Regional,NGM,EQUITY
+EVBN,EVBN,,,,,NONE
+BDRY,BDRY,Breakwave Dry Bulk Shipping ETF,,,PCX,ETF
+GNMA,GNMA,iShares GNMA Bond ETF,,,NGM,ETF
+EUM,EUM,ProShares Short MSCI Emerging Markets,,,PCX,ETF
+RLMD,RLMD,"Relmada Therapeutics, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+JHI,JHI,John Hancock Investors Trust,Financial Services,Asset Management,NYQ,EQUITY
+BNY,BNY,BlackRock New York Municipal Income Trust,Financial Services,Asset Management,NYQ,EQUITY
+EDIV,EDIV,State Street SPDR S&P Emerging Markets Dividend ETF,,,PCX,ETF
+ATHE,ATHE,Alterity Therapeutics Limited,Healthcare,Biotechnology,NCM,EQUITY
+BTA,BTA,BlackRock Long-Term Municipal Advantage Trust,Financial Services,Asset Management,NYQ,EQUITY
+UWM,UWM,ProShares Ultra Russell2000,,,PCX,ETF
+CDTX,CDTX,"Cidara Therapeutics, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+VEGI,VEGI,iShares MSCI Agriculture Producers ETF,,,PCX,ETF
+DGT,DGT,State Street SPDR Global Dow ETF,,,PCX,ETF
+DMO,DMO,Western Asset Mortgage Opportunity Fund Inc.,Financial Services,Asset Management,NYQ,EQUITY
+AREC,AREC,American Resources Corporation,Basic Materials,Coking Coal,NCM,EQUITY
+GUT,GUT,The Gabelli Utility Trust,Financial Services,Asset Management,NYQ,EQUITY
+BLE,BLE,BlackRock Municipal Income Trust II,Financial Services,Asset Management,NYQ,EQUITY
+BLW,BLW,BlackRock Limited Duration Income Trust,Financial Services,Asset Management,NYQ,EQUITY
+EES,EES,WisdomTree U.S. SmallCap Earnings Fund,,,PCX,ETF
+CAPR,CAPR,"Capricor Therapeutics, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+DPST,DPST,Direxion Daily Regional Banks Bull 3X Shares,,,PCX,ETF
+BHV,BHV,BlackRock Virginia Municipal Bond Trust,Financial Services,Asset Management,NYQ,EQUITY
+LEGH,LEGH,Legacy Housing Corporation,Consumer Cyclical,Residential Construction,NMS,EQUITY
+XMHQ,XMHQ,Invesco S&P MidCap Quality ETF,,,PCX,ETF
+BCDA,BCDA,"BioCardia, Inc.",Healthcare,Biotechnology,NCM,EQUITY
+OPTN,OPTN,,,,,NONE
+XIN,XIN,,,,,NONE
+BANX,BANX,ArrowMark Financial Corp.,Financial Services,Asset Management,NGM,EQUITY
+DBE,DBE,Invesco DB Energy Fund,,,PCX,ETF
