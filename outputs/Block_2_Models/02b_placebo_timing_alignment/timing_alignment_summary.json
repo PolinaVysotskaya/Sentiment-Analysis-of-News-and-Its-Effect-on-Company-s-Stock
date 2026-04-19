@@ -1,0 +1,20 @@
+{
+  "n_trade_panel_rows": 2580236.0,
+  "share_legacy_days_in_master": 0.20718453660827924,
+  "share_clean_days_in_master": 0.004434865647948482,
+  "share_intraday_days_in_master": 4.96078653270476e-05,
+  "share_unknown_days_in_master": 0.20436929025096928,
+  "share_after_close_days_in_master": 0.0008867405927209759,
+  "share_pre_open_days_in_master": 0.0035822304626398514,
+  "share_non_trading_days_in_master": 0.00040151365999079155,
+  "finbert_tone_share_articles_unknown_time": 0.9819704709769448,
+  "finbert_tone_n_articles_unknown_time": 1208133.0,
+  "finbert_tone_share_articles_pre_open": 0.0090293949110593,
+  "finbert_tone_n_articles_pre_open": 11109.0,
+  "finbert_tone_share_articles_non_trading": 0.0056977278176727,
+  "finbert_tone_n_articles_non_trading": 7010.0,
+  "finbert_tone_share_articles_after_close": 0.0031918654978603,
+  "finbert_tone_n_articles_after_close": 3927.0,
+  "finbert_tone_share_articles_intraday": 0.0001105407964626,
+  "finbert_tone_n_articles_intraday": 136.0
+}
